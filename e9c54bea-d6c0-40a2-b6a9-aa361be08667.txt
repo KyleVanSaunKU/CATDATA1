@@ -1,4 +1,0 @@
-User: I love cookies
-Bot: Cookies are great! Do you have a favorite type, like chocolate chip or oatmeal raisin?
-User: I HATE COOKIES
-Bot: That's totally okay! Everyone has different tastes. Are there any desserts or snacks you do enjoy?
