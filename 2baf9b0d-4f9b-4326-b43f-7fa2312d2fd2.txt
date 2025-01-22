@@ -2,3 +2,5 @@ User: hello
 Bot: Hello! How are you today?
 User: not bad how are you
 Bot: I'm glad to hear that! I'm doing well, thank you. What's on your mind today?
+User: asdasdasdasdasd
+Bot: It seems like there might have been a little mix-up in your message. Is there something specific you'd like to chat about or ask?
