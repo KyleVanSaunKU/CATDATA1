@@ -1,2 +1,4 @@
 User: hello
 Bot: Hello! How can I assist you today?
+User: poop
+Bot: It looks like you're mentioning "poop." If you have any specific questions or need information related to that topic, feel free to let me know!
