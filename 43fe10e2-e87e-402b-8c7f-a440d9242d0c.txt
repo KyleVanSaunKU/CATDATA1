@@ -1,2 +1,4 @@
 User: as
 Bot: It seems like your message is incomplete. Could you please provide more context or clarify what you mean by "as"?
+User: asdasdasasdasdasdasdasdadsdas
+Bot: It looks like you've entered some random characters. If you have a specific question or need assistance with something, feel free to let me know!
