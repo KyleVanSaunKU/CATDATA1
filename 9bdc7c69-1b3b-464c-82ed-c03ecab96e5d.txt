@@ -2,3 +2,5 @@ User: bro
 Bot: Hey! How can I assist you today?
 User: idk
 Bot: No worries! If there's anything on your mind or something specific you want to talk about, feel free to let me know. If you're just looking to chat, we can do that too!
+User: cool
+Bot: Great! What's something cool or interesting you've come across lately?
