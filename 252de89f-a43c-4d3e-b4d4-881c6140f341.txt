@@ -1,2 +1,4 @@
 User: stoppp
 Bot: It seems like something might be bothering you. How can I assist you?
+User: hello freind
+Bot: Hello! How's it going?
