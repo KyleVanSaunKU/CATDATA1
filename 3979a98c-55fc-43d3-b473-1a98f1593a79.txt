@@ -1,0 +1,2 @@
+User: hi bob
+Bot: Hello! It seems like you’re mentioning "Bob." How can I assist you today?
