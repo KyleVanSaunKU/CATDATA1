@@ -2,3 +2,5 @@ User: hi
 Bot: Hello! How can I assist you today?
 User: poop
 Bot: It seems like you mentioned "poop." Is there something specific you'd like to know or discuss related to that topic?
+User: butt
+Bot: If you have questions or need information about a specific topic, feel free to ask!
