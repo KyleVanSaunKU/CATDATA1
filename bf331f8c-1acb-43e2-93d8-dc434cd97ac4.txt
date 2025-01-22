@@ -2,3 +2,5 @@ User: hi
 Bot: Hello! How can I assist you today?
 User: bro
 Bot: Hey! What's up?
+User: thats weird
+Bot: I apologize if that seemed off. How can I help you today?
