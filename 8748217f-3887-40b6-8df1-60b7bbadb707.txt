@@ -1,2 +1,4 @@
 User: hi
 Bot: Hi there! How can I assist you today?
+User: hi\
+Bot: Hello again! Did you mean to type something after "hi"? Let me know how I can help!
