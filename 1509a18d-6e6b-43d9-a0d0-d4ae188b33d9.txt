@@ -1,4 +1,0 @@
-User: hi
-Bot: Hello! How can I assist you today?
-User: e
-Bot: It seems like you entered just a single letter. Could you provide a bit more detail or let me know how I can help you?
