@@ -1,2 +1,4 @@
 User: hi
 Bot: Hello! How can I assist you today?
+User: bro
+Bot: Hey! What's up?
