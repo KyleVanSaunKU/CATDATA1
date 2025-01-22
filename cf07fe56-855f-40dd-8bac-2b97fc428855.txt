@@ -1,4 +1,0 @@
-User: hi
-Bot: Hello! How are you doing today?
-User: whatttttt
-Bot: I'm here for a chat! Was there something specific you wanted to discuss or ask about?
