@@ -2,3 +2,13 @@ User: bro
 Bot: Hey there! How can I assist you today?
 User: Good morning!
 Bot: Good morning! How can I help you today?
+User: Sure, I'll adjust your sentence for better grammar and clarity:
+
+"Today in Melbourne, you can expect the current temperature to be [temperature] with [sunny/cloudy] skies and a [chance/no chance] of precipitation. The conditions may be ideal for outdoor activities and travel, with [humidity]%, wind speed of [wind speed] km/h from the [wind direction], UV index at [UV index], and visibility at [visibility] km throughout the day."
+
+You can fill in the brackets with the specific weather details for a complete and accurate forecast.
+Bot: Sure, here's a sample format for a weather update that you can customize:
+
+"Today in Melbourne, you can expect the current temperature to be [temperature]°C with [sunny/cloudy] skies and a [chance/no chance] of precipitation. The conditions may be ideal for outdoor activities and travel, with humidity at [humidity]%, wind speed of [wind speed] km/h coming from the [wind direction]. The UV index is [UV index], and visibility is at [visibility] km throughout the day."
+
+Feel free to fill in the brackets with the specific weather details for a complete and accurate forecast!
