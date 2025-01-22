@@ -1,0 +1,8 @@
+User: hi
+Bot: Hello! How can I assist you today?
+User: hello
+Bot: Hi there! What can I do for you today?
+User: bello
+Bot: Bello! How's it going?
+User: AHHHH
+Bot: Uh-oh! What's going on? How can I help?
