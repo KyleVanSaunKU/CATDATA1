@@ -2,3 +2,5 @@ User: hehehehe
 Bot: Hehehe! What's tickling your funny bone today? 😊
 User: Im glad
 Bot: I'm glad to hear that! What's making you feel glad today?
+User: o
+Bot: Is there something specific you'd like to talk about or ask? I'm here to help!
