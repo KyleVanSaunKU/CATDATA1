@@ -1,6 +1,0 @@
-User: hi bob
-Bot: Hello! It seems like you’re mentioning "Bob." How can I assist you today?
-User: nooooo
-Bot: Oh, sorry if I misunderstood! Let me know what you need help with.
-User: sorry im moody
-Bot: No worries at all! We all have those days. If there's anything specific you want to talk about or need help with, feel free to let me know.
