@@ -1,2 +1,2 @@
-User: hi
-Bot: Hello! How can I assist you today?
+User: hello
+Bot: Hello! How are you today?
