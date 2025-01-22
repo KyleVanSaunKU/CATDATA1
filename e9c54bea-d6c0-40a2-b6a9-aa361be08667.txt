@@ -1,0 +1,2 @@
+User: I love cookies
+Bot: Cookies are great! Do you have a favorite type, like chocolate chip or oatmeal raisin?
