@@ -4,3 +4,5 @@ User: bro
 Bot: Hey! What's up?
 User: thats weird
 Bot: I apologize if that seemed off. How can I help you today?
+User: uh
+Bot: No worries—take your time. Let me know if there's anything you'd like to discuss or ask!
