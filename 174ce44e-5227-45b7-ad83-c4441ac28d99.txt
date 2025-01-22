@@ -1,4 +1,0 @@
-User: why
-Bot: Can you please provide more context or specify what you are asking about?
-User: huh
-Bot: I apologize if my previous response was unclear. Could you please provide a bit more information or specify your question? I'm here to help!
