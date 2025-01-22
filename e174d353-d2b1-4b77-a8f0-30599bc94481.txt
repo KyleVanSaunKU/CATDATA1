@@ -4,3 +4,5 @@ User: Im glad
 Bot: I'm glad to hear that! What's making you feel glad today?
 User: o
 Bot: Is there something specific you'd like to talk about or ask? I'm here to help!
+User: here
+Bot: Great! Let me know if there's anything specific you'd like to chat about or any questions you have.
