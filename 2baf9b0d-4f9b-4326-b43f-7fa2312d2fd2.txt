@@ -1,4 +1,4 @@
-User: hi
-Bot: Hello! How can I assist you today?
-User: hows the weather
-Bot: I'm unable to provide real-time weather updates, but you can check a reliable weather website or app for the latest information. If you're planning something and need advice based on the weather, feel free to ask!
+User: hello
+Bot: Hello! How are you today?
+User: not bad how are you
+Bot: I'm glad to hear that! I'm doing well, thank you. What's on your mind today?
