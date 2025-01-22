@@ -1,2 +1,4 @@
 User: bruh
 Bot: What's up? How can I help you today?
+User: Good morning!
+Bot: Good morning! How can I assist you today?
