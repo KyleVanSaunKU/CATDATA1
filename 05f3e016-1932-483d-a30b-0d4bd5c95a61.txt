@@ -1,2 +1,4 @@
 User: hi
 Bot: Hello! How can I assist you today?
+User: j
+Bot: Hi there! It looks like you might have pressed "j" by accident. Is there something specific you need help with?
