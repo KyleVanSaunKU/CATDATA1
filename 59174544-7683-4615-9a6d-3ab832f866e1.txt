@@ -1,2 +1,4 @@
 User: hi
 Bot: Hello! How can I assist you today?
+User: I dont know
+Bot: That's okay! If there's anything on your mind or something you’re curious about, feel free to share. Otherwise, I'm here if you think of anything you'd like to talk about or ask!
