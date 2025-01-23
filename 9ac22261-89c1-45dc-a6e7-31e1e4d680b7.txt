@@ -1,4 +1,0 @@
-User: hi
-Bot: Hello! How can I assist you today?
-User: give me money
-Bot: I'm sorry, but I can't provide money. Is there anything else I can help you with?
