@@ -1,0 +1,2 @@
+User: Good afternoon!
+Bot: Good afternoon! How can I assist you today?
