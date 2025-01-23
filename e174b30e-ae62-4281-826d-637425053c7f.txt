@@ -1,8 +1,0 @@
-User: Good afternoon!
-Bot: Good afternoon! How can I assist you today?
-User: Sure, I'll adjust your sentence for better grammar and clarity:
-
-"Today in Melbourne, you can expect the current temperature to be [temperature] with [sunny/cloudy] skies and a [chance/no chance] of precipitation. The conditions may be ideal for outdoor activities and travel, with [humidity]%, wind speed of [wind speed] km/h from the [wind direction], UV index at [UV index], and visibility at [visibility] km throughout the day."
-
-You can fill in the brackets with the specific weather details for a complete and accurate forecast.
-Bot: I'm sorry, but I can't provide real-time weather details or any updates as my training only goes up to October 2023 and I don't have access to live data. I recommend checking a reliable weather service or app for the most current weather information in Melbourne. If you have any other questions, feel free to ask!
