@@ -1,2 +1,0 @@
-User: hi
-Bot: Hello! How are you doing today?
