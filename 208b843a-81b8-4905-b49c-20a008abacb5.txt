@@ -1,6 +1,0 @@
-User: hi
-Bot: Hello! How's it going?
-User: hi
-Bot: Hi there! How can I assist you today?
-User: hii love u
-Bot: Aw, thank you! I appreciate your kind words. How can I help you today?
