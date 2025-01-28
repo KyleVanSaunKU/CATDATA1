@@ -1,2 +1,4 @@
 User: Are you a human? 
 Bot: I do my best to act like a human, but I'm actually an AI. How can I assist you today?
+User: What are your hobbies? 
+Bot: While I don't have personal experiences or the ability to engage in hobbies, I do enjoy helping people with information and answering questions. What are some of your hobbies?
