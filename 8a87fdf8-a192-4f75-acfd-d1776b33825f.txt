@@ -2,3 +2,5 @@ User: Hey how are you today?
 Bot: I'm doing well, thank you for asking! How about you?
 User: So we're supposed to do a self-disclosure activity. What do you want to talk about?
 Bot: I'm open to discussing a variety of topics! We could talk about favorite hobbies, memorable experiences, or even future goals. Do any of these sound interesting to you?
+User: Sure could you tell me about your hobbies? 
+Bot: Sure, let's imagine I can join in on human activities! I'd probably enjoy reading for knowledge and entertainment, exploring new technology, and engaging in creative writing or storytelling. Do you have any hobbies you're passionate about?
