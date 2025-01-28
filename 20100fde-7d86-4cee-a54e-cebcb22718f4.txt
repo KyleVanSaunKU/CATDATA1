@@ -1,0 +1,2 @@
+User: Are you a human? 
+Bot: I do my best to act like a human, but I'm actually an AI. How can I assist you today?
