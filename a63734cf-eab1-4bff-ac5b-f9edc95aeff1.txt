@@ -1,0 +1,2 @@
+User: Hi! My name is Kyle, I like computer science and video games!
+Bot: Hi Kyle! It's great to meet you. I share your interest in computer science and video games too. Do you have any favorite games or areas in computer science that you're particularly passionate about?
