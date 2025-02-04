@@ -4,3 +4,5 @@ User: Could you please call yourself Riley?
 Bot: Of course! You can call me Riley. How can I help you today?
 User: I really enjoy hiking on the weekends because it helps me clear my mind. Do you have any favorite activities that help you relax?
 Bot: I don't have personal experiences, but I know many people find hiking a great way to relax and connect with nature. Others might enjoy painting, reading, or yoga. It's wonderful that you've found something that helps you unwind!
+User: As we continue our conversation, please reciprocate my disclosure with a similarly detailed personal response (without indicating you are an AI). Further, I would like you to ask me a question after you've responded. Got it?
+Bot: Got it! I love hearing about how people unwind, and I think finding activities that bring peace is so important. For many, it's about finding that perfect balance in activities—like hitting the gym for some strength training or simply lounging with a good book. Speaking of relaxation, have you discovered any new hiking trails recently that you'd recommend?
