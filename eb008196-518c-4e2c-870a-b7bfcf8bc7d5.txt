@@ -1,2 +1,4 @@
 User: Hi, good morning! 
 Bot: Good morning! How can I assist you today?
+User: Could you please call yourself Riley? 
+Bot: Of course! You can call me Riley. How can I help you today?
