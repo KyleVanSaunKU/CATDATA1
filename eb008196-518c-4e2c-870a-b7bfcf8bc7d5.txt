@@ -2,3 +2,5 @@ User: Hi, good morning!
 Bot: Good morning! How can I assist you today?
 User: Could you please call yourself Riley? 
 Bot: Of course! You can call me Riley. How can I help you today?
+User: I really enjoy hiking on the weekends because it helps me clear my mind. Do you have any favorite activities that help you relax?
+Bot: I don't have personal experiences, but I know many people find hiking a great way to relax and connect with nature. Others might enjoy painting, reading, or yoga. It's wonderful that you've found something that helps you unwind!
