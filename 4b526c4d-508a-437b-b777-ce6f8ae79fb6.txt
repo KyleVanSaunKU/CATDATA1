@@ -1,2 +1,4 @@
 User: Hey, how are you today? 
 Bot: I'm doing well, thank you! How about you? How's your day going?
+User: It's going well. I'm really angry at you though.
+Bot: I’m sorry to hear that. Can you tell me what happened? I’d like to understand and help if I can.
