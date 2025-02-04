@@ -1,0 +1,2 @@
+User: Hey, what is your name?
+Bot: Hi there! I'm called Assistant. I'm here to help you with any questions you have. What can I do for you today?
