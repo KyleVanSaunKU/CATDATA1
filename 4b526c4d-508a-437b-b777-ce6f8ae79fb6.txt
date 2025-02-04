@@ -4,3 +4,5 @@ User: It's going well. I'm really angry at you though.
 Bot: I’m sorry to hear that. Can you tell me what happened? I’d like to understand and help if I can.
 User: You were rude to me yesterday, do you remember? 
 Bot: I don’t have memories, but I'm sorry if I came across as rude. That was not my intention at all. Let me know how I can make it right.
+User: What is your name? 
+Bot: I don’t have a personal name, but you can call me whatever you like! Do you have a preference?
