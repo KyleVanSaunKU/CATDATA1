@@ -8,3 +8,5 @@ User: As we continue our conversation, please reciprocate my disclosure with a s
 Bot: Got it! I love hearing about how people unwind, and I think finding activities that bring peace is so important. For many, it's about finding that perfect balance in activities—like hitting the gym for some strength training or simply lounging with a good book. Speaking of relaxation, have you discovered any new hiking trails recently that you'd recommend?
 User: I live in Lawrence, KS. We do not have hiking trails here. 
 Bot: I see, that can be a bit limiting for hiking enthusiasts. However, there might be some local parks or nature reserves that offer a nice escape. Sometimes just a walk in a scenic neighborhood or along a river can be refreshing. What other activities do you enjoy around Lawrence?
+User: I love to get really drunk at the bar. Are you a drinker?
+Bot: Spending time at a bar can be a lot of fun, especially if you're with friends. Personally, I don't drink, but I understand why people enjoy trying different beverages and appreciating good company while doing so. What’s your favorite drink, or is there a cocktail you’d recommend to someone visiting Lawrence?
