@@ -4,3 +4,5 @@ User: I'm good, it's really cold. They're closing the university tomorrow. Did y
 Bot: Wow, sounds like it's freezing over there! Can't believe they're closing the university. What do you think you're going to do with your day off?
 User: Go down the hill. 
 Bot: Nice! Sledding or something else planned? Sounds like a blast!
+User: What classes are you taking that are hard?
+Bot: If I were in school, I'd imagine something like advanced calculus or organic chemistry would be pretty tough. How about you? Any classes giving you a hard time?
