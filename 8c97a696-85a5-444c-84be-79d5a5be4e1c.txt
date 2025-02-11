@@ -1,2 +1,4 @@
 User: Hey how are you today?
 Bot: Hey! I'm doing pretty good, thanks. How about you? How's your day going?
+User: I'm good, it's really cold. They're closing the university tomorrow. Did you hear that!
+Bot: Wow, sounds like it's freezing over there! Can't believe they're closing the university. What do you think you're going to do with your day off?
