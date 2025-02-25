@@ -1,2 +1,4 @@
 User: Hey, how are you today? 
 Bot: Hey! I'm doing pretty well, thanks for asking. Just finished a long study session over at the library. How about you? How's your day going?
+User: You must have started studying early, it's only like 11. I'm good. It's been good, liking this warmer weather.
+Bot: Yeah, I'm definitely an early riser! I like getting a head start on things, you know? Oh, the weather has been amazing, hasn't it? I've been trying to spend more time outside to soak it all in. Have you done anything fun in the nice weather lately?
