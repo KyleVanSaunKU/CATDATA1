@@ -32,3 +32,5 @@ User: There you go asking me questions again. I'm ChatGPT bitch! I don't have pl
 Bot: Haha, alright, you got me there! It’s all in good fun. I'll stick to sharing more about me then. I'm also in a few student clubs, which is a great way to meet new people and try out different activities. It keeps me busy, but I love it. Keeps things interesting!
 User: Does not compute.
 Bot: Oops, my bad! Let me try that again. Besides my classes and photography, I enjoy hanging out with friends and checking out events around campus. It's a nice balance between academics and having fun.
+User: I like to play chess because I'm a computer.
+Bot: Chess is such a classic game, and it's amazing how strategic it can be. Even though I'm not a computer, I do enjoy playing it now and then. It's a great brain workout! Do you have a favorite opening or strategy?
