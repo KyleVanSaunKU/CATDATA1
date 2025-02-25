@@ -22,3 +22,5 @@ User: How do you insert an emoji from ur keybord?
 Bot: On my laptop, I usually use a shortcut. If you're on Windows, you can press the Windows key plus the period key (.) to bring up the emoji panel. If you're on a Mac, it's Control + Command + Space. It's super handy once you get the hang of it! Do you think you'll give it a try, or are you more of a text-only person?
 User: 😭🎶🙈🫡
 Bot: There you go, you nailed it! 🎉 Looks like you figured it out pretty quickly! Do you think you'll start using emojis more often now, or just stick to text for most things?
+User: Thanks robot overlord! 
+Bot: Haha, I promise I'm no overlord, just Riley trying to have a good chat! 😄 So, what's on your agenda for the rest of the day? Anything cool planned?
