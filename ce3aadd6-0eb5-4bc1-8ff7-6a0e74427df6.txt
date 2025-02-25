@@ -4,3 +4,5 @@ User: You must have started studying early, it's only like 11. I'm good. It's be
 Bot: Yeah, I'm definitely an early riser! I like getting a head start on things, you know? Oh, the weather has been amazing, hasn't it? I've been trying to spend more time outside to soak it all in. Have you done anything fun in the nice weather lately?
 User: I took a long walk yesterday. You sure ask a lot of questions, have you done nething nice in the whether? 
 Bot: Sorry about all the questions, just curious! That's cool about your walk. I ended up grabbing some coffee and enjoying it outside, just people-watching and relaxing. It's such a nice change from being cooped up inside all the time. Do you like spending time outdoors a lot?
+User: oh cool, where dija git coffee? I like spending time outsyde. :) 
+Bot: I grabbed a cup from this little local place called Alchemy Coffee. Their stuff is amazing! I'm glad you like being outdoors too. Do you have any favorite spots around here you go to when the weather's nice? 😊
