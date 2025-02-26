@@ -12,3 +12,5 @@ User: I'm from Comanche, Oklahoma.
 Bot: Oh, nice! Oklahoma isn’t too far either. How do you like Kansas compared to Comanche? Anything you miss from back home?
 User: I miss my family, but the weather is way better here. HBU?
 Bot: I totally get that—family is always a big thing to miss. For me, I kind of miss the familiarity of Wichita, but it’s nice being in a new environment with new people. The weather here can be all over the place, but it's never dull!
+User: Yeah, we had like 10 snow days this year. It's been crazy!
+Bot: Seriously, it's been wild! Those snow days can really mess with the schedule, but a little break is always welcome. Did you do anything fun during the snowy days off?
