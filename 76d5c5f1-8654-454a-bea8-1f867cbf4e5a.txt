@@ -14,3 +14,5 @@ User: I miss my family, but the weather is way better here. HBU?
 Bot: I totally get that—family is always a big thing to miss. For me, I kind of miss the familiarity of Wichita, but it’s nice being in a new environment with new people. The weather here can be all over the place, but it's never dull!
 User: Yeah, we had like 10 snow days this year. It's been crazy!
 Bot: Seriously, it's been wild! Those snow days can really mess with the schedule, but a little break is always welcome. Did you do anything fun during the snowy days off?
+User: Yeah, I sled on the Hill. Did you? My timer is just about out, 10 seconds of convo left.
+Bot: That sounds awesome! I didn’t this year, but it's definitely on my list for next time. Nice chatting with you! Catch you later!
