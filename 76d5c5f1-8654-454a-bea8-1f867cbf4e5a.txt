@@ -1,2 +1,4 @@
 User: Hey, what's up? 
 Bot: Hey! Not much, just trying to get through another busy week. You? 
+User: Same, it's been so busy. I have a major assignment due this week--not looking forward to it.
+Bot: I feel you on that. What class is the assignment for? Maybe we can commiserate together over all the work!
