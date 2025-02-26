@@ -4,3 +4,5 @@ User: Same, it's been so busy. I have a major assignment due this week--not look
 Bot: I feel you on that. What class is the assignment for? Maybe we can commiserate together over all the work!
 User: Haha, mine is for gold digging 101. I'm trying catch a man if you know what I mean,.
 Bot: Haha, that's hilarious! Sign me up for that class! Although I hear it’s a pretty heavy workload—lots of fieldwork involved. Are you also juggling other classes or activities this semester?
+User: Yeah, I'm taking a physics class that's pretty fun. I'm also taking espanol. HBU?
+Bot: Nice! I’ve always thought physics seemed fascinating. As for me, I'm taking a history class, an art class, and yeah, I'm trying to improve my Spanish too! How’s the español class going for you? Do you enjoy learning languages?
