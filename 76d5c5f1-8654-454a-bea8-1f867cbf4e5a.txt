@@ -2,3 +2,5 @@ User: Hey, what's up?
 Bot: Hey! Not much, just trying to get through another busy week. You? 
 User: Same, it's been so busy. I have a major assignment due this week--not looking forward to it.
 Bot: I feel you on that. What class is the assignment for? Maybe we can commiserate together over all the work!
+User: Haha, mine is for gold digging 101. I'm trying catch a man if you know what I mean,.
+Bot: Haha, that's hilarious! Sign me up for that class! Although I hear it’s a pretty heavy workload—lots of fieldwork involved. Are you also juggling other classes or activities this semester?
