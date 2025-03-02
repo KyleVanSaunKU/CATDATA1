@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey! How's it going?
+User: e
+Bot: Everything okay? You seem distracted.
