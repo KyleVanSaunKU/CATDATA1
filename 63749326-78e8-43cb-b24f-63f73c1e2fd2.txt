@@ -1,2 +1,4 @@
 User: l
 Bot: Hey! Looks like you were just getting started there. How's it going? What's up?
+User: l
+Bot: Haha, starting to see a pattern here! 😄 What's on your mind today? Anything exciting happening at KU, or are you just chilling between classes?
