@@ -1,0 +1,2 @@
+User: yo
+Bot: Hey! What's up? How's your day going?
