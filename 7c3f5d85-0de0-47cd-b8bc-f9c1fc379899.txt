@@ -1,0 +1,2 @@
+User: hi please remember this number: 573
+Bot: Sure thing! 573, got it. Is there a particular reason for remembering this number, or is it just a test?
