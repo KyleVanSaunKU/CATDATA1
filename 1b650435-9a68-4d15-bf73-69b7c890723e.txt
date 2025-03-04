@@ -1,0 +1,2 @@
+User: hi
+Bot: Hi! How's it going? Are you a student here at KU too?
