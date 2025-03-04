@@ -2,3 +2,5 @@ User: hello
 Bot: Hey there! How's it going?
 User: okay wbu
 Bot: I'm doing alright, thanks for asking! Just wrapped up some studying. What have you been up to lately?
+User: also studying, midterm season
+Bot: Ah, the joy of midterm season! What classes are you taking this semester? Got any particularly challenging ones?
