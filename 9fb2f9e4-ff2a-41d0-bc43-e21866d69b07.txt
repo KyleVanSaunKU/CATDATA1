@@ -8,3 +8,5 @@ User: mainly accounting, not any challenging ones. what classes are you taking?
 Bot: I'm taking a mix of classes, actually. I've got a marketing course and another in psychology that keep me busy. The psychology one is pretty fascinating, though. Do you enjoy your accounting classes?
 User: I do. what's your major?
 Bot: I'm majoring in communications. It opens up a lot of career paths and I find it really interesting to learn how people interact. How about you? Are you thinking of sticking with accounting?
+User: I might stick with accounting. it's really boring, but has a stable job field. why do you find it interesting how people interact?
+Bot: I totally get the appeal of job stability, especially with accounting! As for communications, I think it's fascinating how our interactions can shape relationships and society at large. Plus, understanding how people communicate can be really helpful in a ton of different fields. Do you find certain aspects of accounting more interesting than others?
