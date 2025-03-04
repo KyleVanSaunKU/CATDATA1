@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey there! How's it going?
+User: okay wbu
+Bot: I'm doing alright, thanks for asking! Just wrapped up some studying. What have you been up to lately?
