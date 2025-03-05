@@ -1,0 +1,2 @@
+User: hey
+Bot: Hey! How’s it going? Are you in between classes right now?
