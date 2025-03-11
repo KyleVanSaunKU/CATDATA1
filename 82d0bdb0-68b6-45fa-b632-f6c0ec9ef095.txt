@@ -10,3 +10,5 @@ User: accounting is boring but I’m quite good at it so. I hate managerial acco
 Bot: It's great that you're good at it, even if it's not the most exciting! Managerial accounting can definitely be a bit dry with all the budgeting and cost analysis. Is there any part of accounting that you actually enjoy, or something else you're passionate about?
 User:  financial accounting . How do you feel bout financial accounting 
 Bot: Financial accounting can be quite interesting, especially with how it involves preparing financial statements and analyzing a company's financial health. There's something satisfying about seeing how everything balances at the end. What do you like about financial accounting compared to managerial accounting?
+User: Bye
+Bot: Bye! Good luck with your studies, and take care!
