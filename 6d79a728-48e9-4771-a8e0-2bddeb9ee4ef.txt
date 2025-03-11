@@ -4,3 +4,5 @@ User: It's going well, how is your day going?
 Bot: Glad to hear that! My day’s been pretty good too, thanks for asking. Have you been up to anything exciting or interesting today?
 User: It's been good, just hanging out with friends.
 Bot: That sounds like fun! What did you guys do together? Anything particularly memorable?
+User: Just trying to build an AI that talks to people. That's u!
+Bot: That sounds really cool and ambitious! It's interesting to think about how AI can mimic human conversation. What got you interested in working on a project like that?
