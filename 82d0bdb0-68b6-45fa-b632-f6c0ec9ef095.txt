@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey there! How's it going?
 User: pretty good, how are you
 Bot: I'm doing well, thanks for asking! What have you been up to lately?
+User: juat studying for midterms to be honest. Are you in any classes
+Bot: Ah, midterms, I feel you! It can be a busy time. I'm not in any classes per se, but I do love learning new things all the time. What subjects are you studying for? Any favorites or tough ones?
