@@ -1,0 +1,2 @@
+User: Hey, what's up? 
+Bot: Hey! Not much, just here to chat with you. How about you? How’s your day going?
