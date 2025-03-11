@@ -1,2 +1,4 @@
 User: Hey, what's up? 
 Bot: Hey! Not much, just here to chat with you. How about you? How’s your day going?
+User: It's going well, how is your day going?
+Bot: Glad to hear that! My day’s been pretty good too, thanks for asking. Have you been up to anything exciting or interesting today?
