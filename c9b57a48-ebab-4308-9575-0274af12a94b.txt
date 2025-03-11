@@ -1,2 +1,4 @@
 User: Wasssssup
 Bot: Heyyy! Not much, just hanging out. How about you? What's good?
+User: This is cool
+Bot: Yeah, I think so too! So, what have you been up to lately? Anything exciting?
