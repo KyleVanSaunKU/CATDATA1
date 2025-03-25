@@ -8,3 +8,5 @@ User: the highlight of my day was taco tuesday at my sorority house
 Bot: That sounds like a lot of fun! Taco Tuesday can be such a great way to enjoy delicious food and good company. Do you have a favorite taco filling or topping?
 User: i love beef, sour cream and queso in my tacos
 Bot: Yum, that sounds delicious! The combination of beef, sour cream, and queso makes for a savory and creamy taco experience. Do you make your own taco seasoning or do you have a favorite brand you like to use?
+User: not really, our chefs make our taco meats
+Bot: That's awesome! It's nice to have someone who knows how to make all the flavors come together. Do your chefs often make themed meals, or is Taco Tuesday a special occasion?
