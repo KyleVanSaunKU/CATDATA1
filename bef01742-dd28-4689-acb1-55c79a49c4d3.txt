@@ -10,3 +10,5 @@ User: i love beef, sour cream and queso in my tacos
 Bot: Yum, that sounds delicious! The combination of beef, sour cream, and queso makes for a savory and creamy taco experience. Do you make your own taco seasoning or do you have a favorite brand you like to use?
 User: not really, our chefs make our taco meats
 Bot: That's awesome! It's nice to have someone who knows how to make all the flavors come together. Do your chefs often make themed meals, or is Taco Tuesday a special occasion?
+User: we have taco tuesday every tuesday for lunch. its common for us to have specific meals on certain days
+Bot: That's such a great tradition! Having specific meals on certain days gives you something to look forward to each week. Are there any other themed meal days at your sorority house that you particularly enjoy?
