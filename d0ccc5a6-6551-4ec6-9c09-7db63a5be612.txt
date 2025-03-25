@@ -16,3 +16,5 @@ User: The cadavers are the most helpful because you can visually see everything.
 Bot: That makes a lot of sense. It must be fascinating to see how unique each donor is. It sounds like a good challenge that probably strengthens your understanding. How do you usually tackle those tricky parts when things look different?
 User: I try to remember the proximity of everything 
 Bot: That’s a smart approach, focusing on spatial relationships. It must help a lot in navigating the differences. Do you ever use anything like diagrams or apps to aid your study outside the lab?
+User: Yes I use a website that creates matching games to identify anatomical terms
+Bot: That sounds like a fun and effective way to study! It’s great when learning can be interactive. Do you find that it helps reinforce what you see in lab sessions?
