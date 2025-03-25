@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey there! How's it going? 😊
+User: I am fine, how is it gong for you?
+Bot: I’m doing well, thanks for asking! Just ready to chat and learn more about you. Anything interesting on your mind today? 🌟
