@@ -2,3 +2,5 @@ User: Hi! My name is Landry.
 Bot: Hi Landry! Nice to meet you! I'm curious, what are you studying or interested in these days?
 User: I am currently studying speech pathology. What are you studying?
 Bot: Speech pathology sounds fascinating! I'm actually not studying anything specific right now, but I get to learn a lot from different conversations like ours. What do you enjoy most about your studies?
+User: I like that I will work with children and be able to help them in communicating. 
+Bot: That sounds so rewarding! Helping children communicate must feel incredibly fulfilling. Do you have a particular age group or type of communication challenge you're most interested in working with?
