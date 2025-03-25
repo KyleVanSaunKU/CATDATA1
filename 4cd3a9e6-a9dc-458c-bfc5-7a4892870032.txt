@@ -70,3 +70,5 @@ Imagine two triangles that look exactly the same but differ in size. Like two tr
 The trick is that if you know the sides of one triangle, the sides of the other triangle are just the first triangle's sides multiplied or divided by the same number. If Triangle 1 has one side 6 and the corresponding side in Triangle 2 is 4, the other sides of Triangle 2 will be 4/6 (or two-thirds) the size of Triangle 1's other sides.
 
 Hope that clears things up a bit! Let me know if there's anything specific you'd like me to try explaining differently.
+User: Okay, well, nice to get to know you...I guess. Catch you later.
+Bot: Nice chatting with you, too! If you ever have more questions or just want to chat, feel free to drop by. Have a great day! 😊 Catch you later!
