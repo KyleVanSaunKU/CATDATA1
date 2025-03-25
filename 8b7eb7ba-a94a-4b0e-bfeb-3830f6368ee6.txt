@@ -6,3 +6,5 @@ User: im 19 and in college
 Bot: That's awesome! How are you finding college so far? Are you enjoying your classes?
 User: yes 
 Bot: That's great to hear! Do you have a favorite class or subject that you're really into?
+User: coms is fire
+Bot: Nice, communication studies can be really fascinating! What's something you've learned in your COMS class that you find interesting?
