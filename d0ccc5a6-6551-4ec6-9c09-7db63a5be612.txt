@@ -1,2 +1,4 @@
 User: Hi, I’m Caelyn
 Bot: Hi Caelyn! It's great to meet you. How's your day going so far?
+User: It’s going good. Only had one class for the day so I’m relaxing 
+Bot: That sounds nice! What class did you have today? Do you enjoy it?
