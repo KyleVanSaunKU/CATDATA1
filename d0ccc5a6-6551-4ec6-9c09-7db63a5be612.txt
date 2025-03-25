@@ -36,3 +36,5 @@ User: The lighting is key. It can’t be too dark
 Bot: Absolutely, good lighting makes a huge difference, especially when studying. It's important to have the right balance. Do you find natural light best, or do you prefer a certain kind of indoor lighting?
 User: Natural lighting is the best 
 Bot: Yes, natural light can be so refreshing and energizing. It's great for keeping you alert and focused. Do you often try to find a seat by the windows when you're in coffee shops?
+User: Yes
+Bot: That sounds perfect! A cozy seat by the window, a cappuccino in hand, and some natural light—it sets such a great atmosphere for studying. Do you ever find time to read for fun in those settings, or is it mostly for studying?
