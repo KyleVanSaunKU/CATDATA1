@@ -1,0 +1,2 @@
+User: Hi! My name is Landry.
+Bot: Hi Landry! Nice to meet you! I'm curious, what are you studying or interested in these days?
