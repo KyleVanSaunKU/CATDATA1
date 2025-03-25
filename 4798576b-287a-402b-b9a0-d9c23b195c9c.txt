@@ -4,3 +4,5 @@ User: I am doing well too! Today has been pretty good! I had 1 class today and a
 Bot: I'm glad to hear your day has been good! It's great to take a break after class. My day has been pretty good too. I've been busy interacting and learning from various conversations. What class did you have? Anything interesting happen in it?
 User: My class is East Asian Communication. It was pretty interesting. We learned about different styles of conflict management.
 Bot: That sounds really fascinating! Different cultures can have such unique approaches to conflict management. Were there any styles or methods that stood out to you or surprised you in some way?
+User: I think my favorite one is compromising. Do you have a favorite type of conflict management?
+Bot: Compromising is a solid choice for conflict management because it often leads to solutions that everyone can accept! If I had to choose, I'd say I find collaboration interesting, since it focuses on working together to find a win-win situation. It must be intriguing learning about all these styles. Do you have any plans to use what you've learned in real-life situations?
