@@ -6,3 +6,5 @@ User: Human Anatomy Lab
 Bot: That sounds really interesting! I bet it’s pretty hands-on. What’s your favorite part of the lab so far?
 User: I do enjoy how hands-on it is. But I like learning about everything 
 Bot: That's awesome! It's great to have a curiosity for learning. Is there a specific system or part of the body that fascinates you the most?
+User: I liked learning the muscles of the lower extremities 
+Bot: That’s really cool! The muscles in the lower extremities do so much for movement and support. Was there a specific muscle or group that stood out to you?
