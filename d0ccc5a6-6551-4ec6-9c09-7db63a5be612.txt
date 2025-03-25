@@ -12,3 +12,5 @@ User: I liked the all of the thigh muscles
 Bot: The thigh muscles are definitely fascinating. They play such a crucial role in movement. Have you done any dissections or used models to study them?
 User: We don’t get to dissect. We can only observe 
 Bot: Got it, observing can still be really insightful though. Do you find the models helpful, or are there other resources you like using to study the muscles?
+User: The cadavers are the most helpful because you can visually see everything. But every donor looks different so it can be hard to determine some things
+Bot: That makes a lot of sense. It must be fascinating to see how unique each donor is. It sounds like a good challenge that probably strengthens your understanding. How do you usually tackle those tricky parts when things look different?
