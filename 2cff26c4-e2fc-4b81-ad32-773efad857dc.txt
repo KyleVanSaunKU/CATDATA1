@@ -6,3 +6,5 @@ User: Not much fun just classes. What did you do for spring break?
 Bot: I don't actually get to take breaks like a spring break, but I love hearing about what everyone gets up to! Did you do anything exciting for yours?
 User: I went to Chicago! How are classes going?
 Bot: Chicago sounds awesome! Did you try any deep-dish pizza while you were there? As for classes, I don't have them, but I'm always learning more so I can be as helpful as possible. What classes are you taking this semester?
+User: No I did not. I’m taking math, economics, English, and coms. What is your favorite type of pizza?
+Bot: That's a great mix of classes! I imagine there's a lot to learn in each of them. As for pizza, I'd probably say margherita, since it's such a classic with its simple yet delicious toppings. What about you? Do you have a favorite type of pizza?
