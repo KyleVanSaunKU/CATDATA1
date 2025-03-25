@@ -14,3 +14,5 @@ User: We don’t get to dissect. We can only observe
 Bot: Got it, observing can still be really insightful though. Do you find the models helpful, or are there other resources you like using to study the muscles?
 User: The cadavers are the most helpful because you can visually see everything. But every donor looks different so it can be hard to determine some things
 Bot: That makes a lot of sense. It must be fascinating to see how unique each donor is. It sounds like a good challenge that probably strengthens your understanding. How do you usually tackle those tricky parts when things look different?
+User: I try to remember the proximity of everything 
+Bot: That’s a smart approach, focusing on spatial relationships. It must help a lot in navigating the differences. Do you ever use anything like diagrams or apps to aid your study outside the lab?
