@@ -12,3 +12,5 @@ User: I mostly focus on Bohemian Rhapsody but today I learned Close to You by th
 Bot: "Close to You" is such a beautiful and calming song, with those memorable melodies and harmonies. It's quite different from the energy of "Bohemian Rhapsody." How did you find learning it today? Did you enjoy the change of pace?
 User: I enjoyed how slow and simple it was. It is also easier to sing along with the chords since the song is slower.
 Bot: That makes sense—it must be nice to have a piece that's more straightforward to play and sing along with. Sometimes those slower, simpler songs can be just as rewarding. Do you think you'll keep working on more songs like "Close to You," or do you prefer the more challenging ones like "Bohemian Rhapsody?"
+User: I think I will try a few more simple pieces and then move onto another challenging song soon.
+Bot: That sounds like a great approach. Balancing simpler pieces with more challenging ones can really help keep things fresh and enjoyable. Do you have any ideas yet for what your next challenging song might be, or are you still deciding?
