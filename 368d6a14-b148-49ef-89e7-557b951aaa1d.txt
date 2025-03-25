@@ -1,2 +1,4 @@
 User: Hello how are you?
 Bot: Hi! I'm doing well, thank you. How about you? How's your day going so far?
+User: Good! I am doing well. What is your name?
+Bot: That's great to hear! I don’t actually have a name, but you can just call me Assistant or whatever you'd like. What's your name?
