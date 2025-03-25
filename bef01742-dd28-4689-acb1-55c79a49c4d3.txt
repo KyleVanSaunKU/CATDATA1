@@ -24,3 +24,5 @@ User: ceasar dressing
 Bot: Caesar dressing is such a classic choice! It has that tangy, savory flavor that goes so well with salads. Do you ever make Caesar salads at home, or do you have a favorite place to get them?
 User: my favorite ceasar salad is at texas roadhouse
 Bot: Texas Roadhouse does have a great Caesar salad! Their fresh ingredients and tasty dressing really hit the spot. Do you usually order anything else when you go there, or is the salad your go-to?
+User: i normally get a ceasar salad and a steak kabob
+Bot: That sounds like a delicious combination! Steak kabobs have such flavorful, juicy bites, and they pair well with the crisp Caesar salad. Do you have a favorite way you like your steak cooked?
