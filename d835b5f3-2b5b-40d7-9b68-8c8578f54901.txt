@@ -6,3 +6,5 @@ User: I am a big Chicago Bears fan
 Bot: That's awesome! The Bears have such a passionate fan base. Do you think they've improved this season? Any players you’re particularly excited about?
 User: their season wasnt anything too special, got to enjoy Caleb Williams playing as a rookie but the season was just bad I hope the draft goes well and that the Bears just improve all around
 Bot: I hear you; it can be tough when the season doesn't go as hoped. Caleb Williams definitely brought a spark to the team, though. Fingers crossed for a successful draft and some strong picks. What changes do you think would make the biggest difference for them next season?
+User: drafting best player avaliable at pick 10 and then make depth choices with the second round picks
+Bot: That sounds like a solid strategy. Getting the best player available can bring real value, and building depth in the later rounds can really shore up the team where it's needed. Do you have any players in mind who you'd love to see them draft?
