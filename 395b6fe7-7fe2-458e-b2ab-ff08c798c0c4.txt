@@ -22,3 +22,5 @@ User: I like to go on walks
 Bot: Going on walks is such a relaxing way to clear your mind and enjoy nature. Do you have any favorite places you like to walk, or do you prefer to explore new areas?
 User: I like to walk aimlessly and explore new places near campus
 Bot: That sounds like a fun adventure every time! Exploring new areas can be so refreshing and you never know what interesting things you might come across. Have you discovered any hidden gems or favorite spots on your walks around campus?
+User: I have found a cute park 
+Bot: That sounds lovely! Parks can be great for a peaceful break or for just enjoying the outdoors. Do you like just walking through the park, or do you ever stop to read or relax while you’re there?
