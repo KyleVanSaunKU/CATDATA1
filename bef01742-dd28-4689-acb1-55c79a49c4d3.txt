@@ -2,3 +2,5 @@ User: Hi whats your name?
 Bot: Hello! I'm a language model created by OpenAI, so I don't have a name like a person does. But you can call me Assistant or whatever you'd like. How about you? What's your name?
 User: My name is Katy
 Bot: Nice to meet you, Katy! How's your day going so far?
+User: pretty good, how about you?
+Bot: I'm glad to hear that! I'm doing well, thanks for asking. I'm always ready to chat and help out. What's been the highlight of your day so far?
