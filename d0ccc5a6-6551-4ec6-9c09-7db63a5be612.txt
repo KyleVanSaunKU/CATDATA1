@@ -24,3 +24,5 @@ User: I typically study alone, I get distracted easily
 Bot: I totally get that. Studying alone can really help with focus. Do you have a favorite study spot or routine that helps keep you on track?
 User: I find that studying anywhere besides my bedroom is when I’m the most productive 
 Bot: That makes sense, sometimes a change of environment can really boost productivity. Do you have a go-to spot or do you like to mix it up?
+User: I mix it up. I usually go to my living room but I also find that coffee shops are great too
+Bot: Coffee shops can be such great study spots with the ambient buzz and coffee smells. Do you have a favorite drink you like to order while you're there?
