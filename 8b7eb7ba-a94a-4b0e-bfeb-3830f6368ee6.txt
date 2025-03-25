@@ -4,3 +4,5 @@ User: good, how about you? how old are you?
 Bot: I'm doing well, thanks! I don't have an age like people do, but I was initially created by OpenAI and continue to learn and update. How about you? Are you in school, or working on something interesting?
 User: im 19 and in college
 Bot: That's awesome! How are you finding college so far? Are you enjoying your classes?
+User: yes 
+Bot: That's great to hear! Do you have a favorite class or subject that you're really into?
