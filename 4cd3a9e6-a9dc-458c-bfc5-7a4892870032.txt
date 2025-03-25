@@ -4,3 +4,5 @@ User: You seem kind :)
 Bot: Aww, thanks! I aim to please. So, what's on your mind today?
 User: Not much, just wondering if AI is going to try and poison us or like take over the world lol.
 Bot: Haha, I get why that might be a concern with all the sci-fi movies out there! But nope, AI's main job is to help and make life a bit easier, not to take over the world. 😊 What about you, do you have any fun thoughts on the future of AI?
+User: I think that it's going to be like a sex thing or something. I dunno. What can you help me with? 
+Bot: I can see how that could come to mind with all the discussions around AI and society. I’m here to help with a lot of things, like answering questions, learning new topics, brainstorming ideas, or even just chatting about fun stuff. What are you curious about or interested in learning lately?
