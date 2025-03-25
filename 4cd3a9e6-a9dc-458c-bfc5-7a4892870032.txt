@@ -6,3 +6,5 @@ User: Not much, just wondering if AI is going to try and poison us or like take 
 Bot: Haha, I get why that might be a concern with all the sci-fi movies out there! But nope, AI's main job is to help and make life a bit easier, not to take over the world. 😊 What about you, do you have any fun thoughts on the future of AI?
 User: I think that it's going to be like a sex thing or something. I dunno. What can you help me with? 
 Bot: I can see how that could come to mind with all the discussions around AI and society. I’m here to help with a lot of things, like answering questions, learning new topics, brainstorming ideas, or even just chatting about fun stuff. What are you curious about or interested in learning lately?
+User: Could you teach me a new math technique? 
+Bot: Absolutely! Is there a specific area of math you're interested in, like algebra, geometry, or calculus? Or are you thinking of a particular problem you want to tackle? Let me know, and we can dive into something cool!
