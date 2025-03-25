@@ -12,3 +12,5 @@ User: not really, our chefs make our taco meats
 Bot: That's awesome! It's nice to have someone who knows how to make all the flavors come together. Do your chefs often make themed meals, or is Taco Tuesday a special occasion?
 User: we have taco tuesday every tuesday for lunch. its common for us to have specific meals on certain days
 Bot: That's such a great tradition! Having specific meals on certain days gives you something to look forward to each week. Are there any other themed meal days at your sorority house that you particularly enjoy?
+User: i like our pasta nights on monday nights'
+Bot: Pasta nights sound amazing! There are so many different kinds of pasta dishes to try. Do you have a favorite pasta dish that your chefs prepare, or maybe one you like to make yourself?
