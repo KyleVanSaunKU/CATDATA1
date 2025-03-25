@@ -28,3 +28,5 @@ User: I mix it up. I usually go to my living room but I also find that coffee sh
 Bot: Coffee shops can be such great study spots with the ambient buzz and coffee smells. Do you have a favorite drink you like to order while you're there?
 User: I love cappuccinos
 Bot: Cappuccinos are a classic choice! The perfect mix of rich espresso and frothy milk. Do you have a favorite coffee shop, or do you like trying new ones?
+User: i don’t have a favorite one yet so I’m still exploring my options 
+Bot: Exploring different coffee shops sounds like a fun adventure! Each one usually has its own vibe and specialties. Have you found any unique shops or cool features you’ve liked so far?
