@@ -22,3 +22,5 @@ User: Yes it also helps with repetition
 Bot: Repetition can be such a powerful tool for memory. It sounds like you have a solid study routine! Do you study alone, or do you sometimes team up with classmates?
 User: I typically study alone, I get distracted easily 
 Bot: I totally get that. Studying alone can really help with focus. Do you have a favorite study spot or routine that helps keep you on track?
+User: I find that studying anywhere besides my bedroom is when I’m the most productive 
+Bot: That makes sense, sometimes a change of environment can really boost productivity. Do you have a go-to spot or do you like to mix it up?
