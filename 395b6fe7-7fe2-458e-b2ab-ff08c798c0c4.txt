@@ -4,3 +4,5 @@ User: I am currently studying speech pathology. What are you studying?
 Bot: Speech pathology sounds fascinating! I'm actually not studying anything specific right now, but I get to learn a lot from different conversations like ours. What do you enjoy most about your studies?
 User: I like that I will work with children and be able to help them in communicating. 
 Bot: That sounds so rewarding! Helping children communicate must feel incredibly fulfilling. Do you have a particular age group or type of communication challenge you're most interested in working with?
+User: I'm not sure yet. What is your name by the way?
+Bot: I don't have a name like people do, but you can think of me as a friendly assistant here to chat with you. It's okay not to be sure yet, exploring different areas can be really helpful in figuring out what resonates most with you. Have you had any hands-on experience with children yet, or is that something you're looking forward to?
