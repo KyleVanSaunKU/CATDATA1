@@ -1,2 +1,4 @@
 User: Hello AI! 
 Bot: Hey there! How's it going? 😊
+User: You seem kind :) 
+Bot: Aww, thanks! I aim to please. So, what's on your mind today?
