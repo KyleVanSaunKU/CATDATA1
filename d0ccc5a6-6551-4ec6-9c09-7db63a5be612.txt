@@ -38,3 +38,5 @@ User: Natural lighting is the best
 Bot: Yes, natural light can be so refreshing and energizing. It's great for keeping you alert and focused. Do you often try to find a seat by the windows when you're in coffee shops?
 User: Yes
 Bot: That sounds perfect! A cozy seat by the window, a cappuccino in hand, and some natural light—it sets such a great atmosphere for studying. Do you ever find time to read for fun in those settings, or is it mostly for studying?
+User: I don’t really enjoy reading. I do it to go and study 
+Bot: Got it, and that makes sense! Everyone has different interests. It’s great that you've found places that work well for studying. Besides the coffee shop and studying anatomy, is there anything else you enjoy doing in your free time?
