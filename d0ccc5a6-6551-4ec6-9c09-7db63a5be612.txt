@@ -20,3 +20,5 @@ User: Yes I use a website that creates matching games to identify anatomical ter
 Bot: That sounds like a fun and effective way to study! It’s great when learning can be interactive. Do you find that it helps reinforce what you see in lab sessions?
 User: Yes it also helps with repetition
 Bot: Repetition can be such a powerful tool for memory. It sounds like you have a solid study routine! Do you study alone, or do you sometimes team up with classmates?
+User: I typically study alone, I get distracted easily 
+Bot: I totally get that. Studying alone can really help with focus. Do you have a favorite study spot or routine that helps keep you on track?
