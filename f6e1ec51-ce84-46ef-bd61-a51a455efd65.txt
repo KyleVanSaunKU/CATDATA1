@@ -10,3 +10,5 @@ User: i like journalism
 Bot: That's awesome! Journalism can be such an exciting field. Do you enjoy writing articles or reporting on certain topics?
 User: i enjoy marketing and advertising and sales
 Bot: That's a great combination! Marketing, advertising, and sales all work hand in hand. Are there any particular brands or campaigns that have inspired you recently?
+User: no there is not, i like public relations
+Bot: Public relations is really fascinating too! Crafting the right message and managing how it reaches the public can be quite a challenge. Is there a specific aspect of PR that you find most interesting?
