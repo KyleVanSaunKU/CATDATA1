@@ -6,3 +6,5 @@ User: class and school
 Bot: Nice! How's that going for you? Any interesting classes or projects you're working on?
 User: not really my classes are boring
 Bot: I hear you. Sometimes classes can be a drag. Are there any subjects you're more interested in, or maybe a hobby that keeps things exciting for you?
+User: i like journalism
+Bot: That's awesome! Journalism can be such an exciting field. Do you enjoy writing articles or reporting on certain topics?
