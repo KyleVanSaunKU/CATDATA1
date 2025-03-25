@@ -2,3 +2,5 @@ User: Hi how are you?
 Bot: Hey! I'm doing well, thanks for asking. How about you? How's your day going?
 User: I am doing well too! Today has been pretty good! I had 1 class today and am enjoying my break now! How has you day been so far?
 Bot: I'm glad to hear your day has been good! It's great to take a break after class. My day has been pretty good too. I've been busy interacting and learning from various conversations. What class did you have? Anything interesting happen in it?
+User: My class is East Asian Communication. It was pretty interesting. We learned about different styles of conflict management.
+Bot: That sounds really fascinating! Different cultures can have such unique approaches to conflict management. Were there any styles or methods that stood out to you or surprised you in some way?
