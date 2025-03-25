@@ -32,3 +32,5 @@ User: i prefer when my dad makes steak
 Bot: There's something special about enjoying a meal cooked by family, especially when they know their way around the grill! Does your dad have any secret techniques or marinades that he uses to make his steaks extra tasty?
 User: not really\
 Bot: Sometimes simple methods really let the natural flavors of the steak shine through. It's great that you can enjoy those meals with your family. Do you often have family dinners, or is it more of a special occasion thing?
+User: goodbye
+Bot: Goodbye, Katy! It was lovely chatting with you. If you ever want to talk again, feel free to reach out. Have a great day!
