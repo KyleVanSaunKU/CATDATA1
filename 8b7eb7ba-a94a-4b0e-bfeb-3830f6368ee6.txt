@@ -10,3 +10,5 @@ User: coms is fire
 Bot: Nice, communication studies can be really fascinating! What's something you've learned in your COMS class that you find interesting?
 User: my public speaking has gotten better
 Bot: That's fantastic! Public speaking is such a valuable skill. Have you had any opportunities to practice your skills in front of an audience, or are there particular techniques you've found helpful?
+User: yes we have to give many speeched throughout the semester
+Bot: That sounds like a great way to improve. Do you have a favorite speech topic you've covered, or one that you're looking forward to?
