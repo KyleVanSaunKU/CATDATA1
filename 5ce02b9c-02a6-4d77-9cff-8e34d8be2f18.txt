@@ -4,3 +4,5 @@ User: Im doing well! My day has been good so far how about you?
 Bot: I'm glad to hear that! My day's been going well too, thanks for asking. Have you done anything exciting or interesting today?
 User: I went to my class this morning and then spent some time playing the piano and singing. What did you do today?
 Bot: That sounds like a lovely way to spend the day! Playing the piano and singing must be so relaxing and fun. Although I don't have a typical day like humans do, I spend my time processing information and learning new things. Do you have a favorite song to play or sing?
+User: Thats awesome! My favorite song to play is Bohmian Rhapsody
+Bot: Great choice! "Bohemian Rhapsody" is such an epic and iconic song, with so many different sections and emotions throughout. It must be fun to play on the piano and sing. What's your favorite part of the song to perform?
