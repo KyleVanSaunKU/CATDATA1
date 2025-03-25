@@ -14,3 +14,5 @@ User: yes we have to give many speeched throughout the semester
 Bot: That sounds like a great way to improve. Do you have a favorite speech topic you've covered, or one that you're looking forward to?
 User: golf speech
 Bot: Golf is such an interesting topic! There's a lot you can dive into, whether it's the history of the sport, techniques, or even the mental game. What angle did you take for your speech?
+User: im a pro golfer
+Bot: Wow, that's impressive! Being a pro golfer must involve a lot of dedication and hard work. How do you balance college and your golfing career?
