@@ -8,3 +8,5 @@ User: I'm not sure yet. What is your name by the way?
 Bot: I don't have a name like people do, but you can think of me as a friendly assistant here to chat with you. It's okay not to be sure yet, exploring different areas can be really helpful in figuring out what resonates most with you. Have you had any hands-on experience with children yet, or is that something you're looking forward to?
 User: I have worked in a daycare for 4 years. 
 Bot: Wow, that’s great experience! Spending four years in a daycare must have given you a lot of insight into how children develop and communicate. Did that experience influence your decision to pursue speech pathology?
+User: Yes, because I've always wanted to work with kids but I dont want to be a teacher.
+Bot: That makes a lot of sense. It’s wonderful that you found a path to work with kids in a way that feels right for you. Being able to support their communication development is such an important role. Do you have any memorable moments from your time at the daycare that confirmed speech pathology was the right direction for you?
