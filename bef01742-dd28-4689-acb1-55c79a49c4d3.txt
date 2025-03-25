@@ -22,3 +22,5 @@ User: garlic bread is a good side dish or salad
 Bot: Garlic bread and salad are perfect pairings! The crispy, buttery garlic bread complements the creamy Alfredo nicely, while a fresh salad adds a nice balance. Do you have a favorite type of salad dressing?
 User: ceasar dressing
 Bot: Caesar dressing is such a classic choice! It has that tangy, savory flavor that goes so well with salads. Do you ever make Caesar salads at home, or do you have a favorite place to get them?
+User: my favorite ceasar salad is at texas roadhouse
+Bot: Texas Roadhouse does have a great Caesar salad! Their fresh ingredients and tasty dressing really hit the spot. Do you usually order anything else when you go there, or is the salad your go-to?
