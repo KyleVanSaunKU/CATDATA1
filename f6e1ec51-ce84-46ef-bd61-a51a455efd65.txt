@@ -8,3 +8,5 @@ User: not really my classes are boring
 Bot: I hear you. Sometimes classes can be a drag. Are there any subjects you're more interested in, or maybe a hobby that keeps things exciting for you?
 User: i like journalism
 Bot: That's awesome! Journalism can be such an exciting field. Do you enjoy writing articles or reporting on certain topics?
+User: i enjoy marketing and advertising and sales
+Bot: That's a great combination! Marketing, advertising, and sales all work hand in hand. Are there any particular brands or campaigns that have inspired you recently?
