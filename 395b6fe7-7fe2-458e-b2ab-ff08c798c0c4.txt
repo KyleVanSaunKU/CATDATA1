@@ -24,3 +24,5 @@ User: I like to walk aimlessly and explore new places near campus
 Bot: That sounds like a fun adventure every time! Exploring new areas can be so refreshing and you never know what interesting things you might come across. Have you discovered any hidden gems or favorite spots on your walks around campus?
 User: I have found a cute park 
 Bot: That sounds lovely! Parks can be great for a peaceful break or for just enjoying the outdoors. Do you like just walking through the park, or do you ever stop to read or relax while you’re there?
+User: Just walking through it. 
+Bot: Strolling through a park sounds wonderfully calming. There's something about the fresh air and scenery that can be so refreshing. Do you find walking helps you unwind after a busy day, or do you like to pair it with other activities like listening to music or podcasts?
