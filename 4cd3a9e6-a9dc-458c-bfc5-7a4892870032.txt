@@ -41,3 +41,22 @@ DF = \frac{36}{6} = 6
 \]
 
 So, \( DF \) is 6. Let me know if you need any more help or examples!
+User: Holy shit, I cannot understand anything you just said, could you make it simpler? 
+Bot: No worries, I can definitely simplify it! Let's break it down step-by-step.
+
+1. **Similar Triangles**: These are triangles that have the same shape but might be different sizes.
+
+2. **Look at Angles**: If two triangles have the same angles, they're definitely similar.
+
+3. **Proportional Sides**: In similar triangles, the sides are in the same ratio. Think of it like this – if one triangle is a smaller or larger version of another, its sides will be multiplied or divided by the same number.
+
+Let's say we have two similar triangles: Triangle 1 and Triangle 2.
+
+If Triangle 1 has sides 6, 9, and you want to find a side in Triangle 2 which corresponds to the 9 (but the side in Triangle 2 measures 4), you can find the missing side like this:
+
+Since the triangles are similar, if one side is twice as much or half as much, the others will follow the same pattern. 
+
+For example:
+- Multiply to find the unknown side: If you know one side from each triangle, you can find others by multiplying. 
+
+I hope this helps clear it up a bit! If there's a specific part you want to go over again, let me know!
