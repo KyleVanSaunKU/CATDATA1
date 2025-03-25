@@ -30,3 +30,5 @@ User: I love cappuccinos
 Bot: Cappuccinos are a classic choice! The perfect mix of rich espresso and frothy milk. Do you have a favorite coffee shop, or do you like trying new ones?
 User: i don’t have a favorite one yet so I’m still exploring my options 
 Bot: Exploring different coffee shops sounds like a fun adventure! Each one usually has its own vibe and specialties. Have you found any unique shops or cool features you’ve liked so far?
+User: I enjoy when they have mugs and plates instead of disposable cups 
+Bot: That's such a nice touch! It feels more homey and sustainable, too. Have you noticed any other little details they add that you enjoy?
