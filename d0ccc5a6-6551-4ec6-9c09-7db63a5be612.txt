@@ -10,3 +10,5 @@ User: I liked learning the muscles of the lower extremities
 Bot: That’s really cool! The muscles in the lower extremities do so much for movement and support. Was there a specific muscle or group that stood out to you?
 User: I liked the all of the thigh muscles
 Bot: The thigh muscles are definitely fascinating. They play such a crucial role in movement. Have you done any dissections or used models to study them?
+User: We don’t get to dissect. We can only observe 
+Bot: Got it, observing can still be really insightful though. Do you find the models helpful, or are there other resources you like using to study the muscles?
