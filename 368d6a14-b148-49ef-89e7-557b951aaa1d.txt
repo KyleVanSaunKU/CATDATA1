@@ -4,3 +4,5 @@ User: Good! I am doing well. What is your name?
 Bot: That's great to hear! I don’t actually have a name, but you can just call me Assistant or whatever you'd like. What's your name?
 User: Nice to meet you assistant, my name is Mackenzie
 Bot: Nice to meet you, Mackenzie! That's a great name. How’s your day been treating you so far?
+User: It has been good. I ran some errands and went to class. How has your day been?
+Bot: Sounds like a productive day! My day's been pretty good too, just chatting with different people and learning new things. What class did you go to? Any interesting topics?
