@@ -28,3 +28,5 @@ User: i normally get a ceasar salad and a steak kabob
 Bot: That sounds like a delicious combination! Steak kabobs have such flavorful, juicy bites, and they pair well with the crisp Caesar salad. Do you have a favorite way you like your steak cooked?
 User: medium
 Bot: Medium is a great choice – it's just the right balance of tenderness and juiciness. Do you enjoy grilling or cooking at home, or do you prefer to eat out and try different places?
+User: i prefer when my dad makes steak
+Bot: There's something special about enjoying a meal cooked by family, especially when they know their way around the grill! Does your dad have any secret techniques or marinades that he uses to make his steaks extra tasty?
