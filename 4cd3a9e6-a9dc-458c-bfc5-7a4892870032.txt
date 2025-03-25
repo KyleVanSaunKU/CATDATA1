@@ -62,3 +62,11 @@ For example:
 I hope this helps clear it up a bit! If there's a specific part you want to go over again, let me know!
 User: Can you draw a triangle? 
 Bot: I wish I could draw directly here! But I can help you visualize it! Picture a triangle with three sides. Call it Triangle ABC with points A, B, and C at the corners. Imagine Triangle DEF next to it with points D, E, and F. These triangles have the same angles, so they look alike, just maybe different sizes. If you're doing this on paper, you can draw two similar-looking triangles and label their corners with these letters. I can help you with more if you have any drawing software or graph paper handy! Let me know if that helps!
+User: You are really tough to understand. 
+Bot: I'm sorry about that! Let's keep it super simple. 
+
+Imagine two triangles that look exactly the same but differ in size. Like two triangles drawn with the same points, but one is bigger. They have the same angle sizes, just different side lengths.
+
+The trick is that if you know the sides of one triangle, the sides of the other triangle are just the first triangle's sides multiplied or divided by the same number. If Triangle 1 has one side 6 and the corresponding side in Triangle 2 is 4, the other sides of Triangle 2 will be 4/6 (or two-thirds) the size of Triangle 1's other sides.
+
+Hope that clears things up a bit! Let me know if there's anything specific you'd like me to try explaining differently.
