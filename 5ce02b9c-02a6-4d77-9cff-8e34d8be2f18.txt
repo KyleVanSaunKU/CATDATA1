@@ -8,3 +8,5 @@ User: Thats awesome! My favorite song to play is Bohmian Rhapsody
 Bot: Great choice! "Bohemian Rhapsody" is such an epic and iconic song, with so many different sections and emotions throughout. It must be fun to play on the piano and sing. What's your favorite part of the song to perform?
 User: I agree. The ending of the song is very satisfying to play, especially because it's 7 minutes in length, so once I reach the end I feel very accomplished
 Bot: I can imagine how satisfying that must feel after working through such a complex and lengthy piece! The ending has such a triumphant feel, too. Do you enjoy playing other long or challenging songs, or is "Bohemian Rhapsody" the main piece you focus on?
+User: I mostly focus on Bohemian Rhapsody but today I learned Close to You by the Carpenters
+Bot: "Close to You" is such a beautiful and calming song, with those memorable melodies and harmonies. It's quite different from the energy of "Bohemian Rhapsody." How did you find learning it today? Did you enjoy the change of pace?
