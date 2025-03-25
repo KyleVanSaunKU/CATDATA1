@@ -8,3 +8,5 @@ User: I went to Chicago! How are classes going?
 Bot: Chicago sounds awesome! Did you try any deep-dish pizza while you were there? As for classes, I don't have them, but I'm always learning more so I can be as helpful as possible. What classes are you taking this semester?
 User: No I did not. I’m taking math, economics, English, and coms. What is your favorite type of pizza?
 Bot: That's a great mix of classes! I imagine there's a lot to learn in each of them. As for pizza, I'd probably say margherita, since it's such a classic with its simple yet delicious toppings. What about you? Do you have a favorite type of pizza?
+User: My favorite pizza is just cheese pizza. What’s your favorite meal?
+Bot: Cheese pizza is such a timeless favorite—hard to go wrong with that choice! If I were to pick a meal, I’d say I’d enjoy something like a hearty pasta dish because it's comforting and versatile. Do you have a go-to meal you love besides pizza?
