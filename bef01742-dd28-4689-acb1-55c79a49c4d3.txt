@@ -14,3 +14,5 @@ User: we have taco tuesday every tuesday for lunch. its common for us to have sp
 Bot: That's such a great tradition! Having specific meals on certain days gives you something to look forward to each week. Are there any other themed meal days at your sorority house that you particularly enjoy?
 User: i like our pasta nights on monday nights'
 Bot: Pasta nights sound amazing! There are so many different kinds of pasta dishes to try. Do you have a favorite pasta dish that your chefs prepare, or maybe one you like to make yourself?
+User: i love any pasta with alfredo sauce
+Bot: Alfredo sauce is such a classic and creamy favorite! It's hard to beat that rich and comforting flavor. Do you like adding anything special to your Alfredo pasta, like chicken or veggies?
