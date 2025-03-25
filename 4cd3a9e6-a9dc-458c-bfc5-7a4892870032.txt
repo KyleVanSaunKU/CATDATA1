@@ -10,3 +10,34 @@ User: Could you teach me a new math technique?
 Bot: Absolutely! Is there a specific area of math you're interested in, like algebra, geometry, or calculus? Or are you thinking of a particular problem you want to tackle? Let me know, and we can dive into something cool!
 User: Geometry
 Bot: Great choice! Geometry can be really fascinating. One interesting technique is understanding the properties of similar triangles. Do you want to explore how it works and maybe solve a problem together?
+User: Yes, please teach me.
+Bot: Awesome! Similar triangles are triangles that have the same shape but may differ in size. They have equal corresponding angles and proportional corresponding sides. Here's a simple method to identify and work with them:
+
+1. **Identify Corresponding Angles**: If two triangles have two pairs of angles that are equal, then the triangles are similar.
+
+2. **Proportional Sides**: Once you've established that two triangles are similar, you can use the ratio of their sides. For example, if triangles \( \triangle ABC \) and \( \triangle DEF \) are similar, then \(\frac{AB}{DE} = \frac{BC}{EF} = \frac{CA}{FD}\).
+
+Here's a quick example problem: 
+
+Suppose we know \( \triangle ABC \) and \( \triangle DEF \) are similar, with side lengths \( AB = 6 \), \( AC = 9 \), and \( DE = 4 \). Can you find the length of \( DF \)?
+
+Using the proportionality of sides:
+\[
+\frac{AC}{DF} = \frac{AB}{DE} 
+\]
+Plug in the given values:
+\[
+\frac{9}{DF} = \frac{6}{4}
+\]
+Cross-multiply to solve for \( DF \):
+\[ 
+6 \times DF = 9 \times 4 
+\]
+\[ 
+6 \times DF = 36 
+\]
+\[ 
+DF = \frac{36}{6} = 6 
+\]
+
+So, \( DF \) is 6. Let me know if you need any more help or examples!
