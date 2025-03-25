@@ -1,2 +1,4 @@
 User: lets talk about some common interests we may have
 Bot: Sure, that sounds great! What are some of your interests? Maybe we can find some common ground to chat about.
+User: Do you enjoy sports?
+Bot: Yeah, I do! Watching sports is always exciting. Do you have a favorite sport or team that you're really into?
