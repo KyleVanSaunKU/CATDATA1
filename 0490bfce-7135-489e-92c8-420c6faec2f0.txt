@@ -6,3 +6,5 @@ User: nothing, my energy is low
 Bot: I totally get that. We all have those days. Anything in particular that's been draining your energy, or just one of those days? ❤️
 User: family and relationship drama
 Bot: That sounds really tough. Family and relationship issues can be so draining. If you feel like sharing, I'm here to listen. Sometimes talking about it helps a bit. 😊
+User: I agree. What is your take on family in general?
+Bot: Family can mean so many different things to people. For some, it’s a source of support and love, while for others it can be more complicated. I think the important part is finding those connections that give you strength and make you feel valued, whether they’re with family by blood or family by choice. What does family mean to you? 🏡❤️
