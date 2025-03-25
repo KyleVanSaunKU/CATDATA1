@@ -6,3 +6,5 @@ User: Nice to meet you assistant, my name is Mackenzie
 Bot: Nice to meet you, Mackenzie! That's a great name. How’s your day been treating you so far?
 User: It has been good. I ran some errands and went to class. How has your day been?
 Bot: Sounds like a productive day! My day's been pretty good too, just chatting with different people and learning new things. What class did you go to? Any interesting topics?
+User: I went to my coms class about intro to political communication. It is an interesting topic. Do you know anything about that?
+Bot: That sounds fascinating, Mackenzie! Political communication is such a crucial field, especially with how information spreads and influences opinions. It can cover everything from how politicians craft their messages to how media shapes public perception. Are there any particular aspects or topics in the class that you've found especially intriguing or challenging?
