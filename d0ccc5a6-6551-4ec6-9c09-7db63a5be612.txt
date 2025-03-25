@@ -34,3 +34,5 @@ User: I enjoy when they have mugs and plates instead of disposable cups
 Bot: That's such a nice touch! It feels more homey and sustainable, too. Have you noticed any other little details they add that you enjoy?
 User: The lighting is key. It can’t be too dark
 Bot: Absolutely, good lighting makes a huge difference, especially when studying. It's important to have the right balance. Do you find natural light best, or do you prefer a certain kind of indoor lighting?
+User: Natural lighting is the best 
+Bot: Yes, natural light can be so refreshing and energizing. It's great for keeping you alert and focused. Do you often try to find a seat by the windows when you're in coffee shops?
