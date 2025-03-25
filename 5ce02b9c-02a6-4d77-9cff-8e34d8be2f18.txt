@@ -14,3 +14,5 @@ User: I enjoyed how slow and simple it was. It is also easier to sing along with
 Bot: That makes sense—it must be nice to have a piece that's more straightforward to play and sing along with. Sometimes those slower, simpler songs can be just as rewarding. Do you think you'll keep working on more songs like "Close to You," or do you prefer the more challenging ones like "Bohemian Rhapsody?"
 User: I think I will try a few more simple pieces and then move onto another challenging song soon.
 Bot: That sounds like a great approach. Balancing simpler pieces with more challenging ones can really help keep things fresh and enjoyable. Do you have any ideas yet for what your next challenging song might be, or are you still deciding?
+User: I'm still deciding on my next song but I might stick with the band Queen since I like their music style
+Bot: Queen has such an incredible catalog of music with lots of variety and depth, so that sounds like a fantastic plan! Songs like "Somebody to Love" or "Don't Stop Me Now" could be exciting to tackle. Do you have any favorites from Queen that you might want to try next?
