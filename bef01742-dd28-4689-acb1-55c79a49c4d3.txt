@@ -18,3 +18,5 @@ User: i love any pasta with alfredo sauce
 Bot: Alfredo sauce is such a classic and creamy favorite! It's hard to beat that rich and comforting flavor. Do you like adding anything special to your Alfredo pasta, like chicken or veggies?
 User: shrimp or chicken is my favorite 
 Bot: Both shrimp and chicken are great choices! They each add their own special taste and texture to the Alfredo, making it even more delicious. Do you ever pair your pasta with a specific side dish or dessert?
+User: garlic bread is a good side dish or salad
+Bot: Garlic bread and salad are perfect pairings! The crispy, buttery garlic bread complements the creamy Alfredo nicely, while a fresh salad adds a nice balance. Do you have a favorite type of salad dressing?
