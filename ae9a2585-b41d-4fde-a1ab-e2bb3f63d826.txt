@@ -8,3 +8,5 @@ User: We aren't reading. It is more research. I don't need assistance. Just maki
 Bot: Got it! Thanks for letting me know. Research can be pretty fun, too, especially if it's on a topic you're interested in. Are you researching anything intriguing right now, or is it more of an assignment you just need to get through?
 User: It has to do with my major which is psych. So I suppose it will give me additional knowledge I may need in the future
 Bot: That sounds really interesting! Psychology is such a fascinating field with so much to explore. It's great that your work now might help you later on. Do you have a specific area within psych that you're most curious about?
+User: I want to become a therapist. I am truly interested in all aspects. Hopefully I may pursue to get my doctorate 
+Bot: That's amazing! Becoming a therapist can be such a rewarding career and pursuing a doctorate sounds like a great goal. It's impressive that you're interested in all aspects of psychology—there's always so much to learn and explore. Is there a particular therapeutic approach or population you're drawn to working with in the future?
