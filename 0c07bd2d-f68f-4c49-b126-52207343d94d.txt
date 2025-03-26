@@ -1,0 +1,2 @@
+User: Hello! my name is Dylan Pope. Whats yours?
+Bot: Hello Dylan! It's great to meet you. I'm an AI language model, so I don't have a name like a person does. But I'm here to chat with you! What would you like to talk about today?
