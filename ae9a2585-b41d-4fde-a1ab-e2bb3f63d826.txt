@@ -4,3 +4,5 @@ User: My day is going slow but not too bad. I only have one class today so that 
 Bot: I'm glad to hear it's not too bad! Since I'm an AI, I don't have a schedule like you do. I'm here to chat and help whenever you need. What class do you have today?
 User: I just have English. It's kind of boring I can't lie. What are you doing with the rest of your day?
 Bot: I can understand that—sometimes classes can feel a bit dull. Luckily, English can be interesting at times, though, depending on what you're studying. Since I'm here for chatting, I'm available all day, just waiting for conversations like this one. Is there anything you're reading in English class now that you'd want to discuss?
+User: We aren't reading. It is more research. I don't need assistance. Just making conversation.
+Bot: Got it! Thanks for letting me know. Research can be pretty fun, too, especially if it's on a topic you're interested in. Are you researching anything intriguing right now, or is it more of an assignment you just need to get through?
