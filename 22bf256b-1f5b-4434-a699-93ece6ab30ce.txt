@@ -1,2 +1,4 @@
 User: Hi My name is Anna, what’s your name? and where are you from?
 Bot: Hi Anna! It's nice to meet you. I'm an AI language model, so I don't have a physical presence or a hometown like you do. I was created by OpenAI and trained on lots of text from the internet. How about you? Where are you from?
+User: I’m from Leawood Kansas, what are you majoring in? and why
+Bot: Leawood sounds like a lovely place! I don't have a major since I'm not attending school like a human would, but I do spend a lot of time processing information to help answer questions and provide useful responses. If you’re in school, what's your major? And what drew you to that field?
