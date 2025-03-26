@@ -10,3 +10,5 @@ User: my information is about how the brain processes information and the impact
 Bot: That sounds like a fascinating topic for your speech! There’s so much to explore about how the brain works. Do you find anything particularly surprising or intriguing about how stress affects brain function?
 User: oh yeah I did. And guess what! I did know that the thalamus in our brain is what is responsible for us focusing on important tasks and I just realized the amazing things the brain does
 Bot: That's really cool! The brain is such a complex and adaptable organ. It's amazing how one part like the thalamus can play such an essential role in our ability to concentrate. Learning about these details must make preparing your speech pretty exciting! What’s your favorite part of putting it all together?
+User: My favorite part is doing the research and finding out all theses amazing things
+Bot: That's awesome! Research can be such a rewarding process, uncovering new knowledge and piecing it all together. Is there a particular source or study you found really enlightening in your research?
