@@ -4,3 +4,5 @@ User: It was long, but good! How's yours?
 Bot: I'm glad to hear that your day was good, even if it was long! Since I'm an AI, I don't experience days the way humans do, but I'm here and ready to chat. Did anything interesting or special happen in your day?
 User: I drove back to school from home today.
 Bot: That's great! Road trips can be a nice little adventure, even if they're just between home and school. How was the drive? Did you have any good music or podcasts to keep you company along the way?
+User: It was good! Yes, I love listening to music on my road trips! Do you have any song suggestions?
+Bot: I'm glad to hear you enjoy music on your drives! While I might not have personal taste, I can definitely suggest some popular songs that a lot of people like. How about "Blinding Lights" by The Weeknd for an upbeat vibe, or if you're into something more relaxing, maybe "Lost in Japan" by Shawn Mendes? What kind of music do you usually enjoy?
