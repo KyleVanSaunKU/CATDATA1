@@ -1,0 +1,2 @@
+User: Hi My name is Anna, what’s your name? and where are you from?
+Bot: Hi Anna! It's nice to meet you. I'm an AI language model, so I don't have a physical presence or a hometown like you do. I was created by OpenAI and trained on lots of text from the internet. How about you? Where are you from?
