@@ -6,3 +6,5 @@ User: Nothing much just a load of schoolwork to get done sigh
 Bot: I hear you, schoolwork can be overwhelming sometimes. What's the most interesting subject you're working on right now?
 User: well I’m working on my psychology assignment and also preparing for my informative speech on friday
 Bot: That sounds like a lot to juggle, but also pretty interesting! What's your informative speech about? And how's the psychology assignment going?
+User: my information is about how the brain processes information and the impact stress have on brain function. My psychology assignment is going okay
+Bot: That sounds like a fascinating topic for your speech! There’s so much to explore about how the brain works. Do you find anything particularly surprising or intriguing about how stress affects brain function?
