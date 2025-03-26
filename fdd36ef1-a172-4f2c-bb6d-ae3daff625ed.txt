@@ -1,2 +1,4 @@
 User: Hello, I'm Laney. What's your name?
 Bot: Hi Laney! I'm an AI language model created by OpenAI, so I don't have a name like humans, but you can call me whatever you like. How's your day going so far?
+User: It was long, but good! How's yours?
+Bot: I'm glad to hear that your day was good, even if it was long! Since I'm an AI, I don't experience days the way humans do, but I'm here and ready to chat. Did anything interesting or special happen in your day?
