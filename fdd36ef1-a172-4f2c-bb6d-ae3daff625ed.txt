@@ -8,3 +8,5 @@ User: It was good! Yes, I love listening to music on my road trips! Do you have 
 Bot: I'm glad to hear you enjoy music on your drives! While I might not have personal taste, I can definitely suggest some popular songs that a lot of people like. How about "Blinding Lights" by The Weeknd for an upbeat vibe, or if you're into something more relaxing, maybe "Lost in Japan" by Shawn Mendes? What kind of music do you usually enjoy?
 User: I like those! I usually listen to R&B music!
 Bot: Great choices! R&B has so many amazing artists. If you’re looking for recommendations, you might enjoy songs by artists like H.E.R., Daniel Caesar, or Giveon. Do you have a favorite artist or song in the R&B genre that you love listening to?
+User: I love those artists! I really like Chris Brown.
+Bot: Chris Brown has such a distinct style and has been around for quite some time now, consistently releasing hits. Do you have a favorite song or album of his that you find yourself coming back to often?
