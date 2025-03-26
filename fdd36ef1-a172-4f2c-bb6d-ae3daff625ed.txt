@@ -12,3 +12,5 @@ User: I love those artists! I really like Chris Brown.
 Bot: Chris Brown has such a distinct style and has been around for quite some time now, consistently releasing hits. Do you have a favorite song or album of his that you find yourself coming back to often?
 User: I love listening to his debut album, or just different singles. It was nice talking to you!
 Bot: His debut album definitely has some classics! I'm glad we got to chat about music. It was really nice talking to you too, Laney. If you ever want to talk more, feel free to reach out. Have a great day!
+User: Thank you!
+Bot: You're welcome! Take care!
