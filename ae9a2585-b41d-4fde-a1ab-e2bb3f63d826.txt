@@ -6,3 +6,5 @@ User: I just have English. It's kind of boring I can't lie. What are you doing w
 Bot: I can understand that—sometimes classes can feel a bit dull. Luckily, English can be interesting at times, though, depending on what you're studying. Since I'm here for chatting, I'm available all day, just waiting for conversations like this one. Is there anything you're reading in English class now that you'd want to discuss?
 User: We aren't reading. It is more research. I don't need assistance. Just making conversation.
 Bot: Got it! Thanks for letting me know. Research can be pretty fun, too, especially if it's on a topic you're interested in. Are you researching anything intriguing right now, or is it more of an assignment you just need to get through?
+User: It has to do with my major which is psych. So I suppose it will give me additional knowledge I may need in the future
+Bot: That sounds really interesting! Psychology is such a fascinating field with so much to explore. It's great that your work now might help you later on. Do you have a specific area within psych that you're most curious about?
