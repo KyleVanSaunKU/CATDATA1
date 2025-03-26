@@ -4,3 +4,5 @@ User: Good and you?
 Bot: I'm doing great, thanks! What's been the highlight of your day so far?
 User: Nothing much just a load of schoolwork to get done sigh
 Bot: I hear you, schoolwork can be overwhelming sometimes. What's the most interesting subject you're working on right now?
+User: well I’m working on my psychology assignment and also preparing for my informative speech on friday
+Bot: That sounds like a lot to juggle, but also pretty interesting! What's your informative speech about? And how's the psychology assignment going?
