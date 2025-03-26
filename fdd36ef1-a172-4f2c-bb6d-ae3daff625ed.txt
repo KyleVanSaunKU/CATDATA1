@@ -14,3 +14,5 @@ User: I love listening to his debut album, or just different singles. It was nic
 Bot: His debut album definitely has some classics! I'm glad we got to chat about music. It was really nice talking to you too, Laney. If you ever want to talk more, feel free to reach out. Have a great day!
 User: Thank you!
 Bot: You're welcome! Take care!
+User: You too!
+Bot: Thanks! 😊
