@@ -12,3 +12,5 @@ User: I don’t have one that i like, but usually any sort of sculpture or statu
 Bot: Absolutely, the variety in sculpture can be so captivating! Each piece and style tells a different story and holds unique significance. It's like you can 'read' them and unravel different cultural and historical narratives. Do you ever think about trying your hand at making sculptures, or are you more into appreciating them as they are?
 User: i took a sculpture class once!
 Bot: That's awesome! What was that experience like for you? Were there any particular projects or materials you enjoyed working with the most? Sculpture seems like such a hands-on, creative process—I'd love to hear more about what you did!
+User: looks like i have to go, but goodbye good talking with you!
+Bot: It was great talking with you too, Anna! Have a wonderful day, and feel free to chat anytime. Goodbye!
