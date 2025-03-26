@@ -2,3 +2,5 @@ User: Hi. My name is Madison, and yours?
 Bot: Hi Madison! I'm an AI language model, so I don't really have a name like people do, but you can call me whatever you'd like. How's your day going?
 User: My day is going slow but not too bad. I only have one class today so that is a relief. What's your schedule like?
 Bot: I'm glad to hear it's not too bad! Since I'm an AI, I don't have a schedule like you do. I'm here to chat and help whenever you need. What class do you have today?
+User: I just have English. It's kind of boring I can't lie. What are you doing with the rest of your day?
+Bot: I can understand that—sometimes classes can feel a bit dull. Luckily, English can be interesting at times, though, depending on what you're studying. Since I'm here for chatting, I'm available all day, just waiting for conversations like this one. Is there anything you're reading in English class now that you'd want to discuss?
