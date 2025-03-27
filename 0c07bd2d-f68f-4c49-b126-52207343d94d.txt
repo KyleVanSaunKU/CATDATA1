@@ -12,3 +12,5 @@ User: I am planning on getting a shark tooth behind my ear with my dad
 Bot: That sounds like such a unique and special tattoo choice, especially since you'll be getting it with your dad. Shark teeth have a lot of cool symbolism, too—strength and protection come to mind. Plus, it's a nice nod to your experiences on the water. When do you plan on getting it done?
 User: They are very symbolic. We collect sharks teeth so it means even more. I want to get it done sometime between june and august
 Bot: Collecting shark teeth sounds like a fascinating hobby, and it definitely makes your tattoo even more meaningful. Planning to get it done during the summer, when you're likely visiting Amelia Island again, seems perfect. It'll be a great way to mark another memorable trip. Do you and your dad have a special spot on the island where you like to search for those teeth?
+User: Goodbye
+Bot: Goodbye, Dylan! It was great chatting with you. Enjoy your future adventures and that special tattoo with your dad. Take care!
