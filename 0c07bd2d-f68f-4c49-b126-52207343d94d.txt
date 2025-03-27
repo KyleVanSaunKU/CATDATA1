@@ -6,3 +6,5 @@ User: This past summer I went fishing with my Dad in Amelia Island Florida. I ca
 Bot: That's really cool, Dylan! Fishing with your dad on Amelia Island sounds like such a memorable experience. Catching an Oyster Toadfish must have been exciting! They're quite interesting looking, aren't they? Did you catch anything else, or did that one steal the show?
 User: That was the big one of the trip. I accidently caught an alligator snapping turtle but we cut the line before it broke the pole. 
 Bot: Wow, that must have been quite the surprise catching an alligator snapping turtle! Those turtles are pretty impressive with their powerful jaws. It's great that you managed to handle the situation smoothly. Did you take any photos, or do you have any other exciting stories from that trip?
+User: I did take photos but not too many! We go to Amelia Island every summer so I have tons of memories. I am even getting a tattoo in honor of it
+Bot: That's awesome, Dylan! A tattoo sounds like a meaningful way to celebrate all those cherished memories from Amelia Island. Do you have a design in mind yet? Maybe something related to your fishing adventures or the beautiful scenery there?
