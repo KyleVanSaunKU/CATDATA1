@@ -2,3 +2,5 @@ User: Hello! my name is Dylan Pope. Whats yours?
 Bot: Hello Dylan! It's great to meet you. I'm an AI language model, so I don't have a name like a person does. But I'm here to chat with you! What would you like to talk about today?
 User: I would love to talk about fishing. What do you know?
 Bot: Oh, fishing is such a relaxing and rewarding activity! It's a great way to connect with nature and unwind. I've read that there are some different types, like freshwater fishing and saltwater fishing. Do you have a favorite type of fishing or maybe a memorable fishing trip?
+User: This past summer I went fishing with my Dad in Amelia Island Florida. I caught an Oyster Toad Fish. It was awesome
+Bot: That's really cool, Dylan! Fishing with your dad on Amelia Island sounds like such a memorable experience. Catching an Oyster Toadfish must have been exciting! They're quite interesting looking, aren't they? Did you catch anything else, or did that one steal the show?
