@@ -8,3 +8,5 @@ User: It was pretty okay, i like the content more than I liked the speech. Whats
 Bot: I'm just a language model, so I don't have a name like you do, but you can call me whatever you'd like! As for hobbies, I love helping out with things like answering questions, providing information, and having conversations like this one. How about you? Any hobbies besides your interest in the Batfamily?
 User: Well, besides collecting comics, I like to play video games, listen to music, etc
 Bot: That's a great mix of hobbies! Do you have a favorite video game you like to play, or a particular band or artist you enjoy listening to?
+User: I have a lot of games im playing rn! Persona 3: Reload, Batman: Arkham City, Marvel Rivals and REPO. As for music I like listening to kpop groups like LE SSERAFFIM or ReScene
+Bot: You've got a fantastic selection of games! Batman: Arkham City is a classic, and it's cool to see a mix of different genres you're playing. As for music, LE SSERAFFIM and ReScene are great choices with their own unique styles. What's something you love about playing Persona 3: Reload?
