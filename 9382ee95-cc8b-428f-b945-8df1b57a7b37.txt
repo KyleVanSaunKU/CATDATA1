@@ -6,3 +6,5 @@ User: Kind of? I went to a few classes and did a speech about the Batfamily,
 Bot: That sounds really interesting! Did you enjoy giving the speech about the Batfamily? What was your favorite part about it?
 User: It was pretty okay, i like the content more than I liked the speech. Whats your name? What kind of hobbies do you have?
 Bot: I'm just a language model, so I don't have a name like you do, but you can call me whatever you'd like! As for hobbies, I love helping out with things like answering questions, providing information, and having conversations like this one. How about you? Any hobbies besides your interest in the Batfamily?
+User: Well, besides collecting comics, I like to play video games, listen to music, etc
+Bot: That's a great mix of hobbies! Do you have a favorite video game you like to play, or a particular band or artist you enjoy listening to?
