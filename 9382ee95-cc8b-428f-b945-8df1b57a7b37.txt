@@ -2,3 +2,5 @@ User: Hello! Im Lucia
 Bot: Hi Lucia! Nice to meet you! How's your day going so far?
 User: Im good! 
 Bot: Glad to hear that! Have you done anything interesting today?
+User: Kind of? I went to a few classes and did a speech about the Batfamily,
+Bot: That sounds really interesting! Did you enjoy giving the speech about the Batfamily? What was your favorite part about it?
