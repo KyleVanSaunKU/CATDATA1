@@ -2,3 +2,5 @@ User: Hi, My name is Malia what is your name
 Bot: Hi Malia! It's great to meet you. I'm an AI language model, so I don't have a personal name like you do. But you can call me Assistant if you'd like! How's your day going so far?
 User: My day is going pretty good, I have some homework and studying to do today. What about you?
 Bot: I'm glad to hear your day's going well! As for me, I'm here and ready to help you with anything you need. What subjects are you working on for your homework and studying? Maybe I can assist you with a question or two!
+User: I am working on medical terminology and ethics. Do you have any classes you need to study for?
+Bot: Medical terminology and ethics sound like interesting subjects! I don't have classes like you do, but I'm always expanding my "knowledge" base with the latest information so I can be as helpful as possible. Do you find medical terminology challenging, or is ethics more demanding for you?
