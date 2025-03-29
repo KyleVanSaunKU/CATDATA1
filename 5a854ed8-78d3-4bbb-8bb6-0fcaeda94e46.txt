@@ -4,3 +4,5 @@ User: My day is going pretty good, I have some homework and studying to do today
 Bot: I'm glad to hear your day's going well! As for me, I'm here and ready to help you with anything you need. What subjects are you working on for your homework and studying? Maybe I can assist you with a question or two!
 User: I am working on medical terminology and ethics. Do you have any classes you need to study for?
 Bot: Medical terminology and ethics sound like interesting subjects! I don't have classes like you do, but I'm always expanding my "knowledge" base with the latest information so I can be as helpful as possible. Do you find medical terminology challenging, or is ethics more demanding for you?
+User: I find medical terminology difficult but I enjoy it. Ethics isn't to bad, it isn't my favorite class though.
+Bot: I get that! Medical terminology can be like learning a new language, but it's great that you enjoy it. That can make studying a bit more fun, I imagine. Ethics is a different kind of challenge, isn’t it? It often involves a lot of discussion and debate. Do you have any study strategies or tips that help you tackle the medical terms?
