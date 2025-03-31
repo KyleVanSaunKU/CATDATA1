@@ -14,3 +14,5 @@ User: How federal policy can impact a nations economy
 Bot: That's a fascinating area! Policies can indeed have huge ripple effects. Have you come across any interesting case studies or examples recently?
 User: Yes, I am interested to see how the tarriffs are implemented and what effects they cause
 Bot: That's definitely a hot topic! Tariffs can really shake things up in trade and influence domestic economies. Have you looked into any specific countries or instances where tariffs had a noticeable impact?
+User: The US had a wide tarriff policy in the late 1800s and early 1900s
+Bot: Absolutely, the US had some significant tariff policies during that time. The Tariff Act of 1930, also known as the Smoot-Hawley Tariff, was particularly notable. Have you found any interesting insights into how those policies affected the economy back then?
