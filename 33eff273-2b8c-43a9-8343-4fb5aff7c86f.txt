@@ -12,3 +12,5 @@ User: I enjoy macroeconomics
 Bot: Ah, macroeconomics! Understanding the big picture of economies can be really eye-opening. Is there a particular topic or concept in macroeconomics that you're particularly drawn to?
 User: How federal policy can impact a nations economy
 Bot: That's a fascinating area! Policies can indeed have huge ripple effects. Have you come across any interesting case studies or examples recently?
+User: Yes, I am interested to see how the tarriffs are implemented and what effects they cause
+Bot: That's definitely a hot topic! Tariffs can really shake things up in trade and influence domestic economies. Have you looked into any specific countries or instances where tariffs had a noticeable impact?
