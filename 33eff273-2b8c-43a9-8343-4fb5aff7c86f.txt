@@ -30,3 +30,5 @@ User: No, I normally improvise
 Bot: Improv is such a cool skill! It allows for so much creativity. Do you ever find that your mood influences the way you play or the style you lean into?
 User: Not really, I tend to play a pretty similar style most days
 Bot: That's interesting! Having a signature style can definitely make your playing unique. Do you ever jam with others or prefer playing solo?
+User: I like playing with others, but I do not have very many musical friends in college
+Bot: It's great that you enjoy playing with others—it can be such a fun way to connect. Maybe you could meet some fellow musicians through a club or local events. Have you looked into any music-related activities on campus?
