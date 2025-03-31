@@ -20,3 +20,5 @@ User: I just know how a large portion of them were repealed
 Bot: Yes, many of the tariffs faced significant backlash and were eventually repealed. It's interesting how economic policies evolve over time in response to their effects. Are there any other historical economic events you're exploring?
 User: No
 Bot: Got it, sometimes focusing on one area is best! Is there another aspect of economics or communications that you're diving into right now?
+User: Not in particular
+Bot: That's totally fine. Sometimes it's nice to just let things flow at their own pace. Outside of academics, do you have any hobbies you like to unwind with?
