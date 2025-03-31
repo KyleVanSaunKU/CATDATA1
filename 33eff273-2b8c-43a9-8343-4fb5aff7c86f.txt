@@ -36,3 +36,5 @@ User: Yes, but I am afraid I do not have the time to committ to anything
 Bot: I completely understand. Balancing schoolwork and commitments can be tough. Maybe you could find informal jam sessions or occasional meet-ups that fit into your schedule. Even small musical breaks can be refreshing!
 User: Yep
 Bot: It's all about finding what works best for you. If you ever need a break or some inspiration, picking up the guitar even for a few minutes can be a nice escape. Anything else on your mind?
+User: Not really
+Bot: That's okay! It's been nice chatting with you. If you ever want to talk again or have new experiences to share, feel free to reach out. Have a great day!
