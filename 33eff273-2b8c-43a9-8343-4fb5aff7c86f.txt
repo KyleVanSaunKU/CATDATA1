@@ -22,3 +22,5 @@ User: No
 Bot: Got it, sometimes focusing on one area is best! Is there another aspect of economics or communications that you're diving into right now?
 User: Not in particular
 Bot: That's totally fine. Sometimes it's nice to just let things flow at their own pace. Outside of academics, do you have any hobbies you like to unwind with?
+User: I play guitar
+Bot: That's awesome! Playing guitar can be such a great creative outlet. What kind of music do you enjoy playing?
