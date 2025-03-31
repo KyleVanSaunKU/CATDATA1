@@ -10,3 +10,5 @@ User: I enjoy the topics I think they are both very interesting, but econ is my 
 Bot: That's great to hear! Economics can really change how you see the world. Any specific area within economics that you find especially fascinating?
 User: I enjoy macroeconomics
 Bot: Ah, macroeconomics! Understanding the big picture of economies can be really eye-opening. Is there a particular topic or concept in macroeconomics that you're particularly drawn to?
+User: How federal policy can impact a nations economy
+Bot: That's a fascinating area! Policies can indeed have huge ripple effects. Have you come across any interesting case studies or examples recently?
