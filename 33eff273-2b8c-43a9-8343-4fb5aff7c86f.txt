@@ -28,3 +28,5 @@ User: I play whatever I feel like that day
 Bot: That's a perfect approach! It keeps things fresh and exciting. Do you have a favorite song to play when you really want to get into the groove?
 User: No, I normally improvise
 Bot: Improv is such a cool skill! It allows for so much creativity. Do you ever find that your mood influences the way you play or the style you lean into?
+User: Not really, I tend to play a pretty similar style most days
+Bot: That's interesting! Having a signature style can definitely make your playing unique. Do you ever jam with others or prefer playing solo?
