@@ -18,3 +18,5 @@ User: The US had a wide tarriff policy in the late 1800s and early 1900s
 Bot: Absolutely, the US had some significant tariff policies during that time. The Tariff Act of 1930, also known as the Smoot-Hawley Tariff, was particularly notable. Have you found any interesting insights into how those policies affected the economy back then?
 User: I just know how a large portion of them were repealed 
 Bot: Yes, many of the tariffs faced significant backlash and were eventually repealed. It's interesting how economic policies evolve over time in response to their effects. Are there any other historical economic events you're exploring?
+User: No
+Bot: Got it, sometimes focusing on one area is best! Is there another aspect of economics or communications that you're diving into right now?
