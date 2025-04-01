@@ -1,2 +1,4 @@
 User: Hello, nice to meet you. What is your name?
 Bot: Hi there! I'm a large language model, so I don't have a name like a person would. What's your name? It's nice to meet you!
+User: My name is Janae. How are you today?
+Bot: Hi, Janae! I'm just a program, so I don't have feelings, but I'm excited to chat with you today. How about you? How's your day going?
