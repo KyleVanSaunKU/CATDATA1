@@ -1,2 +1,4 @@
 User: hi
 Bot: Hello! How's it going?
+User: good how are you
+Bot: I'm doing well, thank you! What have you been up to today?
