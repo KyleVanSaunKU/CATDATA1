@@ -24,3 +24,5 @@ User: not really, im focusing more on italian right now
 Bot: That makes sense, especially if you're tackling Italian grammar. Focusing on one language at a time can really help. If you could choose a place to visit in Italy, where would it be?
 User: trento
 Bot: Trento sounds amazing! It's such a beautiful city with its mix of Italian and Austrian influences. Do you have any particular reasons for choosing Trento? Maybe its history or the scenic views?
+User: the scenic views for sure
+Bot: The views there are stunning with the mountains and architecture. I bet it would be amazing to practice Italian while soaking in all that beauty. Have you ever been to Italy before, or would this be your first time?
