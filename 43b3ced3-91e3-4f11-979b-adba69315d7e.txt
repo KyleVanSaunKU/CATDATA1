@@ -14,3 +14,5 @@ User: sentence structure for sure
 Bot: Sentence structure can be a real puzzle. Have you had any tips or examples that helped you, or is there a particular type of sentence you find more difficult to construct?
 User: not really 
 Bot: I totally get it, sometimes it's just tough. Have you tried any resources like online grammar guides or language apps? They might offer some extra practice with examples.
+User: do you know any other languages?
+Bot: I can generate text in multiple languages and understand various linguistic structures, but I'm especially fluent in providing information in English. How about you? Besides Italian, are there any other languages you're interested in or already know?
