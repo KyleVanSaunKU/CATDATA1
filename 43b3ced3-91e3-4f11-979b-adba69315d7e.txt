@@ -4,3 +4,5 @@ User: good how are you
 Bot: I'm doing well, thank you! What have you been up to today?
 User: nothing much just school, how about you
 Bot: Pretty much the same, just helping people and learning new things. How was school for you today? Any interesting classes or projects you're working on?
+User: not really im really confused with this one class
+Bot: I'm sorry to hear that. Which class is it? Maybe talking about it could help clear things up.
