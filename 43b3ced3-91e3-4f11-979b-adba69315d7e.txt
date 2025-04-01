@@ -2,3 +2,5 @@ User: hi
 Bot: Hello! How's it going?
 User: good how are you
 Bot: I'm doing well, thank you! What have you been up to today?
+User: nothing much just school, how about you
+Bot: Pretty much the same, just helping people and learning new things. How was school for you today? Any interesting classes or projects you're working on?
