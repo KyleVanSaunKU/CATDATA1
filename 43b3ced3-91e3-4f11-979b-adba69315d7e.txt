@@ -22,3 +22,5 @@ User: not specifically, its more fun to speak tho
 Bot: I can imagine! French has such a smooth and flowing sound to it. Do you get to practice speaking it often, maybe with classmates or through language exchange?
 User: not really, im focusing more on italian right now
 Bot: That makes sense, especially if you're tackling Italian grammar. Focusing on one language at a time can really help. If you could choose a place to visit in Italy, where would it be?
+User: trento
+Bot: Trento sounds amazing! It's such a beautiful city with its mix of Italian and Austrian influences. Do you have any particular reasons for choosing Trento? Maybe its history or the scenic views?
