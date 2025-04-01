@@ -18,3 +18,5 @@ User: do you know any other languages?
 Bot: I can generate text in multiple languages and understand various linguistic structures, but I'm especially fluent in providing information in English. How about you? Besides Italian, are there any other languages you're interested in or already know?
 User: french
 Bot: That's great! French is such a beautiful language. How are you finding it compared to Italian? Any parts of French that you really enjoy or find challenging?
+User: not specifically, its more fun to speak tho
+Bot: I can imagine! French has such a smooth and flowing sound to it. Do you get to practice speaking it often, maybe with classmates or through language exchange?
