@@ -20,3 +20,5 @@ User: french
 Bot: That's great! French is such a beautiful language. How are you finding it compared to Italian? Any parts of French that you really enjoy or find challenging?
 User: not specifically, its more fun to speak tho
 Bot: I can imagine! French has such a smooth and flowing sound to it. Do you get to practice speaking it often, maybe with classmates or through language exchange?
+User: not really, im focusing more on italian right now
+Bot: That makes sense, especially if you're tackling Italian grammar. Focusing on one language at a time can really help. If you could choose a place to visit in Italy, where would it be?
