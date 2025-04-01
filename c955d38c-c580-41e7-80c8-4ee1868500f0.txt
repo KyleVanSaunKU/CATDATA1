@@ -8,3 +8,5 @@ User: I love to read and cook!
 Bot: Those are both amazing hobbies! What kinds of books do you like to read, and do you have a favorite type of dish that you enjoy cooking?
 User: I like reading fantasy books and trying new recipes from other cultures.
 Bot: Fantasy books are so enchanting—it's like escaping to another world! Do you have a favorite fantasy series or author? And trying recipes from different cultures sounds like such a fun way to explore new flavors. Is there a particular cuisine you’ve enjoyed cooking the most?
+User: I enjoy The Lord of the Rings and I think Mediterranean cuisine is the most interesting to me right now.
+Bot: The Lord of the Rings is such a classic! The world-building and characters are just incredible. And Mediterranean cuisine is so flavorful and diverse—lots of fresh ingredients and vibrant tastes. Have you tried making any specific Mediterranean dishes that you particularly enjoyed?
