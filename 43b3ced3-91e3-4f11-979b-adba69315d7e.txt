@@ -8,3 +8,5 @@ User: not really im really confused with this one class
 Bot: I'm sorry to hear that. Which class is it? Maybe talking about it could help clear things up.
 User: Its italian 
 Bot: Italian can be tricky, but also so fascinating! What part of it is confusing you? Maybe grammar, vocabulary, or something else?
+User: its the grammar 
+Bot: Grammar can definitely be challenging. Is there a specific aspect of Italian grammar that's giving you trouble, like verb conjugations or sentence structure?
