@@ -14,3 +14,5 @@ User: i really enjoy running, i used to be a distance runner so i enjoy starting
 Bot: That's awesome! Running is such a great way to clear your mind and get some cardio in. It must be nice to have a background in distance running. Mixing in lifting sounds like a well-rounded routine. Do you have a favorite place to run or a preferred distance you like to cover?
 User: the distance i run can differ, but i love running at the rec or now around lawarence
 Bot: Lawrence sounds like a beautiful place to run, especially if you can change up your scenery. Do you enjoy running through trails or do you prefer sticking to roads and tracks?
+User: I enjoy trails more but i usually stick to roads and sidewalk for safety
+Bot: That makes sense! Trails can be scenic, but it's always good to prioritize safety. Running on roads and sidewalks probably gives you a better idea of your distance and pace, too. Do you listen to music or podcasts while you run, or do you prefer just soaking in the environment?
