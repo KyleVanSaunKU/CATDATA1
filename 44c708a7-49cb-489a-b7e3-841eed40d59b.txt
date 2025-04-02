@@ -6,3 +6,5 @@ User: i was able to have some extra time this morning to get ready for class and
 Bot: That sounds amazing! It's always nice to have a smooth start to the day. What did you have for breakfast?
 User: I had some yummy protein balls and a celcuis which isnt crazy but a great start to my day! 
 Bot: That sounds like a tasty way to kick off the morning! Protein balls are such a good choice for energy, and Celsius is really refreshing. Do you usually have a busy morning routine?
+User: yes, i try to get up and go to the gym in the mornings to try and wake up, or study so i try to make a morning busy. how about you!
+Bot: That's awesome! Starting the day with a gym session or some study time is super productive. I generally like to start the day with a bit of reading or catching up on the latest news. It helps me ease into the day. Do you find that working out in the morning really wakes you up and sets the tone for the day?
