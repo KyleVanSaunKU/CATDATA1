@@ -12,3 +12,5 @@ User: yes! i love it, it really wakes me up in the morning and ive found makes m
 Bot: That's great to hear! It's amazing how getting active in the morning can boost productivity. And yeah, staying informed is something I value, too. Do you have any favorite workouts or is there a specific type of exercise you enjoy?
 User: i really enjoy running, i used to be a distance runner so i enjoy starting off with that and then lifting whatever area i can alternating every day.
 Bot: That's awesome! Running is such a great way to clear your mind and get some cardio in. It must be nice to have a background in distance running. Mixing in lifting sounds like a well-rounded routine. Do you have a favorite place to run or a preferred distance you like to cover?
+User: the distance i run can differ, but i love running at the rec or now around lawarence
+Bot: Lawrence sounds like a beautiful place to run, especially if you can change up your scenery. Do you enjoy running through trails or do you prefer sticking to roads and tracks?
