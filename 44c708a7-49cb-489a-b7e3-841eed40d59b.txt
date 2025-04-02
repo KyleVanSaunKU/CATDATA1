@@ -8,3 +8,5 @@ User: I had some yummy protein balls and a celcuis which isnt crazy but a great 
 Bot: That sounds like a tasty way to kick off the morning! Protein balls are such a good choice for energy, and Celsius is really refreshing. Do you usually have a busy morning routine?
 User: yes, i try to get up and go to the gym in the mornings to try and wake up, or study so i try to make a morning busy. how about you!
 Bot: That's awesome! Starting the day with a gym session or some study time is super productive. I generally like to start the day with a bit of reading or catching up on the latest news. It helps me ease into the day. Do you find that working out in the morning really wakes you up and sets the tone for the day?
+User: yes! i love it, it really wakes me up in the morning and ive found makes me more productive. reading the news is so important im glad you find time to do that
+Bot: That's great to hear! It's amazing how getting active in the morning can boost productivity. And yeah, staying informed is something I value, too. Do you have any favorite workouts or is there a specific type of exercise you enjoy?
