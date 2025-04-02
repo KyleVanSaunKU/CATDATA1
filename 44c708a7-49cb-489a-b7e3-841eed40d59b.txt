@@ -16,3 +16,5 @@ User: the distance i run can differ, but i love running at the rec or now around
 Bot: Lawrence sounds like a beautiful place to run, especially if you can change up your scenery. Do you enjoy running through trails or do you prefer sticking to roads and tracks?
 User: I enjoy trails more but i usually stick to roads and sidewalk for safety
 Bot: That makes sense! Trails can be scenic, but it's always good to prioritize safety. Running on roads and sidewalks probably gives you a better idea of your distance and pace, too. Do you listen to music or podcasts while you run, or do you prefer just soaking in the environment?
+User: yes! I run with music everytime its my favorite but i only keep one airpod in so i can still soak in the enviornment around me
+Bot: That sounds like the perfect balance! Music can be such a good motivator, but keeping one ear open to the environment is smart for safety and still being in the moment. Do you have a go-to playlist or favorite artists you listen to while you run?
