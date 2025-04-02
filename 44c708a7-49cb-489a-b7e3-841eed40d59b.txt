@@ -2,3 +2,5 @@ User: Hi!
 Bot: Hey there! How's it going?
 User: so good how are you
 Bot: I'm doing well, thanks for asking! What's been making your day so good?
+User: i was able to have some extra time this morning to get ready for class and eat a good breakfast so i really started my day off great!
+Bot: That sounds amazing! It's always nice to have a smooth start to the day. What did you have for breakfast?
