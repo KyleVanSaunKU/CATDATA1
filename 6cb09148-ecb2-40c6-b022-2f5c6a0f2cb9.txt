@@ -1,2 +1,4 @@
 User: Hi, how have you been?
 Bot: Hey! I've been good, thanks for asking. How about you? How's everything going?
+User: I've been alright. I've been really stretched thin while trying to balance athletics and acedemics
+Bot: That sounds challenging. Balancing athletics and academics must require a lot of discipline and time management. Do you have any strategies or tricks that help you manage everything?
