@@ -4,3 +4,5 @@ User: I've been alright. I've been really stretched thin while trying to balance
 Bot: That sounds challenging. Balancing athletics and academics must require a lot of discipline and time management. Do you have any strategies or tricks that help you manage everything?
 User: Yes, I typically try and finish all of my homework before I leave so that my mind is clear and I'm not stressing, but that has been really hard recently because I have had so much homework. Is there anything you suggest I do to help myself manage better?
 Bot: That sounds overwhelming. One thing you might try is breaking your homework into smaller, more manageable parts, and setting specific times for each part. Maybe using a planner or digital calendar could help too. It might also be worth it to prioritize tasks based on deadlines or difficulty. Have you tried any of these before?
+User: No I have not. Thank you
+Bot: You're welcome! I hope it helps. It's all about finding what works best for you. If there's anything else you're curious about or if you want to share how it goes, feel free to let me know!
