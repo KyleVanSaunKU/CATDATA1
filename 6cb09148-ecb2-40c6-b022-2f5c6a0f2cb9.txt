@@ -10,3 +10,5 @@ User: Yes I will. While we are here tell me what you know about pole vaulting
 Bot: Pole vaulting is an exciting and challenging sport! It's all about using a long, flexible pole to jump over a high bar. Athletes need a combination of speed, strength, agility, and coordination to successfully clear the bar. Timing and technique are crucial, from the sprint down the runway to planting the pole in the box and executing the vault itself. Are you involved in pole vaulting, or just interested in learning more about it?
 User: I am involved in it here at KU
 Bot: That's awesome! Pole vaulting is such a unique sport. It must take a lot of dedication and practice to master all the elements. How long have you been doing it, and what got you interested in pole vaulting in the first place?
+User: I have been doing it since seventh grade and I got into it after I quit gymnastics
+Bot: That's quite a journey! Gymnastics must have given you a strong foundation for pole vaulting, especially with body control and aerial awareness. Do you find that those skills transfer over well? What do you enjoy most about pole vaulting?
