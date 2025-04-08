@@ -16,3 +16,5 @@ User: i like to work with metal and make jewelry. I am a metalsmith
 Bot: Wow, that's really cool! Working with metal to make jewelry sounds like such a unique and creative craft. How did you get into metalsmithing?
 User: i took a metalsmithing class in high school and fell in love with the art
 Bot: That's a wonderful story! It's amazing how a class can lead to a passion. Do you have any favorite pieces you've created or projects you're working on right now?
+User: i really like working on sculptural pieces or rings. I actually have been in two museums 
+Bot: That's incredible! Having your work featured in museums is quite an achievement. Sculptural pieces and rings both sound like they have their own unique challenges. What was it like seeing your art displayed in a museum?
