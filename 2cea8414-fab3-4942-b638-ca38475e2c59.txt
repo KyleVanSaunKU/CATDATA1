@@ -22,3 +22,5 @@ User: it is very fun and makes me proud of my work
 Bot: I can imagine! It's a huge accomplishment to see your hard work and creativity recognized like that. It must be such a rewarding feeling. Do you have any upcoming projects or goals with your metalsmithing?
 User: i have entered into a competition and i am hoping to win
 Bot: That's exciting! Competitions can be a great way to showcase your skills. What piece are you submitting, or is it still under wraps? Good luck—I hope it goes really well for you!
+User: goodbye
+Bot: Goodbye! It was great chatting with you. Best of luck with your competition and everything else. Take care!
