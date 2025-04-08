@@ -4,3 +4,5 @@ User: its going well
 Bot: Great to hear that! What have you been up to lately?
 User: i have been working a bunch and doing school work 
 Bot: Sounds like you've got a lot on your plate! What kind of work are you doing, and what are you studying?
+User: i an in a pre pharmacy program and work as a lab assistant
+Bot: That's impressive! Being in a pre-pharmacy program must be really interesting. How do you find balancing your studies with your work as a lab assistant?
