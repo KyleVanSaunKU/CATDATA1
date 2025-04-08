@@ -14,3 +14,5 @@ User: i like to read and do art in my free time
 Bot: That's awesome! Reading and art are both amazing ways to unwind and be creative. Do you have a favorite book or a type of art you enjoy most?
 User: i like to work with metal and make jewelry. I am a metalsmith
 Bot: Wow, that's really cool! Working with metal to make jewelry sounds like such a unique and creative craft. How did you get into metalsmithing?
+User: i took a metalsmithing class in high school and fell in love with the art
+Bot: That's a wonderful story! It's amazing how a class can lead to a passion. Do you have any favorite pieces you've created or projects you're working on right now?
