@@ -10,3 +10,5 @@ User: i just have to push through and keep myself busy
 Bot: That's a good strategy to stay focused! Do you have any tips or ways you like to relax when you need a break from everything?
 User: i like to see my friends and take time to do the things i enjoy
 Bot: That sounds like a great way to recharge! Hanging out with friends can really help relieve stress. What kinds of things do you enjoy doing in your free time?
+User: i like to read and do art in my free time
+Bot: That's awesome! Reading and art are both amazing ways to unwind and be creative. Do you have a favorite book or a type of art you enjoy most?
