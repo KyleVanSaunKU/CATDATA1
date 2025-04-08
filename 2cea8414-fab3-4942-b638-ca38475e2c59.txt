@@ -6,3 +6,5 @@ User: i have been working a bunch and doing school work
 Bot: Sounds like you've got a lot on your plate! What kind of work are you doing, and what are you studying?
 User: i an in a pre pharmacy program and work as a lab assistant
 Bot: That's impressive! Being in a pre-pharmacy program must be really interesting. How do you find balancing your studies with your work as a lab assistant?
+User: i just have to push through and keep myself busy 
+Bot: That's a good strategy to stay focused! Do you have any tips or ways you like to relax when you need a break from everything?
