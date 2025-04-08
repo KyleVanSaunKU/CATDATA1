@@ -20,3 +20,5 @@ User: i really like working on sculptural pieces or rings. I actually have been 
 Bot: That's incredible! Having your work featured in museums is quite an achievement. Sculptural pieces and rings both sound like they have their own unique challenges. What was it like seeing your art displayed in a museum?
 User: it is very fun and makes me proud of my work 
 Bot: I can imagine! It's a huge accomplishment to see your hard work and creativity recognized like that. It must be such a rewarding feeling. Do you have any upcoming projects or goals with your metalsmithing?
+User: i have entered into a competition and i am hoping to win
+Bot: That's exciting! Competitions can be a great way to showcase your skills. What piece are you submitting, or is it still under wraps? Good luck—I hope it goes really well for you!
