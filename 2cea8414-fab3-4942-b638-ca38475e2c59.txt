@@ -12,3 +12,5 @@ User: i like to see my friends and take time to do the things i enjoy
 Bot: That sounds like a great way to recharge! Hanging out with friends can really help relieve stress. What kinds of things do you enjoy doing in your free time?
 User: i like to read and do art in my free time
 Bot: That's awesome! Reading and art are both amazing ways to unwind and be creative. Do you have a favorite book or a type of art you enjoy most?
+User: i like to work with metal and make jewelry. I am a metalsmith
+Bot: Wow, that's really cool! Working with metal to make jewelry sounds like such a unique and creative craft. How did you get into metalsmithing?
