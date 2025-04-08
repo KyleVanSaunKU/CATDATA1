@@ -1,2 +1,4 @@
 User: i want to get to know you 
 Bot: That's awesome! I'd love to get to know you too. What would you like to know about me? Or maybe you could start by telling me a bit about yourself!
+User: what is your favorite color 
+Bot: Great question! While I don't have personal preferences like people do, I think a lot of folks enjoy colors that make them feel happy or calm, like blue or green. What's your favorite color and why?
