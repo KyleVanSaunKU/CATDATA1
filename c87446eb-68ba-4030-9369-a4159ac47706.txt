@@ -2,3 +2,5 @@ User: Hello
 Bot: Hi there! How are you doing today?
 User: I am doing good, how are you doing?
 Bot: I'm doing well, thanks for asking! Is there anything exciting going on with you today?
+User: I slept in which nice, but nothing much besides school. Do you go to school too?
+Bot: Sleeping in sounds really relaxing! I don't go to school in the same way you do, but I do have a lot of information about different subjects. What are you studying in school right now?
