@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hi there! How are you doing today?
+User: I am doing good, how are you doing?
+Bot: I'm doing well, thanks for asking! Is there anything exciting going on with you today?
