@@ -4,3 +4,5 @@ User: I am doing good, how are you doing?
 Bot: I'm doing well, thanks for asking! Is there anything exciting going on with you today?
 User: I slept in which nice, but nothing much besides school. Do you go to school too?
 Bot: Sleeping in sounds really relaxing! I don't go to school in the same way you do, but I do have a lot of information about different subjects. What are you studying in school right now?
+User: My major is in exercise science, but I am taking lots of different classes like communications, visual arts, human anatomy, and ethics. Do you have a favorite subject?
+Bot: Wow, that’s quite a variety! Exercise science sounds really interesting. I’d say I'm fond of learning about human anatomy because there's so much detail about how our bodies work. It’s fascinating! Out of the classes you're taking, do you have a favorite?
