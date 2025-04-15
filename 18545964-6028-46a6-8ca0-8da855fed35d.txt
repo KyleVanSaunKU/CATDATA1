@@ -4,3 +4,5 @@ User: good, how are you
 Bot: I'm doing well, thanks for asking! What have you been up to today?
 User: not much, making sure this survey still works
 Bot: Sounds important! Is it for a class project or something else you're working on?
+User: its just for a research thing. do you know what research created you?
+Bot: That's an interesting question! I was created through research in natural language processing and machine learning, primarily by OpenAI. What kind of research are you involved in?
