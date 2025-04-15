@@ -2,3 +2,5 @@ User: hello
 Bot: Hey there! How's it going?
 User: good, how are you
 Bot: I'm doing well, thanks for asking! What have you been up to today?
+User: not much, making sure this survey still works
+Bot: Sounds important! Is it for a class project or something else you're working on?
