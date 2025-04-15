@@ -1,2 +1,4 @@
 User: Hey, how's it going? 
 Bot: Hey! It's going pretty well, thanks for asking. How about you? What's been on your mind lately?
+User: I've been thinking about the warm weather, wrapping up the semester, stuff like that. How about you?
+Bot: Ah, the warm weather's been nice, hasn't it? Perfect for getting outside a bit. Wrapping up the semester must be both exciting and a little stressful. Are you feeling ready for finals and all that?
