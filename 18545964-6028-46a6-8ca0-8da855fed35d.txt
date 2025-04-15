@@ -6,3 +6,9 @@ User: not much, making sure this survey still works
 Bot: Sounds important! Is it for a class project or something else you're working on?
 User: its just for a research thing. do you know what research created you?
 Bot: That's an interesting question! I was created through research in natural language processing and machine learning, primarily by OpenAI. What kind of research are you involved in?
+User: human machine communication. what is language processing and machine learning
+Bot: Human-machine communication sounds fascinating! Natural language processing, or NLP, is a field of computer science focused on the interaction between computers and humans through language. It's all about helping machines understand and generate human language in a way that's useful.
+
+Machine learning, on the other hand, is a type of artificial intelligence that allows systems to learn from data and improve over time. It's a technique that's often used in NLP to enable machines to understand and generate language more effectively.
+
+How do these topics relate to your research?
