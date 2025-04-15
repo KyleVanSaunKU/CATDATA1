@@ -12,3 +12,9 @@ Bot: Human-machine communication sounds fascinating! Natural language processing
 Machine learning, on the other hand, is a type of artificial intelligence that allows systems to learn from data and improve over time. It's a technique that's often used in NLP to enable machines to understand and generate language more effectively.
 
 How do these topics relate to your research?
+User: ELI5
+Bot: Sure thing! Think of natural language processing (NLP) as teaching computers to understand and talk like humans do. It’s like when you're learning a new language, you start picking up on words and phrases; NLP helps computers do that with human language.
+
+Machine learning is kind of like the way you learn from experiences. Imagine every time you play a video game, you get better because you remember what worked and what didn’t. Computers use machine learning to get better at tasks by learning from lots of data, just like you learn from practice.
+
+Does that make sense? How does this fit into your study of human-machine communication?
