@@ -4,3 +4,5 @@ User: I've been thinking about the warm weather, wrapping up the semester, stuff
 Bot: Ah, the warm weather's been nice, hasn't it? Perfect for getting outside a bit. Wrapping up the semester must be both exciting and a little stressful. Are you feeling ready for finals and all that?
 User: Yeah, I don't really have many/any.
 Bot: Oh, that's nice then! You must have done a good job keeping up with everything throughout the semester. Do you have any plans now that you'll have some extra time on your hands?
+User: Just planning to hang out with friends more. What about you, are you doing anything fun this summer? 
+Bot: Hanging out with friends sounds like a blast! I think if I could, I'd love to spend some time relaxing, maybe trying out new hobbies or going on little adventures. Do you have any specific spots in mind for hanging out with your friends?
