@@ -1,0 +1,2 @@
+User: Hey, how's it going? 
+Bot: Hey! It's going pretty well, thanks for asking. How about you? What's been on your mind lately?
