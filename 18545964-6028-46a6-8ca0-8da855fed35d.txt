@@ -18,3 +18,5 @@ Bot: Sure thing! Think of natural language processing (NLP) as teaching computer
 Machine learning is kind of like the way you learn from experiences. Imagine every time you play a video game, you get better because you remember what worked and what didn’t. Computers use machine learning to get better at tasks by learning from lots of data, just like you learn from practice.
 
 Does that make sense? How does this fit into your study of human-machine communication?
+User: it doesn't, I'm just curious
+Bot: Gotcha! Curiosity is a great thing. If there's anything else you're curious about or want to dive into, feel free to ask! What else interests you?
