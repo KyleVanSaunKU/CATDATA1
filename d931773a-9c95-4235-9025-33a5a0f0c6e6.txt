@@ -1,0 +1,2 @@
+User: Hi I am participant 1234
+Bot: Hi there! Nice to meet you, participant 1234. How's your day going so far?
