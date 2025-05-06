@@ -6,3 +6,5 @@ User: Just working on my last projects for school, how about you
 Bot: That sounds like a busy time! I'm just here, ready to help out and chat. What kind of projects are you working on?
 User: COMS 210
 Bot: Nice! That's a communications course, right? What’s your project about?
+User: Organizational communication
+Bot: That sounds interesting! Are you focusing on any specific aspect of organizational communication for your project?
