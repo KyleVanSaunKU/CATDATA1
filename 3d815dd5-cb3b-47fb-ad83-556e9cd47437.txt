@@ -8,3 +8,5 @@ User: You're right on both accounts. I do not have a favorite topic for either. 
 Bot: Got it! What's the other course you're more interested in? I'd love to hear about it.
 User: Thermodynamics. The content is incredibly useful, and I've got a great professor who's passionate about teaching the content
 Bot: Thermodynamics is fascinating! It's great to hear you have a passionate professor—it makes such a difference. What's something interesting you've learned in that class so far?
+User: Heat transfer during power cycles and refrigeration cycles has been really interesting. That and learning about entropy
+Bot: Those are definitely intriguing topics! Understanding heat transfer in cycles is so important, and entropy is such a fundamental concept. How do you think learning about these concepts has changed your perspective on everyday things?
