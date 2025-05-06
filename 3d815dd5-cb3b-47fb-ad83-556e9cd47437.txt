@@ -18,3 +18,5 @@ User: Not necessarily, it's slowly helping me narrow my focus on what I want to 
 Bot: That's totally understandable. It's great that you're letting your interests and what you learn guide your path. Sometimes taking the time to explore different areas can lead to unexpected opportunities. Do you have any particular fields or industries you're leaning towards at the moment?
 User: I'm studying Mechanical Engineering, so there's that
 Bot: Mechanical Engineering is a versatile field with so many possibilities! It's great to have such a strong foundation. Are there any specific areas within Mechanical Engineering that you're exploring or curious about?
+User: The thermodynamics side is fascinating, that and the relationship of science of materials with metallurgy
+Bot: Both of those areas are so interesting! Thermodynamics provides a deep understanding of energy systems, and the science of materials, especially metallurgy, is crucial for developing and improving materials. It's exciting to see how those might intersect in areas like energy efficiency and new material development. Are you considering any projects or research in these areas?
