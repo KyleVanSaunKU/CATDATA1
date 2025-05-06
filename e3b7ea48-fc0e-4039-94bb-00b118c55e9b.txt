@@ -12,3 +12,5 @@ User: Not really, I'm more stressed about my italian
 Bot: I totally get that. Language courses can be challenging. What part of Italian is giving you the most trouble?
 User: the grammar 
 Bot: Yeah, Italian grammar can be pretty tricky! Are there any specific grammar rules that you find particularly confusing?
+User: I hate figuring out what conjugation I need to be using
+Bot: Conjugations can definitely be tough. There are so many tenses and verbs to keep track of! Are you finding any strategies that help, like flashcards or practice exercises?
