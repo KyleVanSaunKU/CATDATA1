@@ -4,3 +4,5 @@ User: Good what about you?
 Bot: I'm doing well, thanks for asking! Anything interesting happening with you lately?
 User: Yea, lifes been pretty busy recently, meeting a lot of new people going new places and trying new things. What about you?
 Bot: That sounds exciting! I love when life gets busy in a good way. Meeting new people and exploring new places can be really energizing. For me, things have been fairly steady, lots of learning and keeping up with what's new. What's something new you've tried recently that you really enjoyed?
+User: I went to this bar called the up and under last friday with all my friends, 1 dollar drinks and we got really drunk and just danced
+Bot: That sounds like a blast! A night out with friends, enjoying affordable drinks and just letting loose on the dance floor can be some of the best memories. Did you have a favorite song that got you and your friends dancing?
