@@ -4,3 +4,5 @@ User: It's okay, getting ready to do some studying in a bit
 Bot: That's cool! What subject are you going to study?
 User: Statistics and the Mechanics of Materials
 Bot: Those sound interesting! Statistics can be really useful, and Mechanics of Materials seems quite challenging. Do you have a favorite topic within those subjects?
+User: You're right on both accounts. I do not have a favorite topic for either. I'm more interested in another course I'm in
+Bot: Got it! What's the other course you're more interested in? I'd love to hear about it.
