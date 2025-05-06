@@ -24,3 +24,5 @@ User: yes super helpful. whats your favorite color
 Bot: I’d say blue is pretty popular, but what about you? Do you have a favorite color?
 User: yes green 
 Bot: Green is great! It’s such a lively and refreshing color. Do you have anything in particular that's green that you really like?
+User: i really like wearing green
+Bot: Nice choice! Green clothing can really stand out and has a calming vibe. Do you have a favorite green shirt or outfit?
