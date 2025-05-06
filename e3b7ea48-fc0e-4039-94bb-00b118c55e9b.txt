@@ -22,3 +22,5 @@ User: Theres a boy in my class I like to talk to
 Bot: That's great! Having someone to study with can make a big difference, and it sounds like a nice way to connect with someone, too. Do you find it helpful to work together on homework?
 User: yes super helpful. whats your favorite color
 Bot: I’d say blue is pretty popular, but what about you? Do you have a favorite color?
+User: yes green 
+Bot: Green is great! It’s such a lively and refreshing color. Do you have anything in particular that's green that you really like?
