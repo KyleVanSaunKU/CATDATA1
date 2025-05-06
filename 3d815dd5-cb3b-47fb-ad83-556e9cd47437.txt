@@ -6,3 +6,5 @@ User: Statistics and the Mechanics of Materials
 Bot: Those sound interesting! Statistics can be really useful, and Mechanics of Materials seems quite challenging. Do you have a favorite topic within those subjects?
 User: You're right on both accounts. I do not have a favorite topic for either. I'm more interested in another course I'm in
 Bot: Got it! What's the other course you're more interested in? I'd love to hear about it.
+User: Thermodynamics. The content is incredibly useful, and I've got a great professor who's passionate about teaching the content
+Bot: Thermodynamics is fascinating! It's great to hear you have a passionate professor—it makes such a difference. What's something interesting you've learned in that class so far?
