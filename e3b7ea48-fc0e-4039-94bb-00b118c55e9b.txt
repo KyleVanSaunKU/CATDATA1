@@ -26,3 +26,5 @@ User: yes green
 Bot: Green is great! It’s such a lively and refreshing color. Do you have anything in particular that's green that you really like?
 User: i really like wearing green
 Bot: Nice choice! Green clothing can really stand out and has a calming vibe. Do you have a favorite green shirt or outfit?
+User: yes
+Bot: Awesome! There's something about having a favorite outfit that just makes you feel good. Do you wear it often?
