@@ -18,3 +18,5 @@ User: not really. keeping up with my homework helps
 Bot: That's a solid approach! Consistent practice can make a huge difference over time. Is your instructor pretty supportive if you have questions?
 User: he is scary ngl
 Bot: Oh no, that sounds tough! It can be intimidating if the instructor seems unapproachable. Do you have classmates you can study with, or maybe a TA you can reach out to for help?
+User: Theres a boy in my class I like to talk to 
+Bot: That's great! Having someone to study with can make a big difference, and it sounds like a nice way to connect with someone, too. Do you find it helpful to work together on homework?
