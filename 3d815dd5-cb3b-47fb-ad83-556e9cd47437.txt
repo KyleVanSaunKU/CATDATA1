@@ -16,3 +16,5 @@ User: Understanding how cycle efficiency works and how it compares to entropy ge
 Bot: That sounds like a really thoughtful approach. It's impressive how you're able to apply those principles to real-world scenarios. Balancing efficiency, cost, and entropy is certainly complex but important. Do you find that these concepts are shaping any specific projects or goals you have in mind?
 User: Not necessarily, it's slowly helping me narrow my focus on what I want to do post-undergrad, but I'm still not sure.
 Bot: That's totally understandable. It's great that you're letting your interests and what you learn guide your path. Sometimes taking the time to explore different areas can lead to unexpected opportunities. Do you have any particular fields or industries you're leaning towards at the moment?
+User: I'm studying Mechanical Engineering, so there's that
+Bot: Mechanical Engineering is a versatile field with so many possibilities! It's great to have such a strong foundation. Are there any specific areas within Mechanical Engineering that you're exploring or curious about?
