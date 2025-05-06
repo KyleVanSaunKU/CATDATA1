@@ -10,3 +10,5 @@ User: Organizational communication
 Bot: That sounds interesting! Are you focusing on any specific aspect of organizational communication for your project?
 User: Not really, I'm more stressed about my italian 
 Bot: I totally get that. Language courses can be challenging. What part of Italian is giving you the most trouble?
+User: the grammar 
+Bot: Yeah, Italian grammar can be pretty tricky! Are there any specific grammar rules that you find particularly confusing?
