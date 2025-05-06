@@ -14,3 +14,5 @@ User: the grammar
 Bot: Yeah, Italian grammar can be pretty tricky! Are there any specific grammar rules that you find particularly confusing?
 User: I hate figuring out what conjugation I need to be using
 Bot: Conjugations can definitely be tough. There are so many tenses and verbs to keep track of! Are you finding any strategies that help, like flashcards or practice exercises?
+User: not really. keeping up with my homework helps
+Bot: That's a solid approach! Consistent practice can make a huge difference over time. Is your instructor pretty supportive if you have questions?
