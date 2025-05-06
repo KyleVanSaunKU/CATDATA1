@@ -8,3 +8,5 @@ User: COMS 210
 Bot: Nice! That's a communications course, right? What’s your project about?
 User: Organizational communication
 Bot: That sounds interesting! Are you focusing on any specific aspect of organizational communication for your project?
+User: Not really, I'm more stressed about my italian 
+Bot: I totally get that. Language courses can be challenging. What part of Italian is giving you the most trouble?
