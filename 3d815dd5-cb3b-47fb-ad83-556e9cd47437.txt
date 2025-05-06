@@ -1,2 +1,4 @@
 User: hello
 Bot: Hello! How's it going?
+User: It's okay, getting ready to do some studying in a bit
+Bot: That's cool! What subject are you going to study?
