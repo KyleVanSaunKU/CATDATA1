@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey there! How's it going?
+User: good, its my last day of class
+Bot: That's exciting! How does it feel to be wrapping up? Are you doing anything special to celebrate?
