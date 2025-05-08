@@ -1,0 +1,2 @@
+User: hi! im julia
+Bot: Hi Julia! It's great to meet you. How's your day going so far?
