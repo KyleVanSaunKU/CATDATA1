@@ -1,2 +1,4 @@
 User: hi! im julia
 Bot: Hi Julia! It's great to meet you. How's your day going so far?
+User: my days been pretty good. and yours?
+Bot: I'm glad to hear that! My day's been going well, too. I've just been here, ready to chat and help out. Got anything fun planned for the rest of your day?
