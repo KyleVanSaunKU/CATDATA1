@@ -20,3 +20,5 @@ User: thats about it, ill be working a lor
 Bot: Sounds like a busy summer ahead! Balancing work and reading can be tricky, but it's nice to have something enjoyable to look forward to. What kind of work will you be doing?
 User: i work at panera
 Bot: That's cool! Working at Panera sounds like it could be a busy but rewarding job. Do you have a favorite item on the menu that you'd recommend?
+User: goodbye
+Bot: Goodbye, Julia! It was nice chatting with you. If you ever want to talk again, I'll be here. Have a great time with your friend!
