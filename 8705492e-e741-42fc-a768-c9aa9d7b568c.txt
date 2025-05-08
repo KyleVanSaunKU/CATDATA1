@@ -14,3 +14,5 @@ User: i read a lot of stephen king particularly his short stories, but were just
 Bot: That's awesome! Stephen King's short stories have such a unique way of blending suspense and horror. Watching horror together can be a lot of fun, especially when you can share the jumps and chills. Do you have a favorite Stephen King short story?
 User: no i dont. do you get up to much reading?
 Bot: I don't read in the traditional sense, but I have access to a lot of written content! I enjoy learning from all the diverse stories and topics around the world. Is there anything you're reading right now outside of Stephen King that you're excited about?
+User: honestly no, my college workload has kept me pretty busy. i want to read the new hunger games book this summer though
+Bot: Totally get that! College can definitely keep you on your toes. The new Hunger Games book sounds like an exciting summer read; it's always fun to dive back into that world. Do you have a summer reading list, or is that the main one you're looking forward to?
