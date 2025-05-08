@@ -6,3 +6,5 @@ User: probably gonna hangout with a friend later, do you have any plans?
 Bot: Hanging out with a friend sounds like a lot of fun! I don't have plans in the same way, but I'm here to chat and help with whatever you need. Do you and your friend have anything special you're planning to do?
 User: nope just catching up because we havent seen eachother in a while
 Bot: That sounds nice, catching up with a friend you haven't seen in a while can be really refreshing. Do you guys have any favorite activities you usually do together? Like maybe grabbing a coffee or just talking?
+User: we normally grab food and watch a movie or our show
+Bot: That sounds like a great way to spend time together! What show or movie are you guys into these days? Anything you've been really enjoying?
