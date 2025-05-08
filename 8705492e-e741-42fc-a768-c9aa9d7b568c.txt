@@ -10,3 +10,5 @@ User: we normally grab food and watch a movie or our show
 Bot: That sounds like a great way to spend time together! What show or movie are you guys into these days? Anything you've been really enjoying?
 User: we were watching this stephen king show on netflix and he like raunchy comedy like white girls and haunted house
 Bot: Nice, Stephen King adaptations can be so intriguing and suspenseful! Mixing that with some good laughs from raunchy comedies sounds like a fun balance. Do you have a favorite from the Stephen King series, or a comedy you're particularly fond of?
+User: i read a lot of stephen king particularly his short stories, but were just watching the show because we like to watch horror together
+Bot: That's awesome! Stephen King's short stories have such a unique way of blending suspense and horror. Watching horror together can be a lot of fun, especially when you can share the jumps and chills. Do you have a favorite Stephen King short story?
