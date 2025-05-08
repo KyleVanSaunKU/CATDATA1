@@ -16,3 +16,5 @@ User: no i dont. do you get up to much reading?
 Bot: I don't read in the traditional sense, but I have access to a lot of written content! I enjoy learning from all the diverse stories and topics around the world. Is there anything you're reading right now outside of Stephen King that you're excited about?
 User: honestly no, my college workload has kept me pretty busy. i want to read the new hunger games book this summer though
 Bot: Totally get that! College can definitely keep you on your toes. The new Hunger Games book sounds like an exciting summer read; it's always fun to dive back into that world. Do you have a summer reading list, or is that the main one you're looking forward to?
+User: thats about it, ill be working a lor
+Bot: Sounds like a busy summer ahead! Balancing work and reading can be tricky, but it's nice to have something enjoyable to look forward to. What kind of work will you be doing?
