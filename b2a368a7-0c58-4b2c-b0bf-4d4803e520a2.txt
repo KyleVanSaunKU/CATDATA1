@@ -10,3 +10,5 @@ User: Numbers. I like math but could never be a teacher
 Bot: That's great! Numbers can be really satisfying to work with. What do you find interesting about math?
 User: That there are rules and structure to it
 Bot: Absolutely, the structure and rules in math can make things feel very logical and predictable. Do you have a favorite area in math that you enjoy the most?
+User: I like algebra and calculus a lot
+Bot: Nice choices! Algebra and calculus can be really fascinating with how they build on each other. Are you working on any particular topics or problems in those areas right now?
