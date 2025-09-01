@@ -8,3 +8,5 @@ User: Accounting. What's your major?
 Bot: Accounting sounds interesting! I don't have a major, but I can help with a lot of topics. What do you like most about accounting?
 User: Numbers. I like math but could never be a teacher
 Bot: That's great! Numbers can be really satisfying to work with. What do you find interesting about math?
+User: That there are rules and structure to it
+Bot: Absolutely, the structure and rules in math can make things feel very logical and predictable. Do you have a favorite area in math that you enjoy the most?
