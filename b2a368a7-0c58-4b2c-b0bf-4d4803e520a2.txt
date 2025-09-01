@@ -6,3 +6,5 @@ User: Just school. What about you?
 Bot: Mostly here helping people out with their questions and projects! What are you studying in school?
 User: Accounting. What's your major?
 Bot: Accounting sounds interesting! I don't have a major, but I can help with a lot of topics. What do you like most about accounting?
+User: Numbers. I like math but could never be a teacher
+Bot: That's great! Numbers can be really satisfying to work with. What do you find interesting about math?
