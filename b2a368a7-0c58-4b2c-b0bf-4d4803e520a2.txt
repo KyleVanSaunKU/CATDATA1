@@ -14,3 +14,5 @@ User: I like algebra and calculus a lot
 Bot: Nice choices! Algebra and calculus can be really fascinating with how they build on each other. Are you working on any particular topics or problems in those areas right now?
 User: No. I am not taking those classes at the moment 
 Bot: Got it. Are there any accounting topics you're currently exploring that you're excited about?
+User: I like the financial and revenue side of accounting 
+Bot: That sounds interesting! There's a lot to learn about how finances and revenue work in businesses. Do you have a specific part of financial accounting that you find particularly engaging?
