@@ -6,3 +6,5 @@ User: well I taught this morning and the class attendance was very good
 Bot: That's awesome! Having a good turnout must feel rewarding. What subject do you teach?
 User: COMS 322
 Bot: That's cool! Communication studies can be such a fascinating field. What topics did you cover in class today?
+User: it is a speech day
+Bot: Speech days can be really exciting! What was the focus of the speeches today? 
