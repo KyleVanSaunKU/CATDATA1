@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 7863
 Bot: Hi there! Nice to meet you. How's your day been going so far?
 User: It is going well
 Bot: That's great to hear! Are you up to anything interesting today?
+User: well I taught this morning and the class attendance was very good
+Bot: That's awesome! Having a good turnout must feel rewarding. What subject do you teach?
