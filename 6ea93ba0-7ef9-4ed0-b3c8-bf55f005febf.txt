@@ -12,3 +12,5 @@ User: it was informative speech
 Bot: Informative speeches are a great way for students to dive deep into a topic. Did you hear any particularly interesting or unique speeches?
 User: well one student told why blue eyes are blue
 Bot: That sounds fascinating! I've always been curious about the science behind eye colors. Did they explain the genetic or structural aspect of it?
+User: yes, she talked about the sky stuff, do you know why
+Bot: Yes, it's quite interesting! The way blue eyes work is somewhat similar to why the sky appears blue. It's due to something called Rayleigh scattering, where light scatters in different directions. Blue light is scattered more because it travels in shorter, smaller waves. So, in blue eyes, less melanin means more of this scattering, making them appear blue. It's like a mini version of the sky! Did the student share any surprising facts about this?
