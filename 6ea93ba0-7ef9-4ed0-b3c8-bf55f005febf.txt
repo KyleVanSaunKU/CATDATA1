@@ -18,3 +18,5 @@ User: Wow you are knowledgeable
 Bot: Thank you! I'm glad I could share that with you. It's such an interesting topic. Do you enjoy learning about these kinds of scientific explanations?
 User: well l like geography more
 Bot: Geography is fascinating too! There's so much to explore, from physical landscapes to human cultures. Do you have a favorite geographic region or topic that you're particularly passionate about?
+User: i like world map
+Bot: World maps are amazing! They're like windows to our planet's diversity and vastness. Do you enjoy studying them for travel inspiration, or is there a certain aspect of maps that captivates you?
