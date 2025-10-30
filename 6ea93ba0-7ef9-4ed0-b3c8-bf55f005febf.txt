@@ -10,3 +10,5 @@ User: it is a speech day
 Bot: Speech days can be really exciting! What was the focus of the speeches today? 
 User: it was informative speech
 Bot: Informative speeches are a great way for students to dive deep into a topic. Did you hear any particularly interesting or unique speeches?
+User: well one student told why blue eyes are blue
+Bot: That sounds fascinating! I've always been curious about the science behind eye colors. Did they explain the genetic or structural aspect of it?
