@@ -8,3 +8,5 @@ User: COMS 322
 Bot: That's cool! Communication studies can be such a fascinating field. What topics did you cover in class today?
 User: it is a speech day
 Bot: Speech days can be really exciting! What was the focus of the speeches today? 
+User: it was informative speech
+Bot: Informative speeches are a great way for students to dive deep into a topic. Did you hear any particularly interesting or unique speeches?
