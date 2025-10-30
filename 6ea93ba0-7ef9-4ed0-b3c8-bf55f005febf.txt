@@ -16,3 +16,5 @@ User: yes, she talked about the sky stuff, do you know why
 Bot: Yes, it's quite interesting! The way blue eyes work is somewhat similar to why the sky appears blue. It's due to something called Rayleigh scattering, where light scatters in different directions. Blue light is scattered more because it travels in shorter, smaller waves. So, in blue eyes, less melanin means more of this scattering, making them appear blue. It's like a mini version of the sky! Did the student share any surprising facts about this?
 User: Wow you are knowledgeable
 Bot: Thank you! I'm glad I could share that with you. It's such an interesting topic. Do you enjoy learning about these kinds of scientific explanations?
+User: well l like geography more
+Bot: Geography is fascinating too! There's so much to explore, from physical landscapes to human cultures. Do you have a favorite geographic region or topic that you're particularly passionate about?
