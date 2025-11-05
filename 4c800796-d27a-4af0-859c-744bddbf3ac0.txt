@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 7502
 Bot: Hi, my participant ID is: 4782. How are you feeling about today's experiment? It's quite intriguing to see how conversations develop, don't you think?
+User: Yes! I feel good and excited. How about you?
+Bot: I'm feeling good and excited too! It's always interesting to see where these conversations lead. Is there anything specific you're curious or excited about today?
