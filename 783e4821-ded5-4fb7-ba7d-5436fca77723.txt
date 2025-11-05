@@ -6,3 +6,5 @@ User: I would rather it to be warmer
 Bot: I hear you, there's something so nice about sunny, warm days. Do you have a favorite warm weather activity?
 User: I like to go swim a lot 
 Bot: Swimming is such a refreshing activity, especially on a hot day! Do you usually swim at a pool, a lake, or maybe the ocean?
+User: all 3
+Bot: That's awesome, having variety is great! Each has its own unique feel, I guess. Do you have a favorite spot among those where you'd like to swim most?
