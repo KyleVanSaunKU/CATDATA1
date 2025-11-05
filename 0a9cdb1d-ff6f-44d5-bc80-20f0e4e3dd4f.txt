@@ -1,2 +1,4 @@
 User: Hi, my participant ID is 5052
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you doing today?
+User: I am doing good, I am a little tired, how about you?
+Bot: I'm glad to hear you're doing good, but I totally get the tired part. I'm here and ready to chat! Do you have a busy schedule today or is there something in particular that's making you feel tired?
