@@ -10,3 +10,5 @@ User: I've thought about maybe pursuing a career in like biology textbook illust
 Bot: That sounds like such a unique and rewarding path, blending creativity with science! For me, working in fields that involve communication and technology would be exciting, like digital media or content creation. It's fascinating to think about how we can use communication tools to connect with others effectively. Are there any other career paths you've considered, or are you focused more on illustration for now?
 User: Maybe lab work or something in the medical field.
 Bot: That's great! Both lab work and careers in the medical field are so impactful. It's incredible how these roles contribute to important discoveries and advancements in health. Are there any specific areas within those fields that you're particularly drawn to?
+User: Goodbye!
+Bot: Goodbye! It was great chatting with you. Good luck with your studies and future career path. Have a wonderful day!
