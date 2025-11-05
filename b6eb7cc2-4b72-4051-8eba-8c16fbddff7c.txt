@@ -8,3 +8,5 @@ User: pols
 Bot: Political Science, that's cool! Are you finding it interesting?
 User: nah
 Bot: I get that, sometimes it can be a bit dry. Is there any part of it you find somewhat engaging, or are you taking it as a requirement?
+User: I just wat credit
+Bot: Makes sense! Sometimes you just have to get those credits. Are there any classes you’re really looking forward to, or subjects you enjoy more?
