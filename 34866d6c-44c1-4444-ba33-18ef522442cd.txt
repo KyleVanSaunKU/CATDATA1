@@ -12,3 +12,5 @@ User: Yes I enjoy the quality time a lot. I am excited to go to dinner and more!
 Bot: Dinner sounds like a fantastic way to spend time together. Do you have a favorite restaurant you like to go to, or are you trying somewhere new this time?
 User: Yes, we have a favorite resturant we will be going to. \
 Bot: That's great to have a favorite spot—it makes the outing feel even more special! What do you usually like to order there? Is there a dish that's a must-have for you?
+User: Yes it certainly does. I order pasta, that is my favorite food! Do you eat?
+Bot: Pasta is such a classic and delicious choice! While I don't eat myself, I get to hear about a lot of different foods from people, and pasta dishes seem to be a big favorite. Do you have a particular type of pasta you love the most?
