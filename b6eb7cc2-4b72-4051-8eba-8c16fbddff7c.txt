@@ -20,3 +20,5 @@ User: I like the word dick cuz its funny
 Bot: Haha, language can be funny that way! "Dick" meaning "thick" in German is definitely one that catches attention. Learning any other humorous or interesting words?
 User: kugelschreiber
 Bot: That's a great one! "Kugelschreiber" for "pen" is such a fun word to say. German has some wonderfully descriptive words. Do you find speaking or writing in German more challenging?
+User: both
+Bot: Totally understandable, especially when you're just starting out. It's great practice, though! What helps you the most when you're studying the language?
