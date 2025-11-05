@@ -12,3 +12,5 @@ User: I was interested in path-goal leadership
 Bot: Path-goal leadership is a great choice! It's interesting how the focus is on adapting leadership style to motivate and support employees according to their needs. What about it caught your attention?
 User: The fact that it seems to be the msot common and realistic one used by corporations today '
 Bot: Absolutely, it's very practical and adaptable, which likely makes it popular in real-world settings. It’s impressive how it emphasizes flexibility to meet the needs of different team members. Do you think it's a style you'd want to use in your future career?
+User: Yeah hopefully I think that it is a style that is used everywhere from technology to sports
+Bot: Definitely! The adaptability of path-goal leadership makes it versatile across various fields. Whether it's tech or sports, being able to adjust your approach to help others succeed is a valuable skill. What field are you thinking about going into after your studies?
