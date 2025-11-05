@@ -16,3 +16,5 @@ User: i like to hang out with friends and go to the gym
 Bot: That sounds like a great way to relax and have fun! Do you have a favorite workout or activity you like to do at the gym with your friends?
 User: i like to use dumbells for arm workouts or just walk 
 Bot: That sounds like a solid routine! Dumbbell workouts are great for strength training, and walking is excellent for getting some cardio and clearing the mind. Do you usually have a workout playlist, or do you prefer to chat while you exercise?
+User: yes i love listening to music of all kinds
+Bot: Music definitely adds a nice boost to workouts! Do you have any favorite artists or genres that you find yourself listening to the most these days?
