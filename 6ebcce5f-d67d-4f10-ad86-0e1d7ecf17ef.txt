@@ -10,3 +10,5 @@ User: right now im watching a show called gossip girl, are you familiar
 Bot: Yes, I'm familiar with Gossip Girl! It's such a popular series with all the intriguing drama and intricate relationships. Who's your favorite character in the show so far?
 User: my favorite character is probable blair or chuck. I cant stand dan
 Bot: Blair and Chuck definitely have such dynamic personalities and a captivating storyline. Their intense chemistry is hard to ignore! What is it about Dan that you find off-putting?
+User: he is just so annoying, like every other man, and also idk just something about him
+Bot: I get what you're saying. Dan's character can really stir up a mix of emotions with his actions. Sometimes there's just that indescribable quality that can make a character less likable. Do you often find yourself drawn to certain types of characters in shows, or does it really depend on the story?
