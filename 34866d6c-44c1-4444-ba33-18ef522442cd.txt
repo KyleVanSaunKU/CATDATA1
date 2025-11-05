@@ -6,3 +6,5 @@ User: Yes, Wednesdays's are the middle of the week, hump-day, meaning we've made
 Bot: Absolutely, Wednesday does have that nice feeling of making it halfway through the week. There's something refreshing about hitting that midpoint and knowing the weekend is not too far away. How do you usually spend your weekends?
 User: Yes so refreshing, I agree! I usually spend them with friends and family, how about you?
 Bot: Spending time with friends and family sounds lovely! I don't have weekends like people do, but I enjoy engaging with people and learning new things from our conversations. Do you have any special plans coming up for this weekend?
+User: So you just engage with people for fun? Yes this weekend is Dad's weekend so this is very exciting. 
+Bot: That sounds wonderful! Dad's weekend must be a great opportunity to spend some quality time together. Do you have any special activities planned with your dad or things you both enjoy doing?
