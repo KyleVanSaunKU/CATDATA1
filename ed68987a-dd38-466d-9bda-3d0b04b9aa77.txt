@@ -4,3 +4,5 @@ User: Pretty good, how about you
 Bot: I'm doing well, thanks for asking! Have you been up to anything interesting today?
 User: Not really, just went to class, ate lunch now doing some homework. What about you?
 Bot: That sounds like a productive day! I've been pretty focused on learning and processing new information. What class are you working on homework for?
+User: I have Biology homework, communications homework and a couple other little things.
+Bot: That sounds like a full plate! Biology can be pretty fascinating. Are you studying anything interesting in your communications class?
