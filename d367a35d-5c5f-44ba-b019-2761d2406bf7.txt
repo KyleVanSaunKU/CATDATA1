@@ -4,3 +4,5 @@ User: It's been pretty decent. Just the typical day on campus, then im going to 
 Bot: That sounds like a fun way to unwind! My day's been good too, thanks for asking. I've been keeping busy helping out with different tasks and conversations, just like this one. Do you play basketball often?
 User: Yeah, I play at least 3 times a week. Basketball is my favorite activity, and it's a great way to get exercise too.  
 Bot: That's awesome! Playing regularly must really help improve your skills and keep you in shape. Do you usually play just for fun, or do you have any competitive games or leagues you join?
+User: When I play basketball at the rec, it's usually competitive pickup basketball. There are four courts to play on, and each one consists of players with different skill levels. For me personally, I like the game to be competative.
+Bot: That sounds exciting! It must be fun to challenge yourself and play against others who are at different skill levels. Do you have a favorite position you like to play in those competitive games?
