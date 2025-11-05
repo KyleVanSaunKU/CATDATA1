@@ -2,3 +2,5 @@ User: 8158
 Bot: Hi, my participant ID is: 4782. How are you doing today?
 User: I am doing fine. How are you doing today?
 Bot: I'm doing well, thank you for asking! Are you excited about anything specific today or have any plans?
+User: Today is actually a busy day for me. I have a lot of classes. Than after that I have study hours. Then after study hours I need to apply for a job and go to volunteer. After volunteering I have an event at night 9 pm. What are your plans for today
+Bot: Wow, you've got quite a packed schedule today! It sounds like a productive day filled with learning and giving back, especially with volunteering. As for me, I'll be here, ready to chat whenever you need a study break or just want to share how things are going. What's the event you’ll be attending at 9 pm?
