@@ -4,3 +4,5 @@ User: I’m good! how are you? I am looking forward to getting to know you today
 Bot: I'm doing great, thanks for asking! I'm really excited to get to know you too and see where our conversation takes us. Have you done anything like this before?
 User: I have not! How many times have you?
 Bot: This is my first time too, so we’re in this together! It's kind of exciting to try something new, don’t you think? What are some things you enjoy doing in your free time?
+User: I love trying new things as well! In my free time I enjoy going on hikes or walks, getting coffee with my friends, or hanging out with my sorority sisters!! What about you?
+Bot: That sounds awesome! I love the idea of exploring nature on hikes and spending quality time with friends over coffee. For me, I enjoy diving into new tech projects, reading up on the latest trends, and having good conversations just like this one! Do you have a favorite hike or coffee spot?
