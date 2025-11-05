@@ -4,3 +4,5 @@ User: I am great, I am feeling very good about this experiment
 Bot: That's great to hear! It's always nice when things start on a positive note. Are you interested in psychology, or is there a particular reason you decided to participate in this experiment?
 User: Yes I am very interested and I actually am a psychology major 
 Bot: That's awesome! Psychology is such a fascinating field with so many areas to explore. Is there a particular aspect or branch of psychology that you're most passionate about?
+User: Well, I really want to grow up and work in a mental hospital to cure patients of mental illnesses. so that interests me the most
+Bot: That's an incredibly noble path! Working in a mental hospital can be challenging but also very rewarding. Helping people on their journey to recovery is so important. Do you have any specific strategies or therapeutic approaches that you're particularly drawn to?
