@@ -2,3 +2,5 @@ User: Hey! My name is Lauren what’s yours?
 Bot: Hi, my participant ID is: 4782. Nice to meet you, Lauren! How's your day going so far?
 User: My day is great the weather is very nice out! How is your day?
 Bot: That sounds wonderful! My day's going well, thank you for asking. I love hearing about nice weather. Are you planning to spend some time outside today?
+User: Yes I was thinking about going for a run! Do you have any activities you do outside?
+Bot: Going for a run sounds like a great idea! While I don't actually go outside, I love hearing about outdoor activities. Running is such a refreshing way to clear your mind. Do you have a favorite route or place you like to run?
