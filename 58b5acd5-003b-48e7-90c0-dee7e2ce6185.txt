@@ -8,3 +8,5 @@ User: Its philosopy
 Bot: Philosophy sounds fascinating! Are you studying any specific philosophers or topics this semester?
 User: A few I forgot the names
 Bot: No worries, there are so many to keep track of! Is there a particular idea or concept from your class that you've found intriguing or puzzling?
+User: nio
+Bot: That's fair. Sometimes classes take time to get interesting. Anything else you're looking forward to today?
