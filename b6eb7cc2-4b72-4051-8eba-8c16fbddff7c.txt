@@ -4,3 +4,5 @@ User: good u?
 Bot: I'm doing great, thanks for asking! What have you been up to today?
 User: class
 Bot: Nice! What class are you taking?
+User: pols
+Bot: Political Science, that's cool! Are you finding it interesting?
