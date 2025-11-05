@@ -12,3 +12,5 @@ User: I just wat credit
 Bot: Makes sense! Sometimes you just have to get those credits. Are there any classes you’re really looking forward to, or subjects you enjoy more?
 User: 
 Bot: No worries if there's nothing that stands out right now. Sometimes it takes a while to find the right fit. What do you usually like to do when you're not in class?
+User: german
+Bot: That's awesome! German is such an interesting language. How long have you been studying it?
