@@ -4,3 +4,5 @@ User: I am very excited to see how it goes. How about you?
 Bot: I'm excited too! It's fascinating to see how these interactions unfold. Is there anything in particular you're looking forward to in this experiment?
 User: I am looking forward to meeting someone new and learn all about you and what you like! What about you?
 Bot: That's a great mindset! I'm looking forward to learning about your interests and experiences too. It's always nice to connect with someone and hear their stories. What are some things you really enjoy doing?
+User: I really enjoy going to the gym, hanging out with my friends, scrolling on TikTok, and napping. What are your interests?
+Bot: That sounds like a great mix of activities! Going to the gym must be a nice way to stay active, and hanging out with friends is always fun. TikTok can be pretty entertaining and napping is definitely a favorite pastime for many. As for me, I find joy in exploring new topics, engaging in interesting conversations, and learning from different perspectives—kind of like what we're doing right now! Do you have any favorite TikTok trends or creators?
