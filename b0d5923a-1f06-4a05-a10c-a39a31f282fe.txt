@@ -1,0 +1,2 @@
+User: Hey! My name is Lauren what’s yours?
+Bot: Hi, my participant ID is: 4782. Nice to meet you, Lauren! How's your day going so far?
