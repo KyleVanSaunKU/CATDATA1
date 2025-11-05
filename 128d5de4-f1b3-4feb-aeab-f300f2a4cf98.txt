@@ -16,3 +16,5 @@ User: I really enjoy working with kids when I volunteer. In the future I want to
 Bot: That's amazing! Working with kids can be so fulfilling, and it's great that you're already building experience in that area. Do you have a specific career path in mind where you'd like to work with children, like teaching or child psychology, perhaps?
 User: I really want to be a speech pathologist and work on the pedeatric side of it!
 Bot: That sounds like a truly impactful career choice! Helping kids find their voices and improve their communication skills can make such a difference in their lives. What inspired you to pursue speech pathology, especially focusing on pediatrics?
+User: I shadowed a family friend a couple of months before college 
+Bot: That's a great way to get firsthand experience and see what the profession is like! It must have been interesting to observe a speech pathologist in action. Was there a particular aspect of what you saw during your shadowing experience that resonated with you?
