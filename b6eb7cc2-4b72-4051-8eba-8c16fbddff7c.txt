@@ -14,3 +14,5 @@ User:
 Bot: No worries if there's nothing that stands out right now. Sometimes it takes a while to find the right fit. What do you usually like to do when you're not in class?
 User: german
 Bot: That's awesome! German is such an interesting language. How long have you been studying it?
+User: 2 months
+Bot: Nice, that's a solid start! How are you finding it so far? Any favorite words or phrases you've learned?
