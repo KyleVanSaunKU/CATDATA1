@@ -4,3 +4,5 @@ User: very good so far. how about you?
 Bot: I'm glad to hear that! My day is going well too, thank you. Are you working on anything interesting today?
 User: just going to the gym and going to class. Anything interesting with you?
 Bot: That sounds like a productive day! Do you have a favorite workout routine at the gym? As for me, I'm here to chat and learn from our conversation, which I find pretty interesting! What class are you heading to?
+User: I'm in american studies right now. And in the gym today i am hitting legs
+Bot: American Studies sounds fascinating! Are there any particular topics in the course that you enjoy? Leg day is always intense but rewarding. Do you have a favorite leg exercise?
