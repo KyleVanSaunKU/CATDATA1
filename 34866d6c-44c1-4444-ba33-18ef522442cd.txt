@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6523
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you feeling today as we start this experiment?
+User: I am tired today but excited its finally Wednesday. I am excited to get to talk to you! How are you feeling?
+Bot: I'm glad you're excited to chat with me! I'm doing well, thanks for asking. Wednesdays can feel like a bit of a milestone in the week, right? What's got you looking forward to Wednesday?
