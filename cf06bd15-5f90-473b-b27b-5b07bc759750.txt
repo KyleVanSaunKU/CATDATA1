@@ -4,3 +4,5 @@ User: Yes I am very ready. My day is going alright so far. How is yours?
 Bot: I'm glad to hear that your day is going alright! Mine is going well, thank you for asking. Have you been up to anything interesting today?
 User: Well, I had an exam this morning that I am not too confident in my performance on.
 Bot: Oh, I can understand how you're feeling. It's tough when you're unsure about how an exam went. What subject was it in? If you’d like, we could chat about something else to help take your mind off it for a bit.
+User: My exam was in macroeconomics. I would love to talk about something else please. what do you have in mind?
+Bot: Macroeconomics can be pretty challenging! Let's switch gears—how about we talk about something fun, like hobbies? Do you have any favorite hobbies or things you like to do to unwind?
