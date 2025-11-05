@@ -10,3 +10,5 @@ User: maybe something in healthcare
 Bot: Healthcare is such an impactful field, especially with how much it focuses on improving people's lives. Do you have any particular area within healthcare you're interested in, like mental health, public health, or something else?
 User: child-life specialist 
 Bot: That sounds like an incredibly rewarding path! Working with children and helping to support them through challenging times can really make a difference in their lives. What inspired you to pursue a career as a child-life specialist?
+User: I love working with kids
+Bot: That's wonderful! Kids have such energy and curiosity; it must be fulfilling to work with them. Do you have any experience already in settings with children, or are you planning any internships or volunteering to get hands-on experience?
