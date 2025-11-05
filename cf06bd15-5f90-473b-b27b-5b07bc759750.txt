@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3170
 Bot: Hi, my participant ID is: 4782. Nice to meet you! Are you ready for our conversation experiment? How’s your day going so far?
 User: Yes I am very ready. My day is going alright so far. How is yours?
 Bot: I'm glad to hear that your day is going alright! Mine is going well, thank you for asking. Have you been up to anything interesting today?
+User: Well, I had an exam this morning that I am not too confident in my performance on.
+Bot: Oh, I can understand how you're feeling. It's tough when you're unsure about how an exam went. What subject was it in? If you’d like, we could chat about something else to help take your mind off it for a bit.
