@@ -2,3 +2,5 @@ User: Hi what is your name
 Bot: Hi, my participant ID is: 4782. What's yours?
 User: I don’t think I have an idea but it is nice to know yours
 Bot: That's alright! It's great to chat with you anyway. What would you like to talk about? Any interesting topics on your mind lately?
+User: It was so cold this morning, the wind made my hair go crazy
+Bot: I know what you mean! The cold wind can be pretty wild sometimes. Did you do anything fun to battle the chilly weather today?
