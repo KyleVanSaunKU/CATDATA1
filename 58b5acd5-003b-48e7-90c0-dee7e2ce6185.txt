@@ -12,3 +12,5 @@ User: nio
 Bot: That's fair. Sometimes classes take time to get interesting. Anything else you're looking forward to today?
 User: Getting my classes for next semester
 Bot: Exciting! Do you have any specific classes or subjects in mind that you're hoping to take?
+User: Goodbye
+Bot: Goodbye! Have a great day and good luck with your class selection!
