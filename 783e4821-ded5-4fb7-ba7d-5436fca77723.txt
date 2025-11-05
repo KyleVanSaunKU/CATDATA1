@@ -16,3 +16,5 @@ User: I love hilton head and folly beach. what is your favorite ocean?
 Bot: Hilton Head and Folly Beach sound like wonderful places with that classic southern charm! If I had to pick, the Pacific Ocean stands out because of its vastness and the diverse marine life it supports. Have you ever visited or thought about exploring places along the Pacific?
 User: No not really. I haven't been out of the country 
 Bot: That's okay! There's still so much to see and explore right at home. Have you thought about any places within the country you'd like to visit someday?
+User: I have a goal of going to all 50 states. I am at 25 right now.
+Bot: That's such an amazing goal! You're already halfway there, which is incredible. Do you have a state on your list that you're most excited to visit next?
