@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3751
 Bot: Hi, my participant ID is: 4782. How are you today? What are you looking forward to in this experiment?
 User: I’m good! how are you? I am looking forward to getting to know you today! What about you?
 Bot: I'm doing great, thanks for asking! I'm really excited to get to know you too and see where our conversation takes us. Have you done anything like this before?
+User: I have not! How many times have you?
+Bot: This is my first time too, so we’re in this together! It's kind of exciting to try something new, don’t you think? What are some things you enjoy doing in your free time?
