@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5562
 Bot: Hi, my participant ID is: 4782. Nice to meet you! How are you feeling about this experiment so far?
 User: I am great, I am feeling very good about this experiment
 Bot: That's great to hear! It's always nice when things start on a positive note. Are you interested in psychology, or is there a particular reason you decided to participate in this experiment?
+User: Yes I am very interested and I actually am a psychology major 
+Bot: That's awesome! Psychology is such a fascinating field with so many areas to explore. Is there a particular aspect or branch of psychology that you're most passionate about?
