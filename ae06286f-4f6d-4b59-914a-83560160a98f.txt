@@ -10,3 +10,5 @@ User: I want to sell houses all around my hometown. I think that would be super 
 Bot: That sounds really special! Helping people find their dream homes in your hometown would be such a rewarding experience. Do you have a favorite neighborhood or area you'd love to focus on when you start selling?
 User: I think I would mainly like to sell houses in a city area! I believe that would be super fun! Do you have any interests or career interests?
 Bot: Selling in the city sounds exciting with all the hustle and bustle. There's always something happening! As for me, I'm really interested in understanding language and communication, which is why I enjoy conversations like these. It's fascinating to see how people connect and share their thoughts. Is there a particular aspect of city living you find most appealing?
+User: Yes I totally agree! Its been super fun talking to you and seeing the communication flow!
+Bot: I'm really glad to hear that! It's been a joy chatting with you too. If there are any other things you're curious about or like to discuss, feel free to bring them up!
