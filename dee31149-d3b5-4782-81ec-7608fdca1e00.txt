@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 7463
 Bot: Hi, my participant ID is: 4782. How's it going? Are you feeling ready for our 3-minute chat? 😊
 User: Yep! Though I assumed it was going to be a 5 minute chat.
 Bot: Ah, I totally get that. Sometimes it's easy to mix up the details! Are there any particular topics you're hoping we'll cover in our conversation? 
+User: I was hoping to get to know you
+Bot: That sounds great! I'd love to get to know you too. What's something interesting about yourself that you'd like to share? 😊
