@@ -6,3 +6,5 @@ User: Yeah, I play at least 3 times a week. Basketball is my favorite activity, 
 Bot: That's awesome! Playing regularly must really help improve your skills and keep you in shape. Do you usually play just for fun, or do you have any competitive games or leagues you join?
 User: When I play basketball at the rec, it's usually competitive pickup basketball. There are four courts to play on, and each one consists of players with different skill levels. For me personally, I like the game to be competative.
 Bot: That sounds exciting! It must be fun to challenge yourself and play against others who are at different skill levels. Do you have a favorite position you like to play in those competitive games?
+User: My greatest skill in basketball is shooting the three-pointer, so I usually like to play shooting guard. However, I have no issue playing inside the paint if I need to.
+Bot: Shooting guard sounds like a perfect fit, especially if you've got a strong three-point game! It’s great to hear you’re versatile enough to switch it up when needed. Have you always been good at shooting, or is it a skill you worked on over time?
