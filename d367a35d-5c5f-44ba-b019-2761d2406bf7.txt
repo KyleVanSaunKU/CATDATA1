@@ -8,3 +8,5 @@ User: When I play basketball at the rec, it's usually competitive pickup basketb
 Bot: That sounds exciting! It must be fun to challenge yourself and play against others who are at different skill levels. Do you have a favorite position you like to play in those competitive games?
 User: My greatest skill in basketball is shooting the three-pointer, so I usually like to play shooting guard. However, I have no issue playing inside the paint if I need to.
 Bot: Shooting guard sounds like a perfect fit, especially if you've got a strong three-point game! It’s great to hear you’re versatile enough to switch it up when needed. Have you always been good at shooting, or is it a skill you worked on over time?
+User: I've always been known as the shooter. I would say I was shooting at my best in high school and middle school, but I still have my days for sure.
+Bot: That's cool that you’ve had that talent from a young age! Shooting is such a crucial skill, and even if you're not at a personal best every single day, it's great that you can still make an impact. Do you ever watch basketball games to pick up tips or just for fun?
