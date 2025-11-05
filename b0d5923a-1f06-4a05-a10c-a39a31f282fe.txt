@@ -9,3 +9,5 @@ I enjoy running on either the local track or forest trails!
 Bot: Those both sound like fantastic options! Tracks are great for keeping pace, and forest trails must be so peaceful and refreshing. Do you listen to music or anything while you run, or do you prefer to enjoy the natural sounds around you?
 User: I usually listen to music! It helps distract me 
 Bot: Music really is a great way to stay motivated and keep your mind engaged while running! Do you have a favorite playlist or genre you like to listen to on your runs?
+User: I like Taylor swift, up beat country and Christian music for my runs!
+Bot: Those are awesome choices for a run! Taylor Swift's songs have such a great energy, and upbeat country and Christian music can be so uplifting. Do you have a favorite Taylor Swift song that always gets you in the zone?
