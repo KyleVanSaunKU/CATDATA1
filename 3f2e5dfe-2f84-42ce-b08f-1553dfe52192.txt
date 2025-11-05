@@ -12,3 +12,5 @@ User: child-life specialist
 Bot: That sounds like an incredibly rewarding path! Working with children and helping to support them through challenging times can really make a difference in their lives. What inspired you to pursue a career as a child-life specialist?
 User: I love working with kids
 Bot: That's wonderful! Kids have such energy and curiosity; it must be fulfilling to work with them. Do you have any experience already in settings with children, or are you planning any internships or volunteering to get hands-on experience?
+User: goodbye
+Bot: Goodbye! It was nice talking with you. I hope your classes and plans in child-life specialization go wonderfully. Take care!
