@@ -14,3 +14,5 @@ User: I have never seen them live, but I would love to. I saw a recording of the
 Bot: That must've been incredible! Live performances can really capture the energy of the music. Hopefully, you'll get to experience one in person soon. Are there any other bands or artists you'd like to see live someday?
 User: I am a big fan of Lizzy McAlpine and I think she would be fun to see
 Bot: Lizzy McAlpine has such a heartfelt and soulful sound—seeing her live would be amazing! Her storytelling through music is really enchanting. Do you have a favorite song or album of hers?
+User: I love her newest album, as it sounds the most produced and beautiful 
+Bot: Her newest album is beautifully crafted and full of emotion. It's amazing how her artistry evolves with each release. Are there any particular songs on that album that resonate with you most?
