@@ -6,3 +6,5 @@ User: It was so cold this morning, the wind made my hair go crazy
 Bot: I know what you mean! The cold wind can be pretty wild sometimes. Did you do anything fun to battle the chilly weather today?
 User: Nope! I kept my head down and headphones turned all the way up to try and drown out the cold
 Bot: Sounds like a good way to stay in your own world and escape the chill! What kind of music or podcasts were you listening to?
+User: I was listening to the new Magdalena Bay singles, I really like them
+Bot: Magdalena Bay has such a unique sound! Their music is so captivating and fresh. Do you have a favorite song by them so far?
