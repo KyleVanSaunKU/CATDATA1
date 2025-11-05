@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 4685
 Bot: Hi, my participant ID is: 4782. It's great to connect with you! How's your day going so far? Anything exciting happening today?
 User: My day is going pretty well so far. Nothing special really, I was supposed to give a speech in my COMS class. How was yours?
 Bot: That sounds like an important day for you! I hope the preparation has been going smoothly for your speech. My day has been quite nice, thank you. What’s the topic of your speech, if you don’t mind sharing?
+User: Thank you! It's about names and what significance they serve in social interactions that we may not be aware of.
+Bot: Wow, that sounds fascinating! Names can definitely carry a lot of meaning and influence our interactions in subtle ways. Did you discover anything surprising or particularly interesting while researching for your speech?
