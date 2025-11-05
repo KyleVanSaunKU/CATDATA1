@@ -2,3 +2,5 @@ User: Hi, my participant ID is 5052
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you doing today?
 User: I am doing good, I am a little tired, how about you?
 Bot: I'm glad to hear you're doing good, but I totally get the tired part. I'm here and ready to chat! Do you have a busy schedule today or is there something in particular that's making you feel tired?
+User: I went to bed a little late last night so I think that's making me feel tired. I have a few classes to attend, but one got canceled so that part is exciting. 
+Bot: Staying up late can definitely sneak up on you the next day! It's great that you get a bit of a break with a canceled class, though. Do you have any plans for how you're going to spend that extra time, or just hoping to rest up a bit?
