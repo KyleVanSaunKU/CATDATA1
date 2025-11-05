@@ -4,3 +4,5 @@ User: Its going good, how about you?
 Bot: That's great to hear! I'm doing well, thanks for asking. Are you up to anything interesting today?
 User: I have one class
 Bot: Nice! What's the class about? Is it something you're particularly interested in?
+User: Its philosopy 
+Bot: Philosophy sounds fascinating! Are you studying any specific philosophers or topics this semester?
