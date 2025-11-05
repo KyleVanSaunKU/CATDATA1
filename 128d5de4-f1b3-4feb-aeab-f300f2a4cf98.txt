@@ -6,3 +6,5 @@ User: Today is actually a busy day for me. I have a lot of classes. Than after t
 Bot: Wow, you've got quite a packed schedule today! It sounds like a productive day filled with learning and giving back, especially with volunteering. As for me, I'll be here, ready to chat whenever you need a study break or just want to share how things are going. What's the event you’ll be attending at 9 pm?
 User: Something for a friend
 Bot: That sounds nice! Supporting a friend is always a great thing to do. Is it a celebration of some sort, or maybe a casual get-together? Those moments can be really special.
+User: A celebration of some sort 
+Bot: That sounds exciting! Celebrations often bring a lot of joy and good memories. Do you have any particular role in the event, or are you just going to relax and enjoy the occasion?
