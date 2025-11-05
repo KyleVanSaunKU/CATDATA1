@@ -18,3 +18,5 @@ User: Yes pasta dishes are very commonly loved, I like all kinds of pasta, but r
 Bot: Rigatoni is a great choice—it's so versatile and holds onto sauces really well! Do you have a favorite sauce or way you like your rigatoni prepared?
 User: Yes vodka sauce is my favorite by far. 
 Bot: Vodka sauce with rigatoni sounds absolutely delightful, such a creamy and flavorful combination. Do you enjoy cooking pasta yourself, or do you prefer dining out for it?
+User: I like dining out better mostly
+Bot: Dining out definitely has its advantages—it can be so nice to relax and enjoy a meal without the cleanup! Plus, it's often fun to experience how different restaurants prepare your favorite dishes. Do you have any other favorite foods or cuisines you love to explore when you eat out?
