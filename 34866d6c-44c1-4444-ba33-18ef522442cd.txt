@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 6523
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you feeling today as we start this experiment?
 User: I am tired today but excited its finally Wednesday. I am excited to get to talk to you! How are you feeling?
 Bot: I'm glad you're excited to chat with me! I'm doing well, thanks for asking. Wednesdays can feel like a bit of a milestone in the week, right? What's got you looking forward to Wednesday?
+User: Yes, Wednesdays's are the middle of the week, hump-day, meaning we've made it this far and only have two more days till the weekend! Do you like wednesdays?
+Bot: Absolutely, Wednesday does have that nice feeling of making it halfway through the week. There's something refreshing about hitting that midpoint and knowing the weekend is not too far away. How do you usually spend your weekends?
