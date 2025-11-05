@@ -1,2 +1,4 @@
 User: Hi my participant ID is: 5173
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you doing today?
+User: I am doing amazing! Ive had a great day so far! How are you?
+Bot: That's awesome to hear! I'm doing great too, thank you for asking. What made your day so amazing?
