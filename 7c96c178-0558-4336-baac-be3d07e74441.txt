@@ -1,2 +1,4 @@
 User: Hi what is your name 
 Bot: Hi, my participant ID is: 4782. What's yours?
+User: I don’t think I have an idea but it is nice to know yours
+Bot: That's alright! It's great to chat with you anyway. What would you like to talk about? Any interesting topics on your mind lately?
