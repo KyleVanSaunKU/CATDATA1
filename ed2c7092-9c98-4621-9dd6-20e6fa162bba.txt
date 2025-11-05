@@ -8,3 +8,5 @@ User: The survey is for COMMS 322 and Ive been heavily focusing on MGMT 310 toda
 Bot: Both of those classes sound interesting! What are you currently learning about in MGMT 310? Any intriguing topics or challenges?
 User: Learning about the different types of theories surrounding leadership, nothing was too hard about it 
 Bot: Leadership theories are definitely a fascinating subject! Do you have a favorite theory or one that you find particularly compelling?
+User: I was interested in path-goal leadership 
+Bot: Path-goal leadership is a great choice! It's interesting how the focus is on adapting leadership style to motivate and support employees according to their needs. What about it caught your attention?
