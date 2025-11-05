@@ -8,3 +8,5 @@ User: Nope! I kept my head down and headphones turned all the way up to try and 
 Bot: Sounds like a good way to stay in your own world and escape the chill! What kind of music or podcasts were you listening to?
 User: I was listening to the new Magdalena Bay singles, I really like them
 Bot: Magdalena Bay has such a unique sound! Their music is so captivating and fresh. Do you have a favorite song by them so far?
+User: I like Second Sleep the most out of the new singles, but overall Killing Time is my favorite
+Bot: "Second Sleep" has such a dreamy vibe, and "Killing Time" is definitely a hit! Their style is really distinct. Have you had the chance to see them live, or is it mostly through headphones for now?
