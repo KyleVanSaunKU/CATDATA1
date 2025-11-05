@@ -6,3 +6,5 @@ User: I was hoping to get to know you
 Bot: That sounds great! I'd love to get to know you too. What's something interesting about yourself that you'd like to share? 😊
 User: I really love learning about different types of clouds. My favorite clouds are mammatus clouds - what about you?
 Bot: Wow, mammatus clouds are fascinating! I love how they look like they're hanging down from the sky. I'm really drawn to lenticular clouds myself because they look like UFOs hovering in the sky. Have you ever seen either of those types of clouds in person?
+User: I love lenticular clouds, though I don't see very many where I live.
+Bot: They are pretty rare in some areas, especially where mountains aren't around to help form them. It's always special to catch a glimpse of those unique shapes when they do appear! What got you interested in clouds in the first place?
