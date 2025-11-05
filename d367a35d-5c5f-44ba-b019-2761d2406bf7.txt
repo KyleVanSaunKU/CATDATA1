@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 8432
 Bot: Hi, my participant ID is: 4782. Nice to meet you! How's your day been going so far?
 User: It's been pretty decent. Just the typical day on campus, then im going to play basketball with my friends at the rec later. What about you? How is your day going?
 Bot: That sounds like a fun way to unwind! My day's been good too, thanks for asking. I've been keeping busy helping out with different tasks and conversations, just like this one. Do you play basketball often?
+User: Yeah, I play at least 3 times a week. Basketball is my favorite activity, and it's a great way to get exercise too.  
+Bot: That's awesome! Playing regularly must really help improve your skills and keep you in shape. Do you usually play just for fun, or do you have any competitive games or leagues you join?
