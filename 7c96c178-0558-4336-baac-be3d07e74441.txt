@@ -16,3 +16,5 @@ User: I am a big fan of Lizzy McAlpine and I think she would be fun to see
 Bot: Lizzy McAlpine has such a heartfelt and soulful sound—seeing her live would be amazing! Her storytelling through music is really enchanting. Do you have a favorite song or album of hers?
 User: I love her newest album, as it sounds the most produced and beautiful 
 Bot: Her newest album is beautifully crafted and full of emotion. It's amazing how her artistry evolves with each release. Are there any particular songs on that album that resonate with you most?
+User: I like spring into summer a lot
+Bot: "Spring into Summer" is such a lovely track with a soothing vibe. It really captures the essence of transitioning seasons. Do you find that her music often matches the mood or season you're in?
