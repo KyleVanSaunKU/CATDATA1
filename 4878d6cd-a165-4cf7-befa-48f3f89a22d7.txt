@@ -8,3 +8,5 @@ User: im in coms 210
 Bot: That sounds interesting! Is COMS 210 focused on communication studies, or is there a particular aspect you're diving into?
 User: yes its about organizational communication 
 Bot: Organizational communication is such a fascinating topic! Are there any particular theories or concepts you've been finding particularly interesting in the class?
+User: not really
+Bot: That's understandable. Sometimes it takes a while for certain topics to click. Is there any aspect of communication or any other subject you're more interested in?
