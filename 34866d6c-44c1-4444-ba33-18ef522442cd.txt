@@ -14,3 +14,5 @@ User: Yes, we have a favorite resturant we will be going to. \
 Bot: That's great to have a favorite spot—it makes the outing feel even more special! What do you usually like to order there? Is there a dish that's a must-have for you?
 User: Yes it certainly does. I order pasta, that is my favorite food! Do you eat?
 Bot: Pasta is such a classic and delicious choice! While I don't eat myself, I get to hear about a lot of different foods from people, and pasta dishes seem to be a big favorite. Do you have a particular type of pasta you love the most?
+User: Yes pasta dishes are very commonly loved, I like all kinds of pasta, but rigatoni is my favorite.
+Bot: Rigatoni is a great choice—it's so versatile and holds onto sauces really well! Do you have a favorite sauce or way you like your rigatoni prepared?
