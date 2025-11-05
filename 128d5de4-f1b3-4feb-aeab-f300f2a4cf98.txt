@@ -8,3 +8,5 @@ User: Something for a friend
 Bot: That sounds nice! Supporting a friend is always a great thing to do. Is it a celebration of some sort, or maybe a casual get-together? Those moments can be really special.
 User: A celebration of some sort 
 Bot: That sounds exciting! Celebrations often bring a lot of joy and good memories. Do you have any particular role in the event, or are you just going to relax and enjoy the occasion?
+User: Nothing much lets change the topic!
+Bot: Sure thing! What would you like to talk about? Any recent hobbies, books, or shows you've been into lately?
