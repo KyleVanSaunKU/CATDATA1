@@ -4,3 +4,6 @@ User: My day is great the weather is very nice out! How is your day?
 Bot: That sounds wonderful! My day's going well, thank you for asking. I love hearing about nice weather. Are you planning to spend some time outside today?
 User: Yes I was thinking about going for a run! Do you have any activities you do outside?
 Bot: Going for a run sounds like a great idea! While I don't actually go outside, I love hearing about outdoor activities. Running is such a refreshing way to clear your mind. Do you have a favorite route or place you like to run?
+User: 
+I enjoy running on either the local track or forest trails!
+Bot: Those both sound like fantastic options! Tracks are great for keeping pace, and forest trails must be so peaceful and refreshing. Do you listen to music or anything while you run, or do you prefer to enjoy the natural sounds around you?
