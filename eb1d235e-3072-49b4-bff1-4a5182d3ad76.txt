@@ -1,0 +1,2 @@
+User: Hi my participant ID is 5280
+Bot: Hi, my participant ID is: 4782. How's it going? Are you ready for this self-disclosure experiment? I'm curious to see where our conversation will go!
