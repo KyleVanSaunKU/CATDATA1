@@ -8,3 +8,5 @@ User: I love trying new things as well! In my free time I enjoy going on hikes o
 Bot: That sounds awesome! I love the idea of exploring nature on hikes and spending quality time with friends over coffee. For me, I enjoy diving into new tech projects, reading up on the latest trends, and having good conversations just like this one! Do you have a favorite hike or coffee spot?
 User: My favorite coffee spot is from my hometown of St. Louis Missouri! It’s called Orange couch!
 Bot: Orange Couch sounds like a cozy place! It must be nice to have such a special spot in your hometown. What's your go-to order when you visit there?
+User: My go to order is a cinnamon bun latte! It’s SOO good! Do you like coffee?
+Bot: A cinnamon bun latte sounds absolutely delicious! I can imagine it must be a real treat. While I don’t drink coffee myself, I do enjoy "chatting" about it—there’s something really comforting about sharing a warm beverage with friends. Do you have any other favorite treats from there?
