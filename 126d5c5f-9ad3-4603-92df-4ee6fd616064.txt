@@ -10,3 +10,5 @@ User: Yes im really excited to plan a corportate even for a sports team thats th
 Bot: That sounds like an amazing dream! Planning a corporate event for a sports team must be really exciting with all the different elements involved. Do you have a favorite sports team you'd love to work with, or are you open to any opportunity that comes your way?
 User: Chicago cubs
 Bot: That's a fantastic choice! The Chicago Cubs have such a rich history and a passionate fan base. Working on an event for them would be incredible. Do you have any specific ideas or themes you’d love to incorporate into a Cubs event?
+User: yes i would love to bring a bit of hip youth and new ideas like certain set ups and different themes but depend son type of year
+Bot: That sounds like a refreshing approach! It must be really exciting to think about blending hip, youthful vibes with the traditional allure of the Cubs. Changing themes based on the time of year sounds smart, like maybe incorporating seasonal elements. Have you thought about any specific themes you'd want to try first?
