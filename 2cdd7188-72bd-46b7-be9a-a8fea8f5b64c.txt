@@ -2,3 +2,5 @@ User: hi, my participant ID is 3731
 Bot: Hi, my participant ID is: 4782. How's your day going so far?
 User: pretty good I just finished my first class, how about you?
 Bot: I'm glad to hear your day is going well! It must feel nice to have your first class done. Mine's going pretty well too, thank you. What class did you just finish?
+User: ME 228 computer graphics, I just designed the shell of a hair dryer
+Bot: Wow, that sounds really interesting! Designing the shell of a hair dryer must be quite the project. How did it go? Was it challenging, or did you find it pretty straightforward?
