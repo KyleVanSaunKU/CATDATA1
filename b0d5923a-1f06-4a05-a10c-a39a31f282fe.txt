@@ -11,3 +11,5 @@ User: I usually listen to music! It helps distract me
 Bot: Music really is a great way to stay motivated and keep your mind engaged while running! Do you have a favorite playlist or genre you like to listen to on your runs?
 User: I like Taylor swift, up beat country and Christian music for my runs!
 Bot: Those are awesome choices for a run! Taylor Swift's songs have such a great energy, and upbeat country and Christian music can be so uplifting. Do you have a favorite Taylor Swift song that always gets you in the zone?
+User: Anything from her new album
+Bot: Her new music is so good, right? It's amazing how she keeps evolving her sound. Do you have a favorite track from the new album, or is it hard to choose just one?
