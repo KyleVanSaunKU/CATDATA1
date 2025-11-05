@@ -6,3 +6,5 @@ User: nothing much just got to class
 Bot: Nice, what class are you attending? Are you enjoying it so far?
 User: im in coms 210
 Bot: That sounds interesting! Is COMS 210 focused on communication studies, or is there a particular aspect you're diving into?
+User: yes its about organizational communication 
+Bot: Organizational communication is such a fascinating topic! Are there any particular theories or concepts you've been finding particularly interesting in the class?
