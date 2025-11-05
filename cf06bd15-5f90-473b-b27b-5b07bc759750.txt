@@ -6,3 +6,5 @@ User: Well, I had an exam this morning that I am not too confident in my perform
 Bot: Oh, I can understand how you're feeling. It's tough when you're unsure about how an exam went. What subject was it in? If you’d like, we could chat about something else to help take your mind off it for a bit.
 User: My exam was in macroeconomics. I would love to talk about something else please. what do you have in mind?
 Bot: Macroeconomics can be pretty challenging! Let's switch gears—how about we talk about something fun, like hobbies? Do you have any favorite hobbies or things you like to do to unwind?
+User: I LOVE to golf and workout. They really clear my mind and let me aura farm.
+Bot: That sounds awesome! Golfing and working out are great ways to relax and recharge. There's something about being out on the golf course that seems so peaceful. Do you have a favorite golf course? And when it comes to working out, do you have a go-to routine or favorite exercises?
