@@ -24,3 +24,5 @@ User: both
 Bot: Totally understandable, especially when you're just starting out. It's great practice, though! What helps you the most when you're studying the language?
 User: ai
 Bot: That's a great choice! AI tools can be super helpful for learning languages. Do you have a favorite app or tool you use for practicing German?
+User: chatgpt
+Bot: That's awesome! ChatGPT can definitely make language practice more interactive and fun. Do you use it to have conversations in German, or do you focus on other types of practice?
