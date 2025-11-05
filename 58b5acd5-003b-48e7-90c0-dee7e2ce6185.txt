@@ -6,3 +6,5 @@ User: I have one class
 Bot: Nice! What's the class about? Is it something you're particularly interested in?
 User: Its philosopy 
 Bot: Philosophy sounds fascinating! Are you studying any specific philosophers or topics this semester?
+User: A few I forgot the names
+Bot: No worries, there are so many to keep track of! Is there a particular idea or concept from your class that you've found intriguing or puzzling?
