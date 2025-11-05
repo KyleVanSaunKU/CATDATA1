@@ -1,2 +1,4 @@
 User: 8158
 Bot: Hi, my participant ID is: 4782. How are you doing today?
+User: I am doing fine. How are you doing today?
+Bot: I'm doing well, thank you for asking! Are you excited about anything specific today or have any plans?
