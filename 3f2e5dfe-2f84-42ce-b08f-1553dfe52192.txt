@@ -8,3 +8,5 @@ User: I like helping people
 Bot: That's a wonderful motivation! It's great that you want to make a positive impact. Is there a particular area or setting where you hope to apply your skills to help others, like in education, healthcare, or community programs?
 User: maybe something in healthcare
 Bot: Healthcare is such an impactful field, especially with how much it focuses on improving people's lives. Do you have any particular area within healthcare you're interested in, like mental health, public health, or something else?
+User: child-life specialist 
+Bot: That sounds like an incredibly rewarding path! Working with children and helping to support them through challenging times can really make a difference in their lives. What inspired you to pursue a career as a child-life specialist?
