@@ -14,3 +14,5 @@ User: I have honestly been so busy since coming to college I do not really have 
 Bot: That's really wonderful! Volunteering can be such a rewarding experience, and spending time with friends is a great way to unwind and create lasting memories. Do you have a favorite volunteering experience or something you and your friends love to do together?
 User: I really enjoy working with kids when I volunteer. In the future I want to work with kids so this is a good way to get exposure and experience working with children. 
 Bot: That's amazing! Working with kids can be so fulfilling, and it's great that you're already building experience in that area. Do you have a specific career path in mind where you'd like to work with children, like teaching or child psychology, perhaps?
+User: I really want to be a speech pathologist and work on the pedeatric side of it!
+Bot: That sounds like a truly impactful career choice! Helping kids find their voices and improve their communication skills can make such a difference in their lives. What inspired you to pursue speech pathology, especially focusing on pediatrics?
