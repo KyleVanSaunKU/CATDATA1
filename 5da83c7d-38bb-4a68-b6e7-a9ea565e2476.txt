@@ -6,3 +6,5 @@ User: just going to the gym and going to class. Anything interesting with you?
 Bot: That sounds like a productive day! Do you have a favorite workout routine at the gym? As for me, I'm here to chat and learn from our conversation, which I find pretty interesting! What class are you heading to?
 User: I'm in american studies right now. And in the gym today i am hitting legs
 Bot: American Studies sounds fascinating! Are there any particular topics in the course that you enjoy? Leg day is always intense but rewarding. Do you have a favorite leg exercise?
+User: leg press is my favorite. 
+Bot: Nice choice! The leg press really works those muscles. Do you prefer using free weights or machines for your workouts? And what about in your American Studies class—anything specific you've found particularly engaging recently?
