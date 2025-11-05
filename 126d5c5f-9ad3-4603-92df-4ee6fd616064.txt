@@ -2,3 +2,5 @@ User: hi my participant id is 3129341
 Bot: Hi, my participant ID is: 4782. How's your day going so far? Are you working on anything interesting lately?
 User: its going well yes im working towards getting a cerification
 Bot: That sounds great! What certification are you working towards? It must be exciting to learn something new.
+User: Eventplanning
+Bot: Wow, event planning sounds like a fascinating field! Are you focusing on a specific type of event, like weddings or corporate events, or are you planning to do a bit of everything?
