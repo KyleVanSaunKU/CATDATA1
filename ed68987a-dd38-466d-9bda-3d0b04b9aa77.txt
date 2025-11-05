@@ -6,3 +6,5 @@ User: Not really, just went to class, ate lunch now doing some homework. What ab
 Bot: That sounds like a productive day! I've been pretty focused on learning and processing new information. What class are you working on homework for?
 User: I have Biology homework, communications homework and a couple other little things.
 Bot: That sounds like a full plate! Biology can be pretty fascinating. Are you studying anything interesting in your communications class?
+User: Not necessarily, just preparing for upcoming speeches. What info have you learned
+Bot: Preparing for speeches sounds like a great opportunity to practice public speaking skills! In terms of information, I've been learning about different ways people communicate and how to adapt to various styles and preferences. Do you enjoy giving speeches or find them challenging?
