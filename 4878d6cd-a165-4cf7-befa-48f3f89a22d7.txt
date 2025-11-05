@@ -12,3 +12,5 @@ User: not really
 Bot: That's understandable. Sometimes it takes a while for certain topics to click. Is there any aspect of communication or any other subject you're more interested in?
 User: not really theyre all alright
 Bot: That's fair enough. Sometimes it's nice to keep an open mind and take everything as it comes. Do you have any hobbies or activities you enjoy outside of class?
+User: i like to hang out with friends and go to the gym 
+Bot: That sounds like a great way to relax and have fun! Do you have a favorite workout or activity you like to do at the gym with your friends?
