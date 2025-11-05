@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 4610
 Bot: Hi, my participant ID is: 4782. How are you doing today? Excited to chat in this experiment!
 User: good how are you
 Bot: I'm doing well, thanks! Are you getting your fall semester off to a good start? Any interesting classes or activities this term?
+User: yes! I am taking some applied behavioral science classes
+Bot: That sounds fascinating! What drew you to applied behavioral science? Are there any specific topics or projects you're particularly excited about in your classes?
