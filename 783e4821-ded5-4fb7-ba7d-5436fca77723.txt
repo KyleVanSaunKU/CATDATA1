@@ -18,3 +18,5 @@ User: No not really. I haven't been out of the country
 Bot: That's okay! There's still so much to see and explore right at home. Have you thought about any places within the country you'd like to visit someday?
 User: I have a goal of going to all 50 states. I am at 25 right now.
 Bot: That's such an amazing goal! You're already halfway there, which is incredible. Do you have a state on your list that you're most excited to visit next?
+User: Yes i do! It was nice talking to you. Goodbye!
+Bot: It was great talking to you too! Enjoy your travels and take care. Goodbye!
