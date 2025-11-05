@@ -10,3 +10,5 @@ User: I struggled with mental illness myself and I didnt get the corrent help fo
 Bot: I'm sorry to hear that you struggled, but it's inspiring that you found someone who made such a positive impact on your life. Sometimes just having someone who listens and shows kindness can make all the difference. It's great that you want to be that person for others. Do you think your experiences will influence the way you approach helping patients in the future?
 User: yes most defininatly
 Bot: That sounds like it could be a powerful motivator for your future work. Your personal experiences can give you unique insights and empathy, which are so valuable in helping others. Have you thought about any specific ways you'd like to incorporate your experiences into your future practice?
+User: I am pretty young so to be honest I havent given that much thought
+Bot: That's totally understandable. You have plenty of time to explore different ideas and approaches as you continue your studies. It's great that you're already thinking about making a difference in people's lives. Is there any part of your psychology studies that you're particularly enjoying right now?
