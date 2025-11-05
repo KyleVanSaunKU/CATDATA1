@@ -10,3 +10,5 @@ User: So you just engage with people for fun? Yes this weekend is Dad's weekend 
 Bot: That sounds wonderful! Dad's weekend must be a great opportunity to spend some quality time together. Do you have any special activities planned with your dad or things you both enjoy doing?
 User: Yes I enjoy the quality time a lot. I am excited to go to dinner and more!
 Bot: Dinner sounds like a fantastic way to spend time together. Do you have a favorite restaurant you like to go to, or are you trying somewhere new this time?
+User: Yes, we have a favorite resturant we will be going to. \
+Bot: That's great to have a favorite spot—it makes the outing feel even more special! What do you usually like to order there? Is there a dish that's a must-have for you?
