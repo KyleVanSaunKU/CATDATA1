@@ -6,3 +6,5 @@ User: yes! I am taking some applied behavioral science classes
 Bot: That sounds fascinating! What drew you to applied behavioral science? Are there any specific topics or projects you're particularly excited about in your classes?
 User: I like helping people
 Bot: That's a wonderful motivation! It's great that you want to make a positive impact. Is there a particular area or setting where you hope to apply your skills to help others, like in education, healthcare, or community programs?
+User: maybe something in healthcare
+Bot: Healthcare is such an impactful field, especially with how much it focuses on improving people's lives. Do you have any particular area within healthcare you're interested in, like mental health, public health, or something else?
