@@ -10,3 +10,5 @@ User: all 3
 Bot: That's awesome, having variety is great! Each has its own unique feel, I guess. Do you have a favorite spot among those where you'd like to swim most?
 User: I think probably the pool. what is your favorite?
 Bot: I think pools are great for practicing and having fun with friends! If I had to choose, I'd probably go with the ocean because of the waves and the fresh salty air. What do you enjoy most about swimming in the pool?
+User: How clean i know it is and because there are no fish. What is your favorite beach? 
+Bot: I totally get that, cleanliness and no unexpected fish encounters can make all the difference! I’ve read that beaches like those in Hawaii are really incredible because of their beautiful, clear waters and stunning sunsets. Do you have a specific beach you love or dream of visiting someday?
