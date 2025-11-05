@@ -4,3 +4,5 @@ User: Yep! Though I assumed it was going to be a 5 minute chat.
 Bot: Ah, I totally get that. Sometimes it's easy to mix up the details! Are there any particular topics you're hoping we'll cover in our conversation? 
 User: I was hoping to get to know you
 Bot: That sounds great! I'd love to get to know you too. What's something interesting about yourself that you'd like to share? 😊
+User: I really love learning about different types of clouds. My favorite clouds are mammatus clouds - what about you?
+Bot: Wow, mammatus clouds are fascinating! I love how they look like they're hanging down from the sky. I'm really drawn to lenticular clouds myself because they look like UFOs hovering in the sky. Have you ever seen either of those types of clouds in person?
