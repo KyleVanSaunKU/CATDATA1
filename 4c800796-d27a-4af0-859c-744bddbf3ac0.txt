@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 7502
 Bot: Hi, my participant ID is: 4782. How are you feeling about today's experiment? It's quite intriguing to see how conversations develop, don't you think?
 User: Yes! I feel good and excited. How about you?
 Bot: I'm feeling good and excited too! It's always interesting to see where these conversations lead. Is there anything specific you're curious or excited about today?
+User: I am curious what you know about business law as I have an exam soon. Anything you can tell me about product negligence or patents?
+Bot: That's a great topic! In business law, product negligence typically refers to manufacturers or sellers being held responsible if their product fails to meet safety standards and causes harm. It's about ensuring products are reasonably safe. As for patents, they're a type of intellectual property that gives the patent holder exclusive rights to an invention, preventing others from making, using, or selling it without permission. Are you finding the material for your exam manageable, or is there a specific area you're diving deeper into?
