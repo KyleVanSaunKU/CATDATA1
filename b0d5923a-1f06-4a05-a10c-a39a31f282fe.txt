@@ -7,3 +7,5 @@ Bot: Going for a run sounds like a great idea! While I don't actually go outside
 User: 
 I enjoy running on either the local track or forest trails!
 Bot: Those both sound like fantastic options! Tracks are great for keeping pace, and forest trails must be so peaceful and refreshing. Do you listen to music or anything while you run, or do you prefer to enjoy the natural sounds around you?
+User: I usually listen to music! It helps distract me 
+Bot: Music really is a great way to stay motivated and keep your mind engaged while running! Do you have a favorite playlist or genre you like to listen to on your runs?
