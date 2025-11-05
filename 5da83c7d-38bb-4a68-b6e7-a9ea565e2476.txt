@@ -8,3 +8,5 @@ User: I'm in american studies right now. And in the gym today i am hitting legs
 Bot: American Studies sounds fascinating! Are there any particular topics in the course that you enjoy? Leg day is always intense but rewarding. Do you have a favorite leg exercise?
 User: leg press is my favorite. 
 Bot: Nice choice! The leg press really works those muscles. Do you prefer using free weights or machines for your workouts? And what about in your American Studies class—anything specific you've found particularly engaging recently?
+User: nothing specfifc in my class, just boring lecture. But i like using free weights and machines for all of my workouts. Mainly machines when I am excersing my legs
+Bot: I get that lecture vibe sometimes—it can be a bit monotonous. It's cool that you mix up free weights and machines; it seems like a balanced approach to fitness. Do you have any fitness goals you're working towards, or are you just enjoying staying active?
