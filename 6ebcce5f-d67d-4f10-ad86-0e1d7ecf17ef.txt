@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3625
 Bot: Hi, my participant ID is: 4782. How are you feeling about participating in this experiment today?
 User: I am feeling excited about participating in this experiment
 Bot: That's great to hear! Excitement can really enhance the experience. Is there anything specific you're looking forward to in this experiment?
+User: nothing in particular
+Bot: That's fair. Sometimes just being open to the experience is the best approach. Have you participated in experiments like this before, or is this your first time?
