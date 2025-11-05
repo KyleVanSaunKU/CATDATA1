@@ -22,3 +22,5 @@ User: kugelschreiber
 Bot: That's a great one! "Kugelschreiber" for "pen" is such a fun word to say. German has some wonderfully descriptive words. Do you find speaking or writing in German more challenging?
 User: both
 Bot: Totally understandable, especially when you're just starting out. It's great practice, though! What helps you the most when you're studying the language?
+User: ai
+Bot: That's a great choice! AI tools can be super helpful for learning languages. Do you have a favorite app or tool you use for practicing German?
