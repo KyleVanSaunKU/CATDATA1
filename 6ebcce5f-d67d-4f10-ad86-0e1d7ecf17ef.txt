@@ -18,3 +18,5 @@ User: I love sex in the city, i dont have another show planned
 Bot: Sex and the City is such a classic! The friendships and city life make for really engaging storytelling. It's always fun to see how those dynamics play out. Do you have a favorite character from that series too?
 User: probably carrie, I see myself in her
 Bot: That's wonderful! Carrie is such a relatable and multifaceted character. Her passion for writing and navigating life's ups and downs resonates with a lot of people. What aspects of her character do you connect with the most?
+User: how shes just a little bit crazy. Also I am moving on to the next question but it was nice talking to you
+Bot: Carrie's charming quirks definitely add a lot to her story. It's been great chatting with you too! Good luck with the rest of the experiment, and I hope you have a wonderful day!
