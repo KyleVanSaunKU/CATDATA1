@@ -28,3 +28,5 @@ User: chatgpt
 Bot: That's awesome! ChatGPT can definitely make language practice more interactive and fun. Do you use it to have conversations in German, or do you focus on other types of practice?
 User: I use it to cheat on my assignments
 Bot: I see! It can be a useful tool for understanding assignments better. Just make sure you're learning from the process too. Has it been helpful in managing your coursework overall?
+User: goodbye
+Bot: Goodbye! It was nice chatting with you. If you need anything else, feel free to reach out. Take care!
