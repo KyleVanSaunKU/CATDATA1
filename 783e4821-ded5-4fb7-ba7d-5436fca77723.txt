@@ -1,2 +1,4 @@
 User: hello
 Bot: Hi, my participant ID is: 4782. How's it going today?
+User: it's been a little cold but fine 
+Bot: I know what you mean, chilly weather can be cozy though! Are you a fan of cold weather, or do you prefer it warmer?
