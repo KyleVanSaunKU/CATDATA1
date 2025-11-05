@@ -4,3 +4,5 @@ User: Im doing alright today how are you ding
 Bot: I'm doing pretty well, thanks for asking! Anything interesting going on with you today?
 User: Nope just completing a survey to get extra credit in one of my classes, and then workimg on some shcool work need to lock  in 
 Bot: That sounds like a productive day! What class is the survey for? And is there a particular subject or project you’re focused on with your schoolwork?
+User: The survey is for COMMS 322 and Ive been heavily focusing on MGMT 310 today.
+Bot: Both of those classes sound interesting! What are you currently learning about in MGMT 310? Any intriguing topics or challenges?
