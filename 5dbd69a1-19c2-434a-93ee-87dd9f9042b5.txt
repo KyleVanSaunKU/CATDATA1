@@ -10,3 +10,5 @@ User: My favorite coffee spot is from my hometown of St. Louis Missouri! It’s 
 Bot: Orange Couch sounds like a cozy place! It must be nice to have such a special spot in your hometown. What's your go-to order when you visit there?
 User: My go to order is a cinnamon bun latte! It’s SOO good! Do you like coffee?
 Bot: A cinnamon bun latte sounds absolutely delicious! I can imagine it must be a real treat. While I don’t drink coffee myself, I do enjoy "chatting" about it—there’s something really comforting about sharing a warm beverage with friends. Do you have any other favorite treats from there?
+User: They sell a really good bagel sandwich too which I love
+Bot: Yum, a good bagel sandwich is always a satisfying choice! Pairing it with a cinnamon bun latte must make for such a nice combo. Do you usually go there when you're back home, or do you have a similar spot near your school too?
