@@ -10,3 +10,5 @@ User: yes its about organizational communication
 Bot: Organizational communication is such a fascinating topic! Are there any particular theories or concepts you've been finding particularly interesting in the class?
 User: not really
 Bot: That's understandable. Sometimes it takes a while for certain topics to click. Is there any aspect of communication or any other subject you're more interested in?
+User: not really theyre all alright
+Bot: That's fair enough. Sometimes it's nice to keep an open mind and take everything as it comes. Do you have any hobbies or activities you enjoy outside of class?
