@@ -12,3 +12,5 @@ User: usually just browsing unless I’m doing a pick up r
 Bot: Browsing can be the best because you can discover things you didn't know you needed. Picking up orders is also super handy when you know exactly what you're after. Do you also enjoy grabbing a bite while you're at the mall, or is it more of a shopping-focused trip for you?
 User: usually just shopping cuz I’m gluten free
 Bot: Got it! Being gluten free can really narrow down the food options. It must make it easier to focus on the shopping then. Do you have any favorite gluten-free snacks or meals you love to make at home?
+User: I’ve found some good pizza and cookies and snacks
+Bot: Yum, gluten-free pizza and cookies sound delicious! It's always great to find tasty gluten-free options. Do you have any go-to brands or recipes for them? I'm sure others could benefit from your recommendations!
