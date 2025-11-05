@@ -4,3 +4,5 @@ User: Yes
 Bot: Awesome! So, what kind of things do you like to do in your free time? I'm always interested in discovering new hobbies or interests!
 User: I love hanging out with friends, shoppping, walks 
 Bot: That sounds like a lot of fun! I bet shopping can be quite the adventure, especially with friends. Do you have a favorite store or type of place you like to walk? Exploring different places with friends can make for some great memories!
+User: there’s a mall close to my house at home I go to quite a bit
+Bot: That's convenient! Having a mall nearby must make it easy to pop over whenever you want to browse or grab a snack. Do you have a favorite store or spot in the mall you always like to visit?
