@@ -6,3 +6,5 @@ User: What made my day so amazing is that I did good on my business quiz and a l
 Bot: Wow, congrats on doing well on your business quiz! That's fantastic, and a ladybug landing on you sounds like such a sweet moment. Do you have an interest in business, or was it just one of many classes you're taking?
 User: Yes! Im actually majoring in business and plan to do something in real estate or insurance. I love sales and want to spend my time talking to people!
 Bot: That sounds like the perfect fit for you, especially if you enjoy talking to people. Both real estate and insurance have a lot of opportunities and challenges that require strong communication skills. Do you have a specific area of real estate or insurance in mind that you're particularly interested in?
+User: I want to sell houses all around my hometown. I think that would be super special!
+Bot: That sounds really special! Helping people find their dream homes in your hometown would be such a rewarding experience. Do you have a favorite neighborhood or area you'd love to focus on when you start selling?
