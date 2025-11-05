@@ -10,3 +10,5 @@ User: I love lenticular clouds, though I don't see very many where I live.
 Bot: They are pretty rare in some areas, especially where mountains aren't around to help form them. It's always special to catch a glimpse of those unique shapes when they do appear! What got you interested in clouds in the first place?
 User: When I was little, I used to find shapes in the clouds, and I've been obsessed ever since.
 Bot: That's such a charming way to start a lifelong interest! Finding shapes in the clouds can be so imaginative and soothing. Do you still find yourself looking for shapes now, or has your interest in clouds evolved in other ways?
+User: On occasion, though I prefer to classify them now.
+Bot: That's such a cool evolution of your interest! Classifying clouds must give you a deeper appreciation for their complexity. Do you have a favorite cloud classification method or system that you like to use?
