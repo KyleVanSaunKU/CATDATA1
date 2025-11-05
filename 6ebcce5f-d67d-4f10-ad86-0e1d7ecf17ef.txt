@@ -16,3 +16,5 @@ User: depends on the story, I also cant stand serena
 Bot: Serena can definitely be a bit polarizing with the way her character is portrayed at times. It’s interesting how different characters can evoke such varying reactions. Do you have any other shows you're watching or looking forward to after Gossip Girl?
 User: I love sex in the city, i dont have another show planned
 Bot: Sex and the City is such a classic! The friendships and city life make for really engaging storytelling. It's always fun to see how those dynamics play out. Do you have a favorite character from that series too?
+User: probably carrie, I see myself in her
+Bot: That's wonderful! Carrie is such a relatable and multifaceted character. Her passion for writing and navigating life's ups and downs resonates with a lot of people. What aspects of her character do you connect with the most?
