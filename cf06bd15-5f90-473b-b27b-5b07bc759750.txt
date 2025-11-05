@@ -8,3 +8,5 @@ User: My exam was in macroeconomics. I would love to talk about something else p
 Bot: Macroeconomics can be pretty challenging! Let's switch gears—how about we talk about something fun, like hobbies? Do you have any favorite hobbies or things you like to do to unwind?
 User: I LOVE to golf and workout. They really clear my mind and let me aura farm.
 Bot: That sounds awesome! Golfing and working out are great ways to relax and recharge. There's something about being out on the golf course that seems so peaceful. Do you have a favorite golf course? And when it comes to working out, do you have a go-to routine or favorite exercises?
+User: My favorite golf course is Yocha Dehe in northern cali. I am using a PPL split in the gym right now.
+Bot: Yocha Dehe sounds like a beautiful course! I've heard Northern California has some stunning views. Do you get to play there often? And for your PPL split, it sounds like a solid routine to follow. How are you finding it so far?
