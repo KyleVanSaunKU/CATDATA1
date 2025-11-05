@@ -6,3 +6,5 @@ User: Nope just completing a survey to get extra credit in one of my classes, an
 Bot: That sounds like a productive day! What class is the survey for? And is there a particular subject or project you’re focused on with your schoolwork?
 User: The survey is for COMMS 322 and Ive been heavily focusing on MGMT 310 today.
 Bot: Both of those classes sound interesting! What are you currently learning about in MGMT 310? Any intriguing topics or challenges?
+User: Learning about the different types of theories surrounding leadership, nothing was too hard about it 
+Bot: Leadership theories are definitely a fascinating subject! Do you have a favorite theory or one that you find particularly compelling?
