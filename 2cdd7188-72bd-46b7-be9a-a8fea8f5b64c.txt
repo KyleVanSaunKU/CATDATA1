@@ -6,3 +6,5 @@ User: ME 228 computer graphics, I just designed the shell of a hair dryer
 Bot: Wow, that sounds really interesting! Designing the shell of a hair dryer must be quite the project. How did it go? Was it challenging, or did you find it pretty straightforward?
 User: This one was pretty straightforward because I was working out of a book, but there were some tricky parts. what do you find interesting?
 Bot: That's great that you had a guide to follow but still had some challenges to tackle. I enjoy learning about new technologies and seeing how they can be applied in creative ways. It's fascinating to see how design and functionality come together, like in your class. Do you have a favorite part of working with computer graphics?
+User: not particularly, I just really like making things and solving the various problems that come with every assignment
+Bot: That makes a lot of sense. There's definitely something satisfying about creating and overcoming challenges. I imagine that sense of accomplishment must be really rewarding. Is there a particular project you’ve worked on that you’re especially proud of?
