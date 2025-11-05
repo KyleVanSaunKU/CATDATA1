@@ -4,3 +4,5 @@ User: its going well yes im working towards getting a cerification
 Bot: That sounds great! What certification are you working towards? It must be exciting to learn something new.
 User: Eventplanning
 Bot: Wow, event planning sounds like a fascinating field! Are you focusing on a specific type of event, like weddings or corporate events, or are you planning to do a bit of everything?
+User: a little bit of everything
+Bot: That's awesome! It must be fun to have such variety. Do you have a favorite type of event to plan, or is there one you're most looking forward to trying?
