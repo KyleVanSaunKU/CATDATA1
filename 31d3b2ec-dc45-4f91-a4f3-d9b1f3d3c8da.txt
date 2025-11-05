@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 4685
+Bot: Hi, my participant ID is: 4782. It's great to connect with you! How's your day going so far? Anything exciting happening today?
