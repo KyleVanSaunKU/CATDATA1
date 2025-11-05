@@ -8,3 +8,5 @@ User: I like to go swim a lot
 Bot: Swimming is such a refreshing activity, especially on a hot day! Do you usually swim at a pool, a lake, or maybe the ocean?
 User: all 3
 Bot: That's awesome, having variety is great! Each has its own unique feel, I guess. Do you have a favorite spot among those where you'd like to swim most?
+User: I think probably the pool. what is your favorite?
+Bot: I think pools are great for practicing and having fun with friends! If I had to choose, I'd probably go with the ocean because of the waves and the fresh salty air. What do you enjoy most about swimming in the pool?
