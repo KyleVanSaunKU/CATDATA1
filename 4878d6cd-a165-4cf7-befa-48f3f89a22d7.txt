@@ -4,3 +4,5 @@ User: good how are you
 Bot: I'm doing well, thanks for asking! What have you been up to today?
 User: nothing much just got to class 
 Bot: Nice, what class are you attending? Are you enjoying it so far?
+User: im in coms 210
+Bot: That sounds interesting! Is COMS 210 focused on communication studies, or is there a particular aspect you're diving into?
