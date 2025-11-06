@@ -8,3 +8,5 @@ User: i definitely have certain language i use with my friends
 Bot: That's relatable! It's like having your own digital dialect. Do you find that your language changes a lot depending on who you're talking to, or is it pretty consistent across your friend group?
 User: its pretty consistent but changes throughout my college friends versus my hometown friends 
 Bot: I totally get that! Different groups can bring out unique sides of us. Have you noticed any specific words or phrases that are particular to your college friends versus your hometown friends?
+User: we have a lot of inside jokes we've gotten from shows or videos we watch together
+Bot: Inside jokes are the best! They always make conversations more fun and personal. What’s one of your favorite shows or videos that you’ve shared with them?
