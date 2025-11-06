@@ -12,3 +12,5 @@ User: I plan to persuade them by going over the common concerns and demystifying
 Bot: That's a great approach! Addressing and debunking common concerns can really help alleviate fears and misconceptions. Are there any specific concerns you're focusing on, like ethical issues, safety, or something else? It sounds like you've got a solid strategy to make your argument convincing!
 User: Thanks. My 3 main points are all centered around various ethical issues.
 Bot: Focusing on ethical issues is crucial, as they tend to be at the heart of many debates around gene editing. It sounds like you have a thoughtful approach to tackling these concerns. Are you planning to present examples of how CRISPR has been used in a positive way to support your points?
+User: Yes.
+Bot: That sounds like a compelling strategy! Real-world examples can be very persuasive to show the practical benefits and potential of gene editing. Are you looking at specific case studies or breakthroughs that highlight the positive impact of CRISPR?
