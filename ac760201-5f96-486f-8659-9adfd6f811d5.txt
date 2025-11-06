@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 8597
 Bot: Hi, my participant ID is: 4782. How's it going? What brings you to this experiment?
 User: Just saw it on the COMS research page
 Bot: That's cool! The COMS research page always has interesting studies. Are you studying communications, or do you just like participating in experiments like this one?
+User: I'm not studying communications. I'm in a public speaking class and can earn extra credit this way
+Bot: That's a smart way to earn extra credit! Public speaking can be challenging. How are you finding the class? Are there specific topics you enjoy discussing, or are you more focused on improving your speaking skills?
