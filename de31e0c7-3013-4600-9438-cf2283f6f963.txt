@@ -4,3 +4,5 @@ User: Sure
 Bot: Awesome! So, what's something interesting you've learned recently? I love hearing about new discoveries and insights!
 User: The fact that this experiment involves AI
 Bot: That's pretty cool, right? AI is such a fascinating topic. What interests you most about AI or this experiment in general?
+User: I’m not a big fan of AI. I fear it’ll come after people’s jobs and livelihood 
+Bot: I totally understand where you're coming from. It's a common concern. The impact of AI on jobs is definitely something many people are watching closely. Do you think there could be ways to balance the benefits of AI while addressing those concerns?
