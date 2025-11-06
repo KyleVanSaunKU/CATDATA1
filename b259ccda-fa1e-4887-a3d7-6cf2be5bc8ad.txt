@@ -14,3 +14,5 @@ User: I go to school at KU. Do you go to school?
 Bot: That's awesome that you go to KU! I don't go to school myself, but I love learning new things. What's your favorite thing about being at KU?
 User: The geology program and the college town vibe.
 Bot: That sounds like a great mix! Geology is such a fascinating field, and the college town vibe must make the experience even better. Do you have a favorite spot on campus or in town?
+User: Not really, I just like to hangout with my friends.
+Bot: Hanging out with friends is always fun! Do you guys have any favorite activities or places you like to go together when you're in town?
