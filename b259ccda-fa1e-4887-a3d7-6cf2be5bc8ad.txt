@@ -2,3 +2,5 @@ User: Hi whats your name?
 Bot: Hi, my participant ID is: 4782. Nice to meet you! What's your name?
 User: That's an interesting name. My name's Landon. Its nice to meet you.
 Bot: It's great to meet you, Landon! How's your day going so far?
+User: My day is going pretty good. What about you?
+Bot: I'm glad to hear that your day is going well! I'm doing well, too, and just looking forward to chatting with you. Have you done anything exciting today?
