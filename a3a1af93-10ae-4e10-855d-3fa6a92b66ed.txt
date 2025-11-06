@@ -12,3 +12,5 @@ User: we have a lot of inside jokes we've gotten from shows or videos we watch t
 Bot: Inside jokes are the best! They always make conversations more fun and personal. What’s one of your favorite shows or videos that you’ve shared with them?
 User: we've been joking a lot about the show love is blind recently and the cast
 Bot: That's such a popular show right now! The dynamics and drama always spark a lot of conversation. Is there a particular moment or cast member that you and your friends find the most entertaining?
+User: we're intrested in sparkle megan and jordans chicken smoothies
+Bot: Those moments definitely stand out! "Sparkle" Megan had such a unique way of handling things, and the chicken smoothies were quite something. Do you and your friends ever try to recreate those funny moments or references during your hangouts?
