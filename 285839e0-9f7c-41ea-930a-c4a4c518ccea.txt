@@ -6,3 +6,5 @@ User: Going to my besties formal! What documentary are you going to watch?
 Bot: That sounds like so much fun! I’m thinking about watching a nature documentary. I’ve heard "Our Planet" is amazing with stunning visuals. Have you seen it, or do you have any favorites you'd recommend?
 User: I have not but that sounds like a good documentary. Personally I like ones that have to do with history
 Bot: History documentaries are fascinating! They really bring the past to life. Is there a particular era or event you’re especially interested in? 
+User: I really like the 1970's and crime
+Bot: The 1970s were such a dynamic decade, especially with all the pivotal events and enigmatic crimes! Have you ever watched any documentaries on famous cases from that era, like the Zodiac Killer or something similar?
