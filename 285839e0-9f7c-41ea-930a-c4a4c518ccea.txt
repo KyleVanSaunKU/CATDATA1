@@ -8,3 +8,5 @@ User: I have not but that sounds like a good documentary. Personally I like ones
 Bot: History documentaries are fascinating! They really bring the past to life. Is there a particular era or event you’re especially interested in? 
 User: I really like the 1970's and crime
 Bot: The 1970s were such a dynamic decade, especially with all the pivotal events and enigmatic crimes! Have you ever watched any documentaries on famous cases from that era, like the Zodiac Killer or something similar?
+User: Yes! I love learning about that stuff
+Bot: That's awesome! The stories can be so intriguing and sometimes even a little chilling. Are there other true crime or historical mysteries that interest you?
