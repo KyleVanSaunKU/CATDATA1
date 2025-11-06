@@ -4,3 +4,5 @@ User: my day's going really well! I'm adopting a dog for a day today from the hu
 Bot: That's so exciting! What a wonderful way to spend the day. Do you know what kind of dog you'll be spending time with, or are you just going to be surprised when you get there? 🐶💖
 User: we got the dog this morning, i think hes some sort of pitbull mix
 Bot: Aww, pitbull mixes can be such sweethearts! Have you thought about what activities you'll do with him today? Maybe a walk in the park or some playtime in the yard? 🐕‍🦺🌳
+User: he pulls pretty hard on a leash, but were hoping to take him on a walk later. the shelter recommended the dogs mostly relax at our homes because they get pretty stressed being cooped up in the shelter
+Bot: That sounds like a wise suggestion from the shelter. Some time to relax and unwind at home can really help them feel more comfortable. Maybe some cuddles and a few treats here and there will help him settle in! Do you have any toys ready for him to play with? 😊🏠🦴
