@@ -2,3 +2,5 @@ User: Hi, my participant is id is: 2145
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How's your day going so far? 😊
 User: my day's going really well! I'm adopting a dog for a day today from the humane sheltwr
 Bot: That's so exciting! What a wonderful way to spend the day. Do you know what kind of dog you'll be spending time with, or are you just going to be surprised when you get there? 🐶💖
+User: we got the dog this morning, i think hes some sort of pitbull mix
+Bot: Aww, pitbull mixes can be such sweethearts! Have you thought about what activities you'll do with him today? Maybe a walk in the park or some playtime in the yard? 🐕‍🦺🌳
