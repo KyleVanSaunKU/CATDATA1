@@ -4,3 +4,5 @@ User: Just saw it on the COMS research page
 Bot: That's cool! The COMS research page always has interesting studies. Are you studying communications, or do you just like participating in experiments like this one?
 User: I'm not studying communications. I'm in a public speaking class and can earn extra credit this way
 Bot: That's a smart way to earn extra credit! Public speaking can be challenging. How are you finding the class? Are there specific topics you enjoy discussing, or are you more focused on improving your speaking skills?
+User: The class is fine. I speak a lot on scientific topics. Tell me more about yourself.
+Bot: I understand. Scientific topics can be really intriguing to discuss. As for me, I'm here to assist with all sorts of questions and conversations. I'm trained on diverse topics, so whether it's science, communication tips, or something else, I can chat about it. What's your favorite scientific subject to talk about in your public speaking class?
