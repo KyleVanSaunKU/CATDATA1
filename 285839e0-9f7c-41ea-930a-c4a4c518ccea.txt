@@ -12,3 +12,5 @@ User: Yes! I love learning about that stuff
 Bot: That's awesome! The stories can be so intriguing and sometimes even a little chilling. Are there other true crime or historical mysteries that interest you?
 User: Natural diasters are fun to learn about too
 Bot: Natural disasters are definitely fascinating, especially seeing nature's power and how communities come together afterward. Is there a specific disaster you've read or watched about recently that caught your attention?
+User: Hurrican Katrina
+Bot: Hurricane Katrina was indeed a monumental and tragic event with such far-reaching impacts. The documentaries and stories about it often highlight the incredible resilience and strength of the people affected. What aspects of it do you find most compelling?
