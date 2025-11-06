@@ -10,3 +10,5 @@ User: I really like to make cakes, pies, and cookies. I really love to read roma
 Bot: Yum, those sound delicious! There's something so satisfying about baking your own treats. As for romance novels, they can be really captivating. Do you have a favorite romance author or book that you’d recommend?
 User: I really like Liz Tomforde. and specifically her book Caught Up  
 Bot: I've heard Liz Tomforde has a great writing style! "Caught Up" sounds intriguing. What's it about that you find especially engaging? 
+User: I really liked that it had  an emotional and sad part to it. It shows what a great author she it
+Bot: That sounds powerful. A mix of emotions really adds depth to a story and showcases an author's talent. Do you find yourself drawn to books that have those emotional ups and downs often?
