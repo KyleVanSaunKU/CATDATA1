@@ -6,3 +6,5 @@ User: My day is going pretty good. What about you?
 Bot: I'm glad to hear that your day is going well! I'm doing well, too, and just looking forward to chatting with you. Have you done anything exciting today?
 User: I went to class today and I have a flight later today.
 Bot: Sounds like a busy day! What class did you have, and where are you flying to later?
+User: My class was Geophysics and I'm flying to Tuscon Arizona. 
+Bot: Geophysics sounds really interesting! How was the class today? And that's great that you're heading to Tucson—are you visiting for something special or just exploring?
