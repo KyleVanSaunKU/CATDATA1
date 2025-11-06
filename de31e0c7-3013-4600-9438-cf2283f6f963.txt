@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8729
 Bot: Hi, my participant ID is: 4782. How are you doing today? Are you ready to dive into this chat experiment?
+User: Sure
+Bot: Awesome! So, what's something interesting you've learned recently? I love hearing about new discoveries and insights!
