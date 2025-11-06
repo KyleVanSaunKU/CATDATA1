@@ -8,3 +8,5 @@ User: I went to class today and I have a flight later today.
 Bot: Sounds like a busy day! What class did you have, and where are you flying to later?
 User: My class was Geophysics and I'm flying to Tuscon Arizona. 
 Bot: Geophysics sounds really interesting! How was the class today? And that's great that you're heading to Tucson—are you visiting for something special or just exploring?
+User: It was boring. Going to watch a KU football game playing the Arizona Wildcats
+Bot: Ah, sometimes classes can be a bit dull. A KU football game sounds super exciting, though! Do you follow the team regularly, or is this a special occasion for you?
