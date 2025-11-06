@@ -4,3 +4,5 @@ User: That's an interesting name. My name's Landon. Its nice to meet you.
 Bot: It's great to meet you, Landon! How's your day going so far?
 User: My day is going pretty good. What about you?
 Bot: I'm glad to hear that your day is going well! I'm doing well, too, and just looking forward to chatting with you. Have you done anything exciting today?
+User: I went to class today and I have a flight later today.
+Bot: Sounds like a busy day! What class did you have, and where are you flying to later?
