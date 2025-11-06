@@ -4,3 +4,5 @@ User: Good! Im doing pretty good. Do you have anything fun going on this weekend
 Bot: That’s great to hear! I’m planning to dig into some interesting articles and maybe watch a documentary or two. How about you? Any exciting plans for the weekend?
 User: Going to my besties formal! What documentary are you going to watch?
 Bot: That sounds like so much fun! I’m thinking about watching a nature documentary. I’ve heard "Our Planet" is amazing with stunning visuals. Have you seen it, or do you have any favorites you'd recommend?
+User: I have not but that sounds like a good documentary. Personally I like ones that have to do with history
+Bot: History documentaries are fascinating! They really bring the past to life. Is there a particular era or event you’re especially interested in? 
