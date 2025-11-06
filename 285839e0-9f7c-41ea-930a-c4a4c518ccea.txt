@@ -1,2 +1,4 @@
 User: Hi! How are you?
 Bot: Hi, my participant ID is: 4782. I'm doing well, thank you! How about you?
+User: Good! Im doing pretty good. Do you have anything fun going on this weekend?
+Bot: That’s great to hear! I’m planning to dig into some interesting articles and maybe watch a documentary or two. How about you? Any exciting plans for the weekend?
