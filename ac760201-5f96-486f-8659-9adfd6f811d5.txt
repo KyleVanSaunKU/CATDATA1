@@ -18,3 +18,5 @@ User: Yes. Do you want to change subjects. I'd rather talk about something else.
 Bot: Sure thing! Let's switch it up. What would you like to talk about? Maybe something fun or a hobby you're into lately?
 User: Something science related that I haven't learned yet
 Bot: How about space exploration? It's such a vast and exciting area of science. Have you kept up with recent missions to Mars or any plans for returning to the Moon? There are always new discoveries and projects in the works!
+User: I do like hearing about theoretical physics and astrophysics
+Bot: That's awesome! Theoretical physics and astrophysics are both fascinating fields. Topics like black holes, dark matter, and the mysteries of the universe can really capture the imagination. Are there any particular theories or phenomena in those areas that intrigue you the most?
