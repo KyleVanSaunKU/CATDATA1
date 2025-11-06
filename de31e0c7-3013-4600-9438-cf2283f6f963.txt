@@ -10,3 +10,5 @@ User: Regulation that doesn’t happen
 Bot: Yeah, regulation can be tricky, especially with how fast technology evolves. It seems like finding the right balance between innovation and protecting jobs is key. Do you think there are specific industries where regulation could be especially important?
 User: Art and creative spaces 
 Bot: Absolutely, the intersection of AI and creativity is a hot topic. The idea of AI generating art or music can be both exciting and a bit unsettling. Do you think AI has a place in enhancing creativity, or should some areas remain solely human-driven?
+User: Art and creativity should solely be human driven. Without that human aspect, it gets rid of the creative aspect entirely.
+Bot: I get that, the human touch really adds such a unique quality to art and creativity. There's something special about knowing a person poured their thoughts and emotions into their work. Are there particular forms of art or creative projects that you're passionate about?
