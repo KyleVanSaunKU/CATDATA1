@@ -8,3 +8,5 @@ User: I also enjoy science, but I'm more into talking about hobbies and stuff. I
 Bot: Baking and reading sound like great hobbies! What's your favorite thing to bake? And do you have a favorite book or genre you enjoy reading?
 User: I really like to make cakes, pies, and cookies. I really love to read romance. Its my favorite 
 Bot: Yum, those sound delicious! There's something so satisfying about baking your own treats. As for romance novels, they can be really captivating. Do you have a favorite romance author or book that you’d recommend?
+User: I really like Liz Tomforde. and specifically her book Caught Up  
+Bot: I've heard Liz Tomforde has a great writing style! "Caught Up" sounds intriguing. What's it about that you find especially engaging? 
