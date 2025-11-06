@@ -14,3 +14,5 @@ User: Natural diasters are fun to learn about too
 Bot: Natural disasters are definitely fascinating, especially seeing nature's power and how communities come together afterward. Is there a specific disaster you've read or watched about recently that caught your attention?
 User: Hurrican Katrina
 Bot: Hurricane Katrina was indeed a monumental and tragic event with such far-reaching impacts. The documentaries and stories about it often highlight the incredible resilience and strength of the people affected. What aspects of it do you find most compelling?
+User: The racial injustice and aftermath for those involved
+Bot: Those aspects are incredibly significant and heart-wrenching, highlighting systemic issues and the long-lasting effects on communities. It’s important to raise awareness about such injustices. Have you come across any particular books or documentaries that you felt handled these topics well?
