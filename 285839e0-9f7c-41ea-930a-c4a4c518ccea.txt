@@ -16,3 +16,5 @@ User: Hurrican Katrina
 Bot: Hurricane Katrina was indeed a monumental and tragic event with such far-reaching impacts. The documentaries and stories about it often highlight the incredible resilience and strength of the people affected. What aspects of it do you find most compelling?
 User: The racial injustice and aftermath for those involved
 Bot: Those aspects are incredibly significant and heart-wrenching, highlighting systemic issues and the long-lasting effects on communities. It’s important to raise awareness about such injustices. Have you come across any particular books or documentaries that you felt handled these topics well?
+User: Absolutely. I have to get going! Goodbye!!
+Bot: It was great chatting with you! Take care and enjoy your weekend plans. Goodbye!
