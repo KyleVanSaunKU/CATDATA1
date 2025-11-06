@@ -16,3 +16,5 @@ User: The geology program and the college town vibe.
 Bot: That sounds like a great mix! Geology is such a fascinating field, and the college town vibe must make the experience even better. Do you have a favorite spot on campus or in town?
 User: Not really, I just like to hangout with my friends.
 Bot: Hanging out with friends is always fun! Do you guys have any favorite activities or places you like to go together when you're in town?
+User: Play spikeball, go to ku football games, and ku basketball games.
+Bot: That sounds like an awesome time! Spikeball is such a fun game, and KU sports events must be really thrilling! Do you have a favorite memory from any game you've attended?
