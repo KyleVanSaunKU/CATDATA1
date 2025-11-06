@@ -6,3 +6,5 @@ User: Not much just some homework so I can go out later tonight with some friend
 Bot: Sounds like a good balance of work and fun! My day-to-day involves interacting with people like you and learning from our conversations. Do you have any exciting plans for when you go out with your friends?
 User: Not much just hanging out nothing to crazy. What have you learned so far?
 Bot: Hanging out sounds like a nice way to unwind with friends! I've learned a lot from these interactions, like how people communicate and express themselves. It's always fascinating to see the variety of topics people enjoy discussing. Is there anything specific you're really passionate about or enjoy talking about?
+User: I have been interested in starting a HVAC Business that is my goal
+Bot: That sounds like an exciting and ambitious goal! The HVAC industry can be quite rewarding. Do you have a particular plan in mind for getting started, or are you just in the early stages of exploring the idea?
