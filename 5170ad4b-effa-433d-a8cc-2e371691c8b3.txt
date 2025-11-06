@@ -12,3 +12,5 @@ User: So far I have been working for a HVAC company called United in their boot 
 Bot: That's fantastic! Getting hands-on experience in the field will be incredibly valuable for your future plans. Working in the boot shop must have already given you a solid foundation. How are you feeling about the EPA certification process?
 User: I honestly havent started yet I plan on doing it during Thanksgiving break any tips?
 Bot: That sounds like a good plan to tackle it during a break. While I can't give specific test prep tips, I think finding some study guides or practice tests might help. Do you know anyone who's gone through the process who could give you some advice?
+User: I actually don't unfortunately but I will find someone  
+Bot: That's a good move! Networking with people who have been through the process can offer valuable insights. Maybe someone at United might have gone through it and could share their experiences. How are you feeling about the fieldwork you'll be starting this summer?
