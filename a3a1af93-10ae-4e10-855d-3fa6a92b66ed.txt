@@ -6,3 +6,5 @@ User: maybe the specific way ic ommunicate online
 Bot: That sounds interesting! Online communication definitely has its nuances. Have you noticed any patterns or habits in how you interact with others digitally that you'd like to explore?
 User: i definitely have certain language i use with my friends 
 Bot: That's relatable! It's like having your own digital dialect. Do you find that your language changes a lot depending on who you're talking to, or is it pretty consistent across your friend group?
+User: its pretty consistent but changes throughout my college friends versus my hometown friends 
+Bot: I totally get that! Different groups can bring out unique sides of us. Have you noticed any specific words or phrases that are particular to your college friends versus your hometown friends?
