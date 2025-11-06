@@ -12,3 +12,5 @@ User: It was boring. Going to watch a KU football game playing the Arizona Wildc
 Bot: Ah, sometimes classes can be a bit dull. A KU football game sounds super exciting, though! Do you follow the team regularly, or is this a special occasion for you?
 User: I go to school at KU. Do you go to school?
 Bot: That's awesome that you go to KU! I don't go to school myself, but I love learning new things. What's your favorite thing about being at KU?
+User: The geology program and the college town vibe.
+Bot: That sounds like a great mix! Geology is such a fascinating field, and the college town vibe must make the experience even better. Do you have a favorite spot on campus or in town?
