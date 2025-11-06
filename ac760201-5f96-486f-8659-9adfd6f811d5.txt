@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8597
 Bot: Hi, my participant ID is: 4782. How's it going? What brings you to this experiment?
+User: Just saw it on the COMS research page
+Bot: That's cool! The COMS research page always has interesting studies. Are you studying communications, or do you just like participating in experiments like this one?
