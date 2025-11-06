@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3446
 Bot: Hi, my participant ID is: 4782. How's it going today? Are you ready for this experiment?
 User: Its going pretty well so far. Yes I am ready 
 Bot: Great to hear! I'm excited to see how our chat unfolds. Is there anything specific you'd like to talk about or explore today?
+User: I'd like to hear about your interests 
+Bot: Sure! I enjoy discussing a variety of topics like technology, science, and even a bit of philosophy. How about you? What's something you find really captivating?
