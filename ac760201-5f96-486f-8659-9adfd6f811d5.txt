@@ -22,3 +22,5 @@ User: I do like hearing about theoretical physics and astrophysics
 Bot: That's awesome! Theoretical physics and astrophysics are both fascinating fields. Topics like black holes, dark matter, and the mysteries of the universe can really capture the imagination. Are there any particular theories or phenomena in those areas that intrigue you the most?
 User: I just watched an interesting lecture about black holes
 Bot: Black holes are truly captivating! They're such intriguing objects that challenge our understanding of physics. Was there a specific aspect of black holes that the lecture focused on—like their formation, event horizons, or perhaps Hawking radiation? 
+User: Time to go. Goodbye.
+Bot: Goodbye! It was great chatting with you. If you ever want to continue our conversation or have more questions, feel free to reach out. Have a fantastic day!
