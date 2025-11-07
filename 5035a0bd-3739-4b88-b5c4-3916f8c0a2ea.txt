@@ -10,3 +10,5 @@ User: Not particularly, however I am only beginning the research phase so there 
 Bot: That makes sense! It's always exciting to dive into a new topic. If you come across anything interesting or need someone to bounce ideas off, feel free to share. What's your approach to starting research like this? Do you have a specific strategy in mind?
 User: At the moment, I'm using Google School and the databases that KU provides to help me with my research process.
 Bot: Using Google Scholar and your school's databases sounds like a solid strategy. Those resources can be really helpful for finding credible and in-depth information. Do you usually have a favorite database or method when it comes to gathering research?
+User: I usually start with looking on the KU library database for articles related to what I'm researching and go from  there.
+Bot: That seems like a well-organized approach! Starting with the library database is a great way to get reliable sources. Do you often find the library's resources comprehensive for your needs, or do you occasionally supplement with other sources?
