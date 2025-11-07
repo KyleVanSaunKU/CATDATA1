@@ -1,2 +1,4 @@
 User: Hi , my participant ID is: 2163
 Bot: Hi, my participant ID is: 4782. How's it going with you today?
+User: hi! im good how are you doing?
+Bot: I'm doing well, thanks for asking! It's nice to chat with you. What have you been up to today?
