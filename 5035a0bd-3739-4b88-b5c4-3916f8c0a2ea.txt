@@ -4,3 +4,5 @@ User: My day is going pretty well, how's yours?
 Bot: It's going great, thanks for asking! Just getting ready to dive into this conversation with you. What have you been up to today?
 User: Not much. I had work this morning and class in the afternoon. I plan to take a nap after work this afternoon though and finish up some research for class.
 Bot: That sounds like a pretty full day! Balancing work and class can be a lot, so a nap sounds like a great idea. What kind of research are you working on for class?
+User: I'm researching about serial arguments and how they influence interpersonal relationships, specifically romantic relationships.
+Bot: That sounds fascinating! Serial arguments can definitely play a significant role in relationships. Are there any particular findings or insights that have caught your attention so far?
