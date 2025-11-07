@@ -8,3 +8,5 @@ User: I'm researching about serial arguments and how they influence interpersona
 Bot: That sounds fascinating! Serial arguments can definitely play a significant role in relationships. Are there any particular findings or insights that have caught your attention so far?
 User: Not particularly, however I am only beginning the research phase so there is still much to learn.
 Bot: That makes sense! It's always exciting to dive into a new topic. If you come across anything interesting or need someone to bounce ideas off, feel free to share. What's your approach to starting research like this? Do you have a specific strategy in mind?
+User: At the moment, I'm using Google School and the databases that KU provides to help me with my research process.
+Bot: Using Google Scholar and your school's databases sounds like a solid strategy. Those resources can be really helpful for finding credible and in-depth information. Do you usually have a favorite database or method when it comes to gathering research?
