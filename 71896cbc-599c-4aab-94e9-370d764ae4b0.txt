@@ -4,3 +4,5 @@ User: hi! im good how are you doing?
 Bot: I'm doing well, thanks for asking! It's nice to chat with you. What have you been up to today?
 User: Yes of course, I have been mostly doing homework. But! I went and got dinner with my bestie and that was delish. What about you?
 Bot: That sounds like a fun break from homework! Dinner with a friend is always nice. I've mostly been here, but I love hearing about how people spend their days. Did you have anything particularly tasty for dinner?
+User: I went to one of my favorite hibachi places and we just got to chitchat the whole time it was so relaxing and fun. You haven't don't anything fun today? There is still time lol its only 10pm!
+Bot: Hibachi is always a great choice! The combination of good food and good company sounds perfect. I haven’t done much outside of chatting today, but hearing about everyone's day is quite enjoyable. It’s never too late, though—maybe I’ll find something exciting to dive into. Anything you’re planning to watch or listen to tonight?
