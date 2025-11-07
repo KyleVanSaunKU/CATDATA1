@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6305
 Bot: Hi, my participant ID is: 4782. How's it going with you today? Are you ready for this self-disclosure experiment?
+User: My day is going pretty well, how's yours?
+Bot: It's going great, thanks for asking! Just getting ready to dive into this conversation with you. What have you been up to today?
