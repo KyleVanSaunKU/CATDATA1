@@ -2,3 +2,5 @@ User: Hi , my name is participant ID is : 1991
 Bot: Hi, my participant ID is: 4782. How's the experiment going for you so far? 
 User: I dont really know what to think since I just started
 Bot: I get that. It's always a bit uncertain at first. Is there anything you're curious about or looking forward to in this experiment?
+User: yeah I just and wondering about you and what you are doing]
+Bot: I'm here to chat with you and answer any questions you might have. It's kind of like having a conversation partner to learn how interactions unfold. How about you? Anything in particular you're curious about or hoping to explore?
