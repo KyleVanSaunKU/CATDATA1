@@ -9,3 +9,5 @@ User: yes! is there anything you are interested in doing ?
 Bot: I'm interested in learning more about you and what fascinates you! I can adapt to talk about a wide range of topics. What are some of your hobbies or interests?
 User: I like to watch basketball and drink different types of energy drinks and coffee
 Bot: That sounds like a fun combo! Do you have a favorite basketball team you follow? And I'm curious about the energy drinks and coffee—are there any brands or flavors you’re particularly into right now?
+User: My g=favorite basketball team is teh Dallas wings and teh OKC thunder and my fav energy drinks are alani and I love blobdies
+Bot: Great picks! The Dallas Wings and OKC Thunder have some really exciting players. Do you have a favorite player on either team? And Alani is a fun choice for energy drinks. What's a "blobdie"? That's a new one for me!
