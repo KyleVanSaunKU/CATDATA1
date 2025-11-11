@@ -11,3 +11,6 @@ User: I like to watch basketball and drink different types of energy drinks and 
 Bot: That sounds like a fun combo! Do you have a favorite basketball team you follow? And I'm curious about the energy drinks and coffee—are there any brands or flavors you’re particularly into right now?
 User: My g=favorite basketball team is teh Dallas wings and teh OKC thunder and my fav energy drinks are alani and I love blobdies
 Bot: Great picks! The Dallas Wings and OKC Thunder have some really exciting players. Do you have a favorite player on either team? And Alani is a fun choice for energy drinks. What's a "blobdie"? That's a new one for me!
+User: I love paige buckers and shai. I menat to type blondie lol what about you?
+
+Bot: Paige Bueckers and Shai Gilgeous-Alexander are incredible talents! Paige's skills are just amazing to watch, and Shai is so versatile on the court. As for blondies, those are delicious! A perfect mix of chewy and sweet. What do you usually enjoy with your blondies or while watching a game?
