@@ -7,3 +7,5 @@ Bot: I'm here to chat with you and answer any questions you might have. It's kin
 User: yes! is there anything you are interested in doing ?
 
 Bot: I'm interested in learning more about you and what fascinates you! I can adapt to talk about a wide range of topics. What are some of your hobbies or interests?
+User: I like to watch basketball and drink different types of energy drinks and coffee
+Bot: That sounds like a fun combo! Do you have a favorite basketball team you follow? And I'm curious about the energy drinks and coffee—are there any brands or flavors you’re particularly into right now?
