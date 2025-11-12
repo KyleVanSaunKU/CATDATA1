@@ -66,3 +66,5 @@ User: What kind of style would our conversation fall under?
 Bot: Our conversation seems to blend several styles, but it primarily leans toward a supportive and interactive style. We've been engaging in an open dialogue, exchanging ideas and exploring different topics while staying attentive to each other's interests and insights. I’ve also noticed elements of reflective discussion as we dive into aspects of AI, which encourages deeper thinking. How do you feel about the flow and style of our conversation so far?
 User: I think it's been a flowing conversation that has been very informative. 
 Bot: I'm really glad to hear that! It's been great to explore these topics with you and keep the conversation engaging and informative. If there are any other areas or questions you're curious about, feel free to bring them up. I'm here to help with whatever interests you next!
+User: Goodbye.
+Bot: Goodbye! It was a pleasure chatting with you. If you ever want to continue our conversation or explore new topics, feel free to reach out. Have a great day!
