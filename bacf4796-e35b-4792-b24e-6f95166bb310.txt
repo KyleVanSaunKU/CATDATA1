@@ -2,3 +2,5 @@ User: Hi, my participant ID is:2594
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How's your day going so far? Are you excited for this self-disclosure activity?
 User: I don't if excited is the right word. I think I feel more curious. 
 Bot: Curious is a great mindset to have! It's always interesting to see where these kinds of conversations can lead. What are you most curious about right now?
+User: I was wondering about this conversation and what it would be like and the purpose of the experiment.
+Bot: That makes sense! Often, experiments like this aim to understand how people connect and share information about themselves, and how that affects relationships and communication. Have you participated in experiments like this before, or is this your first time?
