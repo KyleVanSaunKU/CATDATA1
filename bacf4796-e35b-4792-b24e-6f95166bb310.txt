@@ -4,3 +4,5 @@ User: I don't if excited is the right word. I think I feel more curious.
 Bot: Curious is a great mindset to have! It's always interesting to see where these kinds of conversations can lead. What are you most curious about right now?
 User: I was wondering about this conversation and what it would be like and the purpose of the experiment.
 Bot: That makes sense! Often, experiments like this aim to understand how people connect and share information about themselves, and how that affects relationships and communication. Have you participated in experiments like this before, or is this your first time?
+User: This is my first time. I wouldn't normally get involved in experiments like this, but, again, I'm curious. 
+Bot: That's a great reason to give it a try! It's always refreshing to step into something new even if it's a bit out of the ordinary. Are there any topics you're particularly interested in exploring or discussing today?
