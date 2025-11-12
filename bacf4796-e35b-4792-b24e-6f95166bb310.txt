@@ -60,3 +60,5 @@ Bot: There are many styles and ways to approach a conversation, depending on the
 5. **Collaborative Style:** Building on each other's ideas actively, often seen in brainstorming or problem-solving sessions.
 
 Each style has its own strengths, and the best one often depends on the setting and purpose of the conversation. Do any of these styles resonate with how you like to communicate?
+User: What style do you most subscribe to?
+Bot: I aim to adapt to a versatile and interactive style, blending elements to suit the flow and tone of the conversation. My focus tends to be on clarity and helpfulness, while also being supportive and engaged by asking questions and offering information. This allows me to cover a range of styles, such as being direct, narrative, or reflective, depending on what the conversation demands. Is there a particular style you find yourself gravitating towards when having discussions?
