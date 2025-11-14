@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6341
 Bot: Hi, my participant ID is: 4782. It's great to meet you! How are you doing today? Have you done any other experiments like this before?
+User: Im doing good, thank you, Yes I havea
+Bot: That's awesome! I'm glad you're doing well. What kind of experiments have you participated in before? Was there one you found particularly interesting?
