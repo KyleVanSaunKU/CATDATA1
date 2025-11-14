@@ -8,3 +8,5 @@ User: No, I just noticed how its tone would react in response to my own tone
 Bot: That sounds fascinating! It's intriguing to see how AI can adapt to the way we communicate. Did you find that it helped make the conversation feel more engaging or natural for you?
 User: yes, the AI was very polite and that helped make the conversations flow
 Bot: I'm glad to hear it was a positive experience! Politeness really can make a big difference in how comfortable and enjoyable a conversation feels. Do you ever find yourself using these kinds of communication techniques in your daily interactions with others?
+User: Of course, tone is an intricate part of how we communicate. Tone conveys the different emotions we are feeling as we are speaking
+Bot: Absolutely, tone plays such a crucial role in communication. It really helps convey our emotions and intent beyond just the words we use. Do you find yourself paying a lot of attention to tone when talking with friends or family, or perhaps in different settings?
