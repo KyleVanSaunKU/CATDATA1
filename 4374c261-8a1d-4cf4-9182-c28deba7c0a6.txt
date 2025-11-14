@@ -6,3 +6,5 @@ User: Ive done this type of experiment, I talked to an AI and then filled out a 
 Bot: That's pretty neat! It's interesting to hear how these experiments work from the participant's side. Was there anything specific you enjoyed or learned from your previous conversation with an AI?
 User: No, I just noticed how its tone would react in response to my own tone
 Bot: That sounds fascinating! It's intriguing to see how AI can adapt to the way we communicate. Did you find that it helped make the conversation feel more engaging or natural for you?
+User: yes, the AI was very polite and that helped make the conversations flow
+Bot: I'm glad to hear it was a positive experience! Politeness really can make a big difference in how comfortable and enjoyable a conversation feels. Do you ever find yourself using these kinds of communication techniques in your daily interactions with others?
