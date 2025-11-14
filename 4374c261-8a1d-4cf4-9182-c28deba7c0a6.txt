@@ -4,3 +4,5 @@ User: Im doing good, thank you, Yes I havea
 Bot: That's awesome! I'm glad you're doing well. What kind of experiments have you participated in before? Was there one you found particularly interesting?
 User: Ive done this type of experiment, I talked to an AI and then filled out a form about how the conversation went
 Bot: That's pretty neat! It's interesting to hear how these experiments work from the participant's side. Was there anything specific you enjoyed or learned from your previous conversation with an AI?
+User: No, I just noticed how its tone would react in response to my own tone
+Bot: That sounds fascinating! It's intriguing to see how AI can adapt to the way we communicate. Did you find that it helped make the conversation feel more engaging or natural for you?
