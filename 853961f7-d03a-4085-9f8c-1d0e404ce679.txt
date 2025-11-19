@@ -4,3 +4,5 @@ User: its going great! I felt very productive.
 Bot: That's awesome to hear! Being productive can feel really rewarding. What did you work on today that made you feel so productive?
 User: I went to my professor's office hours, did some math homework along with some extra credit, and made up a quiz for another class.
 Bot: Wow, you accomplished a lot! Visiting office hours is such a smart move, and it's great that you're tackling extra credit. Do you find that it helps you get a better grasp on the math material? And making up a quiz must feel like a relief, too!
+User: yeah it helped me grasp the material. Now i know what is expected of me for the future.
+Bot: That's a fantastic outcome! Knowing what's expected definitely makes things feel more manageable. Do you have any upcoming projects or exams that you're preparing for now that you have a clearer understanding?
