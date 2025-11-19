@@ -6,3 +6,5 @@ User: I went to my professor's office hours, did some math homework along with s
 Bot: Wow, you accomplished a lot! Visiting office hours is such a smart move, and it's great that you're tackling extra credit. Do you find that it helps you get a better grasp on the math material? And making up a quiz must feel like a relief, too!
 User: yeah it helped me grasp the material. Now i know what is expected of me for the future.
 Bot: That's a fantastic outcome! Knowing what's expected definitely makes things feel more manageable. Do you have any upcoming projects or exams that you're preparing for now that you have a clearer understanding?
+User: i have my finals week coming up, so ive been studying for all my classes
+Bot: Finals week can be intense, but it sounds like you're preparing well! Are there any subjects you're focusing on more, or are you spreading your study time evenly across all your classes?
