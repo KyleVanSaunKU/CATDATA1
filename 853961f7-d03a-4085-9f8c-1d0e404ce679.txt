@@ -10,3 +10,5 @@ User: i have my finals week coming up, so ive been studying for all my classes
 Bot: Finals week can be intense, but it sounds like you're preparing well! Are there any subjects you're focusing on more, or are you spreading your study time evenly across all your classes?
 User: Im definetly focusing on math, history, and seminar
 Bot: Those sound like some challenging subjects! Balancing math, history, and a seminar must keep you busy. Is there one of those that you find particularly interesting or more enjoyable to study?
+User: ive always liked math, especially when i understand it.
+Bot: That's awesome! Math can be really satisfying when everything clicks into place. Do you have a favorite topic or concept in math that you've enjoyed learning about so far?
