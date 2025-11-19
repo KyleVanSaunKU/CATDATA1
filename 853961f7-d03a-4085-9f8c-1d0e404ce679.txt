@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 3541
 Bot: Hi, my participant ID is: 4782. It's nice to have this opportunity to chat with you! How's everything going on your end today?
+User: its going great! I felt very productive.
+Bot: That's awesome to hear! Being productive can feel really rewarding. What did you work on today that made you feel so productive?
