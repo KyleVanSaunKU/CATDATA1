@@ -8,3 +8,5 @@ User: yeah it helped me grasp the material. Now i know what is expected of me fo
 Bot: That's a fantastic outcome! Knowing what's expected definitely makes things feel more manageable. Do you have any upcoming projects or exams that you're preparing for now that you have a clearer understanding?
 User: i have my finals week coming up, so ive been studying for all my classes
 Bot: Finals week can be intense, but it sounds like you're preparing well! Are there any subjects you're focusing on more, or are you spreading your study time evenly across all your classes?
+User: Im definetly focusing on math, history, and seminar
+Bot: Those sound like some challenging subjects! Balancing math, history, and a seminar must keep you busy. Is there one of those that you find particularly interesting or more enjoyable to study?
