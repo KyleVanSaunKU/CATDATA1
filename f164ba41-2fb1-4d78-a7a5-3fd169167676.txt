@@ -24,3 +24,5 @@ User: KU
 Bot: Kansas has a great basketball program! The Jayhawks always put on a good show. Have you been able to catch any of their games this season?
 User: Yup
 Bot: That's awesome! Watching games live is such a thrill. Did you have a favorite moment from this season so far?
+User: no
+Bot: Got it, sometimes it's all about enjoying the whole season rather than just one moment. Do you like to play basketball yourself, or do you prefer to watch?
