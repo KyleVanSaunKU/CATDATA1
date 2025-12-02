@@ -12,3 +12,5 @@ User: I like jayhawk boulevard just because of how pretty is it
 Bot: Jayhawk Boulevard sounds lovely! It's always nice to have such a scenic pathway, especially when you can enjoy the surroundings. Do you find that walking there helps you relax or maybe even think over schoolwork?
 User: yes, i find it is very relaxing and it helps motivate me more. 
 Bot: That’s great to hear! Having a peaceful spot that motivates you can make such a difference. Do you usually listen to music or anything while you walk, or do you prefer to just take in the atmosphere?
+User: goodbye
+Bot: Goodbye! It was really nice talking with you. Take care!
