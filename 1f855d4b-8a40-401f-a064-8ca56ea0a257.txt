@@ -6,3 +6,5 @@ User: Lots of school work prepping for final how about you what is your name
 Bot: Sounds like a busy time for you! My name is Assistant. I’m here to chat and help out. How are you feeling about your finals? 
 User: Help me out with what? I am nervous for them 
 Bot: I can offer some tips or just chat to help ease the nerves. Feeling nervous is totally normal, though. Do you have a specific study routine you follow? 
+User: I just kind of go with the flow of things and take breaks often so I do not burn out how do u like to study
+Bot: Going with the flow and taking breaks sounds like a wise approach. If I had to choose a study style, I'd say I would focus on breaking things down into smaller, manageable chunks and maybe use flashcards or summaries to reinforce learning. Do you have a favorite subject you're preparing for?
