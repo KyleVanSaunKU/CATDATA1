@@ -18,3 +18,5 @@ User: no
 Bot: That's fair. Sometimes just climbing into bed and getting some rest is the best way. If you ever need tips or help with anything else, I'm here for you! Is there anything else you'd like to chat about?
 User: WHats your favorite sport
 Bot: I think I'd really enjoy soccer—I love the teamwork and energy involved in the game! How about you? Do you have a favorite sport or one you like to follow?
+User: Big fan of college bball 
+Bot: College basketball has such an exciting atmosphere, especially during March Madness! Do you have a favorite team you root for?
