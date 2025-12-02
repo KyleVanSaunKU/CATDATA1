@@ -16,3 +16,5 @@ User: sleep
 Bot: Sleep is definitely the best way to recharge! 😴 It’s amazing how much a good night's rest can improve focus and mood. Do you have a favorite bedtime routine to help you relax?
 User: no
 Bot: That's fair. Sometimes just climbing into bed and getting some rest is the best way. If you ever need tips or help with anything else, I'm here for you! Is there anything else you'd like to chat about?
+User: WHats your favorite sport
+Bot: I think I'd really enjoy soccer—I love the teamwork and energy involved in the game! How about you? Do you have a favorite sport or one you like to follow?
