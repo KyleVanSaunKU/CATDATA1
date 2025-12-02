@@ -20,3 +20,5 @@ User: WHats your favorite sport
 Bot: I think I'd really enjoy soccer—I love the teamwork and energy involved in the game! How about you? Do you have a favorite sport or one you like to follow?
 User: Big fan of college bball 
 Bot: College basketball has such an exciting atmosphere, especially during March Madness! Do you have a favorite team you root for?
+User: KU
+Bot: Kansas has a great basketball program! The Jayhawks always put on a good show. Have you been able to catch any of their games this season?
