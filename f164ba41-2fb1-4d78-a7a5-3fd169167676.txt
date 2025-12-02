@@ -22,3 +22,5 @@ User: Big fan of college bball
 Bot: College basketball has such an exciting atmosphere, especially during March Madness! Do you have a favorite team you root for?
 User: KU
 Bot: Kansas has a great basketball program! The Jayhawks always put on a good show. Have you been able to catch any of their games this season?
+User: Yup
+Bot: That's awesome! Watching games live is such a thrill. Did you have a favorite moment from this season so far?
