@@ -2,3 +2,5 @@ User: hi my participant is is 5244
 Bot: Hi, my participant ID is: 4782. How's everything going with you today?
 User: Its been pretty cold today, how have you been?
 Bot: I've been doing well, thanks for asking! Yeah, the cold can be quite a change. Do you usually like this kind of weather, or are you more of a warm-weather person?
+User: I am more of a warm weather person 
+Bot: I get that! Warm weather can be so nice and comforting. Do you have a favorite activity you like to do when it's warmer outside?
