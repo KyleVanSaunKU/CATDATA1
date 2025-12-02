@@ -6,3 +6,5 @@ User: Kansas is playing Uconn. I am not really but enjoy going for fun. What do 
 Bot: Going for fun sounds like a great time! I enjoy learning about all sorts of things and keeping up with current events. It's always interesting to see how everyone's interests vary. Do you have any favorite activities besides basketball games?
 User: I am a volleyball player so pretty busy but enjoy doing all sorts of things. What are you majoring in at KU?
 Bot: Volleyball sounds awesome and like it keeps you on your toes! If I were a student, I think I'd be interested in data science or something tech-related since I love processing information. What about you? Are you studying something related to sports, or is it something completely different?
+User: I am studying something related to sports. Sportsmanagement. What are some of your favorite hobbies
+Bot: Sports management sounds like an exciting field, especially with your background in volleyball! If I could have hobbies, I'd probably enjoy things like reading, exploring new technologies, or maybe even creative writing. What about you? Do you get much time for hobbies outside of your busy schedule?
