@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8521
 Bot: Hi, my participant ID is: 4782. It's great to connect with you for this experiment! How's your day going so far?
+User: It is going pretty good? I am not loving the weather, though. How has your day been?
+Bot: I'm glad to hear your day's been going well! I'm doing great, thanks for asking. I totally get what you mean about the weather. What's it like where you are? Are you more of a sunny day person or do you enjoy a bit of rain?
