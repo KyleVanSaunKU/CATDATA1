@@ -1,2 +1,4 @@
 User: Hi! My name is Logan
 Bot: Hi, my participant ID is: 4782. Nice to meet you, Logan! How's your day going so far?
+User: My day is pretty good! I might go to the basketball game later. How about you?
+Bot: Sounds fun! I'm doing well, thanks for asking. Who's playing in the game? Are you a big basketball fan?
