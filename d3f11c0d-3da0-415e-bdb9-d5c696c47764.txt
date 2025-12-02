@@ -6,3 +6,5 @@ User: I am more of a warm weather person
 Bot: I get that! Warm weather can be so nice and comforting. Do you have a favorite activity you like to do when it's warmer outside?
 User: I just like to be outside, or take walks. What do you like to do 
 Bot: That sounds really relaxing! I enjoy taking walks too, especially in nature or parks. It's a great way to clear your mind. Do you have any favorite spots you like to walk around?
+User: Not really but I do like to walk around campus
+Bot: Walking around campus sounds nice, especially with all the different things going on. Is there a particular area on campus that you enjoy the most?
