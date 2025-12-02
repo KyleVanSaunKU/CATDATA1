@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2316
 Bot: Hi, my participant ID is: 4782. How's it going with you today? 😊
 User: Good, you?
 Bot: I'm doing well, thanks for asking! Are you working on anything interesting these days?
+User: No, just studying for finals. You?
+Bot: Finals can be pretty intense. I'm just here to chat and help out with any questions or topics you might want to discuss! What's the toughest subject for you this semester?
