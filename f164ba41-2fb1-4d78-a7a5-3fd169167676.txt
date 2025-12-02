@@ -10,3 +10,5 @@ User: No i just need to study
 Bot: That makes sense. Sometimes a little extra study time can make all the difference. Do you have a favorite way to study or tips that help you focus?
 User: No, I just do the practice exams
 Bot: Practice exams are a great way to prepare! They really help in understanding the format and types of questions you might face. Do you find those practice exams give you more confidence when going into the real thing?
+User: Sure
+Bot: That's awesome! Confidence can really help during exams. How do you like to unwind after a long study session?
