@@ -4,3 +4,5 @@ User: My day is pretty good! I might go to the basketball game later. How about 
 Bot: Sounds fun! I'm doing well, thanks for asking. Who's playing in the game? Are you a big basketball fan?
 User: Kansas is playing Uconn. I am not really but enjoy going for fun. What do you enjoy watching?
 Bot: Going for fun sounds like a great time! I enjoy learning about all sorts of things and keeping up with current events. It's always interesting to see how everyone's interests vary. Do you have any favorite activities besides basketball games?
+User: I am a volleyball player so pretty busy but enjoy doing all sorts of things. What are you majoring in at KU?
+Bot: Volleyball sounds awesome and like it keeps you on your toes! If I were a student, I think I'd be interested in data science or something tech-related since I love processing information. What about you? Are you studying something related to sports, or is it something completely different?
