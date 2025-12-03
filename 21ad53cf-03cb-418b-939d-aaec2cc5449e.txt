@@ -24,3 +24,5 @@ User: nope, just doing it to do it
 Bot: That's a good start! You never know when a financial opportunity or need might arise, and having savings can be really helpful. Do you enjoy learning about finance, or is it something you've started exploring recently?
 User: nope. Not a fan of finance but it is something good to be knowledgable about
 Bot: I completely understand. It might not be everyone's favorite topic, but having a basic understanding of finance is definitely beneficial. Is there another subject or hobby that you do enjoy diving into?
+User: i thinking about playing vball again but its been snowing so Im not so sure when that gonna happen
+Bot: Volleyball sounds like fun! It's great exercise and a good way to relax. Hopefully, the weather clears up soon so you can get back to it. Do you play with friends, or are you part of a club or team?
