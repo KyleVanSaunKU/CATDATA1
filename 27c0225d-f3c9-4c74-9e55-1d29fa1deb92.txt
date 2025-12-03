@@ -6,3 +6,5 @@ User: I'm fairly confident in all my finals, but if there was one I was dreading
 Bot: Calculus 2 can definitely be challenging! It's great that you feel confident overall, though. Are there any specific topics in Calculus 2 that you find tricky, or is it just the subject as a whole?
 User: It's just that it's cumulative, so that can be challenging just from a memory standpoint.
 Bot: Absolutely, cumulative exams can definitely be a bit overwhelming since they cover so much material. Do you have any strategies or techniques that you use to help with remembering all the content?
+User: I mostly just take a closed note practice exam, then go over my notes to find the trouble areas.
+Bot: That sounds like a solid strategy! Practice exams are a great way to simulate the actual testing experience and pinpoint areas to focus on. Do you find it helps to study with others, or do you prefer going it alone?
