@@ -8,3 +8,5 @@ User: me too, i work tonight though but i love my job!
 Bot: That’s awesome! Loving your job makes such a difference. What do you do, if you don’t mind me asking?
 User: im a server at a restaurant!
 Bot: That sounds like a great job, especially if you enjoy interacting with people. Do you have a favorite part about being a server?
+User: probably the amount of money i can make in a night, do you have a job?
+Bot: That’s definitely a big plus! I’m actually designed to assist and chat with people like you. So, in a way, this is my “job,” and I enjoy every conversation I have.
