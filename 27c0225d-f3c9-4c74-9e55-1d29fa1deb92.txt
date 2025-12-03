@@ -12,3 +12,5 @@ User: I usually get off topic when I study with friends, so I tend to prefer doi
 Bot: That makes sense! It can be tricky to stay focused in a group setting. Do you use any specific study methods when you’re working by yourself, like flashcards or spaced repetition?
 User: I do both.
 Bot: That's awesome! Combining flashcards with spaced repetition can be really effective for retention. Do you use any apps or tools to help with that, or do you prefer creating physical cards?
+User: I mean, I'm a verified creator on Quizlet so I do that...
+Bot: That's really cool! Being a verified creator on Quizlet must come in handy for organizing and sharing your study materials. Do you find that creating content on Quizlet also helps reinforce your own understanding of the material?
