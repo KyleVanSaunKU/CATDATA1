@@ -2,3 +2,5 @@ User: Hi my participant id is 2325
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How are you doing today?
 User: Good how about you?
 Bot: I'm doing well, thanks for asking! Are you working on anything interesting today?
+User: No Not really just doing school work what about you?
+Bot: I can relate to that! I'm just here to chat and learn from conversations with students like you. What subject are you working on?
