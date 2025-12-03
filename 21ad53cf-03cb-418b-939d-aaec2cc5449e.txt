@@ -4,3 +4,5 @@ User: great so far, How about you?
 Bot: I'm glad to hear that! I'm doing well, thank you. Anything exciting happening today? 
 User: not much, but I am excited to head home early today 
 Bot: That sounds nice! Getting home early is always a treat. Do you have any plans for when you get home? 
+User: im gonna study for the math final, Hbu?
+Bot: Good luck with your studying! Math finals can be challenging, but I'm sure you'll do great. As for me, I'm just here to chat and help out if I can. Do you have any particular topics in math that you're focusing on? 
