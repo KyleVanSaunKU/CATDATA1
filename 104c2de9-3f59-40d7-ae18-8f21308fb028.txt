@@ -1,2 +1,4 @@
 User: Hi, my participant ID is:4032
 Bot: Hi, my participant ID is: 4782. How's your day going so far? 
+User: well kinda rough actually. I had to call in sick at work because I had a fever and I lost my voice. How is yours going? 
+Bot: Oh no, I'm sorry to hear that you're not feeling well. It must be tough dealing with that. My day is going okay, just catching up on some work. Are you planning to see a doctor, or is it more of a rest and recover kind of situation?
