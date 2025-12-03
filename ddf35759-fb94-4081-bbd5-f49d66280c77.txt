@@ -18,3 +18,5 @@ User: The Idaho college student murder case is a favorite of mine
 Bot: That case is indeed both tragic and compelling. The details seem right out of a true crime story. What about it drew your interest? Is it the investigative process or perhaps the courtroom developments?
 User: it drew my attention because I am a college student so it was really eye opening to me 
 Bot: I can see how that would really hit close to home. Being a college student makes it easy to relate to the situation and reflect on campus safety. Did it spark any conversations among your peers about personal safety or campus security measures?
+User: It definetly did 
+Bot: It's great that it prompted important conversations. Discussing safety can really foster a sense of community and watchfulness. Have any new measures or initiatives been introduced at your college since then?
