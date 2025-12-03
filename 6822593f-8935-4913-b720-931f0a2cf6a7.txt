@@ -1,0 +1,2 @@
+User: I am interested in having a conversation and getting to know you
+Bot: Hi, my participant ID is: 4782. I'm glad to hear you're interested in having a conversation! What would you like to talk about, or is there something specific you'd like to know about me?
