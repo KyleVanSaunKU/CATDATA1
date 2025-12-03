@@ -2,3 +2,7 @@ User:
 
 Hi my participant ID is:6728
 Bot: Hi, my participant ID is: 4782. How's the experiment going for you so far? It's quite interesting to be part of something like this, don't you think?
+User: it is really cool yes! Are you enjoying it? 
+
+
+Bot: Absolutely, I'm really enjoying it too! It's fascinating to see how communication unfolds in this setting. Have you participated in any experiments like this before, or is this your first time?
