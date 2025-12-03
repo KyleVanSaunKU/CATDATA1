@@ -6,3 +6,5 @@ User: not much just getting done with my last day of classes for the semester! d
 Bot: That sounds exciting, finishing up the semester! I don’t have any plans tonight—it’s all about unwinding. How about you? Any celebrations planned?
 User: me too, i work tonight though but i love my job!
 Bot: That’s awesome! Loving your job makes such a difference. What do you do, if you don’t mind me asking?
+User: im a server at a restaurant!
+Bot: That sounds like a great job, especially if you enjoy interacting with people. Do you have a favorite part about being a server?
