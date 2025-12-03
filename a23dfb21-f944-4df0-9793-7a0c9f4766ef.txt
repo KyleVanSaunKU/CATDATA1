@@ -8,3 +8,5 @@ User: ACCt 200
 Bot: Accounting, that's interesting! Are you finding the concepts easy to grasp, or is there anything specific you're finding challenging?
 User: It's pretty easy to grasp and get 
 Bot: That's great to hear! It sounds like you have a good handle on it. Are there any particular topics or concepts within accounting that you enjoy more than others?
+User: No not really 
+Bot: That's understandable—sometimes it's just about getting through the material. Do you have any other subjects or hobbies you really enjoy?
