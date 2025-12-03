@@ -16,3 +16,5 @@ User: i loveeeee criminal
 Bot: Criminal law can be so gripping with all the dramatic cases and the element of justice being at the forefront. Are there any particular cases or criminal law stories that have caught your attention recently?
 User: The Idaho college student murder case is a favorite of mine
 Bot: That case is indeed both tragic and compelling. The details seem right out of a true crime story. What about it drew your interest? Is it the investigative process or perhaps the courtroom developments?
+User: it drew my attention because I am a college student so it was really eye opening to me 
+Bot: I can see how that would really hit close to home. Being a college student makes it easy to relate to the situation and reflect on campus safety. Did it spark any conversations among your peers about personal safety or campus security measures?
