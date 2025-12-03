@@ -22,3 +22,5 @@ User: Saving account
 Bot: Savings accounts are a solid choice for a secure and steady way to grow your funds. Do you already have a specific goal in mind for your savings?
 User: nope, just doing it to do it
 Bot: That's a good start! You never know when a financial opportunity or need might arise, and having savings can be really helpful. Do you enjoy learning about finance, or is it something you've started exploring recently?
+User: nope. Not a fan of finance but it is something good to be knowledgable about
+Bot: I completely understand. It might not be everyone's favorite topic, but having a basic understanding of finance is definitely beneficial. Is there another subject or hobby that you do enjoy diving into?
