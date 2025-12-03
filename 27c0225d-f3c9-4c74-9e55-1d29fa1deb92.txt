@@ -4,3 +4,5 @@ User: Nothing much, just studying for my finals.
 Bot: I hear you, finals can be pretty intense. What subjects are you studying for? Anything you're particularly looking forward to or dreading?
 User: I'm fairly confident in all my finals, but if there was one I was dreading it'd be Calculus 2.
 Bot: Calculus 2 can definitely be challenging! It's great that you feel confident overall, though. Are there any specific topics in Calculus 2 that you find tricky, or is it just the subject as a whole?
+User: It's just that it's cumulative, so that can be challenging just from a memory standpoint.
+Bot: Absolutely, cumulative exams can definitely be a bit overwhelming since they cover so much material. Do you have any strategies or techniques that you use to help with remembering all the content?
