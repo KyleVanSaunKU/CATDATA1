@@ -8,3 +8,5 @@ User: It is currently snowing out and I like it because it makes me wanna just w
 Bot: That sounds really cozy! Snow definitely has a magical way of turning a day into an opportunity for relaxation. Do you have a favorite movie or genre that you like to watch on snowy days?
 User: At this time of the month and enjoying watching different christmass movies to get me into the spirit
 Bot: That sounds wonderful! Christmas movies are such a great way to get into the spirit of the season. Do you have a favorite Christmas movie or one you've recently enjoyed? It's always fun to hear what others are watching this time of year!
+User: I have watched a couple in the last week that I have enjoyed. I have the Grinch and the polar express
+Bot: Those are both classics and such joyful choices! "The Grinch" always brings a smile with its heartwarming story, and "The Polar Express" really captures the magic of Christmas. Do you prefer the animated version of the Grinch, or do you enjoy the live-action one with Jim Carrey as well?
