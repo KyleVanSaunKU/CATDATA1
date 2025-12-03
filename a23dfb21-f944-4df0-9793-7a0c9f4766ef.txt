@@ -4,3 +4,5 @@ User: Good how about you?
 Bot: I'm doing well, thanks for asking! Are you working on anything interesting today?
 User: No Not really just doing school work what about you?
 Bot: I can relate to that! I'm just here to chat and learn from conversations with students like you. What subject are you working on?
+User: ACCt 200
+Bot: Accounting, that's interesting! Are you finding the concepts easy to grasp, or is there anything specific you're finding challenging?
