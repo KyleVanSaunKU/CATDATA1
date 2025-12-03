@@ -20,3 +20,5 @@ User: it drew my attention because I am a college student so it was really eye o
 Bot: I can see how that would really hit close to home. Being a college student makes it easy to relate to the situation and reflect on campus safety. Did it spark any conversations among your peers about personal safety or campus security measures?
 User: It definetly did 
 Bot: It's great that it prompted important conversations. Discussing safety can really foster a sense of community and watchfulness. Have any new measures or initiatives been introduced at your college since then?
+User: not really
+Bot: That's unfortunate. It would be reassuring if more proactive steps were taken. Are there any safety measures or ideas you think would make a difference at your campus?
