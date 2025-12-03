@@ -18,3 +18,5 @@ User: no, nth like that. I looking at band investment
 Bot: Oh, nice! Band investments can be an interesting way to diversify. Are there any particular bands or music projects you're considering investing in?
 User: sry, i meant bank
 Bot: Ah, got it! Bank investments can be a reliable option. Are you looking into savings accounts or maybe something like CDs (Certificates of Deposit) for your investments?
+User: Saving account
+Bot: Savings accounts are a solid choice for a secure and steady way to grow your funds. Do you already have a specific goal in mind for your savings?
