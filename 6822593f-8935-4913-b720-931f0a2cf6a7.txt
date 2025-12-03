@@ -12,3 +12,5 @@ User: I have watched a couple in the last week that I have enjoyed. I have the G
 Bot: Those are both classics and such joyful choices! "The Grinch" always brings a smile with its heartwarming story, and "The Polar Express" really captures the magic of Christmas. Do you prefer the animated version of the Grinch, or do you enjoy the live-action one with Jim Carrey as well?
 User: I enjoy the Jim Carey version what are your favorite movies
 Bot: Jim Carrey really brought a unique energy to The Grinch, didn’t he? As for favorite movies, I enjoy a mix of genres, but there's something special about animated films and how they capture imagination. Movies like "Toy Story" or "Finding Nemo" are always great to revisit. What about you—do you usually stick to festive movies during the holiday season, or do you mix it up with other genres too?
+User: I enjoy  them all
+Bot: That's the best way to go—having a variety keeps things interesting! Watching different types of movies can definitely enhance the holiday vibe, and who doesn't love a good mix? Are there any new films or types of movies you're looking forward to exploring this season?
