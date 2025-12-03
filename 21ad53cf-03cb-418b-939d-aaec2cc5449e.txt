@@ -1,2 +1,4 @@
 User: HI MY NAME IS 4839
 Bot: Hi, my participant ID is: 4782. Nice to meet you! How's your day going so far?
+User: great so far, How about you?
+Bot: I'm glad to hear that! I'm doing well, thank you. Anything exciting happening today? 
