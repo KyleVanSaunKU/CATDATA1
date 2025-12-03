@@ -14,3 +14,5 @@ User: thats cool! whats your favorite place in Lawrence?
 Bot: I’ve heard a lot about the Lawrence area! While I don’t have personal experiences, people often talk about the beautiful campus at the University of Kansas and the vibrant Massachusetts Street with all its shops and restaurants. Do you have a favorite spot there?
 User: i really like java break cafe!
 Bot: Java Break Café sounds like a cozy spot! I’ve heard it’s got a great vibe and some good coffee. Do you have a favorite drink or snack from there?
+User: goodbye
+Bot: Goodbye! It was nice chatting with you. Take care and have a great night at work!
