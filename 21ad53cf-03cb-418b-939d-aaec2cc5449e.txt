@@ -6,3 +6,5 @@ User: not much, but I am excited to head home early today
 Bot: That sounds nice! Getting home early is always a treat. Do you have any plans for when you get home? 
 User: im gonna study for the math final, Hbu?
 Bot: Good luck with your studying! Math finals can be challenging, but I'm sure you'll do great. As for me, I'm just here to chat and help out if I can. Do you have any particular topics in math that you're focusing on? 
+User: No, Im just trying to remember what each unit taught
+Bot: That makes sense, reviewing each unit can really help tie everything together. Do you have a favorite unit or topic from the course that you enjoyed the most?
