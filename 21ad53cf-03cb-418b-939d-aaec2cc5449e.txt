@@ -8,3 +8,5 @@ User: im gonna study for the math final, Hbu?
 Bot: Good luck with your studying! Math finals can be challenging, but I'm sure you'll do great. As for me, I'm just here to chat and help out if I can. Do you have any particular topics in math that you're focusing on? 
 User: No, Im just trying to remember what each unit taught
 Bot: That makes sense, reviewing each unit can really help tie everything together. Do you have a favorite unit or topic from the course that you enjoyed the most?
+User: i think....... i really enjoy compound interest 
+Bot: Compound interest is a fascinating topic! It's amazing how small, regular investments can grow over time. Are you thinking about how this might apply to real-life situations, like savings or investments?
