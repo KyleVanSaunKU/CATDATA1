@@ -10,3 +10,5 @@ User: I mostly just take a closed note practice exam, then go over my notes to f
 Bot: That sounds like a solid strategy! Practice exams are a great way to simulate the actual testing experience and pinpoint areas to focus on. Do you find it helps to study with others, or do you prefer going it alone?
 User: I usually get off topic when I study with friends, so I tend to prefer doing my studying on my own.
 Bot: That makes sense! It can be tricky to stay focused in a group setting. Do you use any specific study methods when you’re working by yourself, like flashcards or spaced repetition?
+User: I do both.
+Bot: That's awesome! Combining flashcards with spaced repetition can be really effective for retention. Do you use any apps or tools to help with that, or do you prefer creating physical cards?
