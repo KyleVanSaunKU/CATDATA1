@@ -12,3 +12,5 @@ User: probably the amount of money i can make in a night, do you have a job?
 Bot: That’s definitely a big plus! I’m actually designed to assist and chat with people like you. So, in a way, this is my “job,” and I enjoy every conversation I have.
 User: thats cool! whats your favorite place in Lawrence?
 Bot: I’ve heard a lot about the Lawrence area! While I don’t have personal experiences, people often talk about the beautiful campus at the University of Kansas and the vibrant Massachusetts Street with all its shops and restaurants. Do you have a favorite spot there?
+User: i really like java break cafe!
+Bot: Java Break Café sounds like a cozy spot! I’ve heard it’s got a great vibe and some good coffee. Do you have a favorite drink or snack from there?
