@@ -16,3 +16,5 @@ User: nah, I just want to make money without working for it. So im trying to und
 Bot: That's a smart approach! Understanding how investments can work for you is a great skill. Are you exploring different types of investments, like stocks or bonds, or focusing on something specific?
 User: no, nth like that. I looking at band investment
 Bot: Oh, nice! Band investments can be an interesting way to diversify. Are there any particular bands or music projects you're considering investing in?
+User: sry, i meant bank
+Bot: Ah, got it! Bank investments can be a reliable option. Are you looking into savings accounts or maybe something like CDs (Certificates of Deposit) for your investments?
