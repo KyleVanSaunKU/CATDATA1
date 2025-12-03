@@ -8,3 +8,5 @@ User: It's just that it's cumulative, so that can be challenging just from a mem
 Bot: Absolutely, cumulative exams can definitely be a bit overwhelming since they cover so much material. Do you have any strategies or techniques that you use to help with remembering all the content?
 User: I mostly just take a closed note practice exam, then go over my notes to find the trouble areas.
 Bot: That sounds like a solid strategy! Practice exams are a great way to simulate the actual testing experience and pinpoint areas to focus on. Do you find it helps to study with others, or do you prefer going it alone?
+User: I usually get off topic when I study with friends, so I tend to prefer doing my studying on my own.
+Bot: That makes sense! It can be tricky to stay focused in a group setting. Do you use any specific study methods when you’re working by yourself, like flashcards or spaced repetition?
