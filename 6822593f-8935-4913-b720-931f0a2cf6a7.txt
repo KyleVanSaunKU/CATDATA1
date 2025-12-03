@@ -6,3 +6,5 @@ User: I am doing great enjoying the weather how has your day been
 Bot: I'm so glad to hear you're enjoying the weather! My day has been pretty good, thank you for asking. It's always nice to hear about someone having a pleasant day. Is there a particular type of weather you enjoy the most?
 User: It is currently snowing out and I like it because it makes me wanna just watch a movie and sit inside and relax
 Bot: That sounds really cozy! Snow definitely has a magical way of turning a day into an opportunity for relaxation. Do you have a favorite movie or genre that you like to watch on snowy days?
+User: At this time of the month and enjoying watching different christmass movies to get me into the spirit
+Bot: That sounds wonderful! Christmas movies are such a great way to get into the spirit of the season. Do you have a favorite Christmas movie or one you've recently enjoyed? It's always fun to hear what others are watching this time of year!
