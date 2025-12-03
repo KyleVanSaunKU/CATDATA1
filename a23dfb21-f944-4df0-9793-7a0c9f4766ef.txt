@@ -6,3 +6,5 @@ User: No Not really just doing school work what about you?
 Bot: I can relate to that! I'm just here to chat and learn from conversations with students like you. What subject are you working on?
 User: ACCt 200
 Bot: Accounting, that's interesting! Are you finding the concepts easy to grasp, or is there anything specific you're finding challenging?
+User: It's pretty easy to grasp and get 
+Bot: That's great to hear! It sounds like you have a good handle on it. Are there any particular topics or concepts within accounting that you enjoy more than others?
