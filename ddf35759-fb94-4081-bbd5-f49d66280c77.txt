@@ -14,3 +14,5 @@ User: I enjoy law related things so that made it interesting
 Bot: That's awesome! Law can be such a captivating field with all its complexities and nuances. Do you have a specific area of law that interests you the most, like criminal law or maybe something like intellectual property?
 User: i loveeeee criminal
 Bot: Criminal law can be so gripping with all the dramatic cases and the element of justice being at the forefront. Are there any particular cases or criminal law stories that have caught your attention recently?
+User: The Idaho college student murder case is a favorite of mine
+Bot: That case is indeed both tragic and compelling. The details seem right out of a true crime story. What about it drew your interest? Is it the investigative process or perhaps the courtroom developments?
