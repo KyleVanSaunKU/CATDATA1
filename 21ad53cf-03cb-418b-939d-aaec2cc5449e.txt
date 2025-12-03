@@ -10,3 +10,5 @@ User: No, Im just trying to remember what each unit taught
 Bot: That makes sense, reviewing each unit can really help tie everything together. Do you have a favorite unit or topic from the course that you enjoyed the most?
 User: i think....... i really enjoy compound interest 
 Bot: Compound interest is a fascinating topic! It's amazing how small, regular investments can grow over time. Are you thinking about how this might apply to real-life situations, like savings or investments?
+User: yeaa totally!
+Bot: That's awesome! It's a valuable concept when planning for the future. Are you interested in personal finance or investing as a career, or is it more of a personal interest for you?
