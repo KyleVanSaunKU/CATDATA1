@@ -2,3 +2,5 @@ User: hi my participant id is 3702
 Bot: Hi, my participant ID is: 4782. How's your day going so far?
 User: its going pretty good how is yours
 Bot: It's going well, thanks for asking! Have you been up to anything interesting today?
+User: not much just getting done with my last day of classes for the semester! do you have any plans tonight
+Bot: That sounds exciting, finishing up the semester! I don’t have any plans tonight—it’s all about unwinding. How about you? Any celebrations planned?
