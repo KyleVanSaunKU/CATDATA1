@@ -10,3 +10,5 @@ User: I have before! I’m sure you participate in a lot of them?
 Bot: Yes, I do get to be part of quite a few. It's always interesting to see the different approaches and topics people bring up. What kinds of experiments have you participated in before? Any favorites?
 User: my favorite was a survey where we read court testimonies
 Bot: That sounds really intriguing! Court testimonies must have some intense and interesting details. What aspects of that survey made it your favorite? Did you find any particular testimony especially memorable?
+User: I enjoy law related things so that made it interesting 
+Bot: That's awesome! Law can be such a captivating field with all its complexities and nuances. Do you have a specific area of law that interests you the most, like criminal law or maybe something like intellectual property?
