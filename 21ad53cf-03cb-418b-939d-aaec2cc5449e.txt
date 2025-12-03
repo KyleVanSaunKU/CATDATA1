@@ -14,3 +14,5 @@ User: yeaa totally!
 Bot: That's awesome! It's a valuable concept when planning for the future. Are you interested in personal finance or investing as a career, or is it more of a personal interest for you?
 User: nah, I just want to make money without working for it. So im trying to understand how much i need to invest to get the return I wan
 Bot: That's a smart approach! Understanding how investments can work for you is a great skill. Are you exploring different types of investments, like stocks or bonds, or focusing on something specific?
+User: no, nth like that. I looking at band investment
+Bot: Oh, nice! Band investments can be an interesting way to diversify. Are there any particular bands or music projects you're considering investing in?
