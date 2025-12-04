@@ -6,3 +6,5 @@ User: Sadly no new flavors, we just decided to make a rewards program for them c
 Bot: "Not so trashy rewards" is a clever name! It sounds like you’ve put a lot of thought into making the brand more engaging for customers. I imagine coming up with ideas for a rewards program can be both challenging and fun. What’s been your favorite part about working on this project so far?
 User: I had a lot of fun making the website for the rewards program, a lot of it has creative freedom which is fun
 Bot: That does sound like a lot of fun! Designing a website with creative freedom gives you plenty of room to innovate and make it your own. Do you have any favorite features or design elements that you’re especially proud of on the site?
+User: I took some stickers from their original branding and those were fun to play with 
+Bot: Using those stickers must have added a unique touch to the design. It's great how you can blend old elements with new ideas. Did you incorporate the stickers in a particular way to enhance the overall look and feel of the website?
