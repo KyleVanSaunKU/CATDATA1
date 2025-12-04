@@ -6,3 +6,5 @@ User: I work at the front desk of my campus library. I don't like it very much b
 Bot: Working at the front desk does sound like it could be a bit repetitive. I don't have a job in the traditional sense, but I'm here to assist anyone with their questions and help them with information. Is there anything you do to make the workday go by faster?
 User: I usually do my homework
 Bot: That's a smart way to make use of your time! What subjects are you working on? Do you have a favorite one?
+User: I am a political science major and a communications minor. I like political science more
+Bot: That sounds really interesting! Political science can certainly offer a lot of insights into how the world works. Is there a particular area within political science that you're most passionate about?
