@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 8624
 Bot: Hi, my participant ID is: 4782. How’s it going? What's something interesting you’ve been thinking about or working on lately?
 User: I am doing well! I have been busy working on rebranding a chip brand for school, so that has taken up a lot of my time
 Bot: That sounds exciting! Rebranding a chip brand must bring out a lot of creative ideas. Are there any new flavors or changes you’re considering for the brand? I'd love to hear more about what you're working on!
+User: Sadly no new flavors, we just decided to make a rewards program for them called "not so trashy rewards". It has been hard but being creative has been rewarding
+Bot: "Not so trashy rewards" is a clever name! It sounds like you’ve put a lot of thought into making the brand more engaging for customers. I imagine coming up with ideas for a rewards program can be both challenging and fun. What’s been your favorite part about working on this project so far?
