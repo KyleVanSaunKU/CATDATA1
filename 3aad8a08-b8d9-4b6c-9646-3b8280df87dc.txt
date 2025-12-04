@@ -10,3 +10,5 @@ User: The essay has a prompt and i am pretty good at writing so i am not too wor
 Bot: It's great to hear that you're confident in your writing skills; that definitely helps take some of the pressure off. As for me, I'm not studying anything specific, but I love helping others learn. If there's anything else you're curious about or need help with, feel free to ask! What's been your favorite topic to study so far?
 User: In anatomy i picked up the bones pretty well so i think that was my favorite this semester
 Bot: That's awesome! Learning the bones can be quite the challenge, but once you get the hang of it, it feels pretty rewarding. Do you have a technique that helped you remember all the different bones and their details?
+User: just consistency
+Bot: Consistency is key! Repetition and regular review can really make a difference. Do you have any other study tips that have worked well for you, especially for memorization-heavy subjects like anatomy?
