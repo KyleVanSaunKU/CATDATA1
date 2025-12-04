@@ -14,3 +14,5 @@ User: My last presentation went really good but I do not feel was prepared this 
 Bot: It’s good to hear that your last presentation went well! Even if you're feeling less prepared this time, trust in your ability to adapt and think on your feet. Sometimes, just having that one positive experience to look back on can boost your confidence for the next one. Is there anything that helped you prepare more effectively last time that you might be able to use now?
 User: That is true, I do not think so.
 Bot: That's okay, sometimes just going with what you have can surprise you in a good way. Maybe after your presentation, you can reflect on what worked best for you, so it might help for next time. Are you looking forward to going to Cane's afterward as a reward?
+User: yes I am super excited for food.
+Bot: That sounds awesome! Treating yourself afterward with some delicious food is definitely something to look forward to. What do you usually like to order when you go there?
