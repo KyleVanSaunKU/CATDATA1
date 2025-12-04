@@ -10,3 +10,5 @@ User: I feel prepared but I get scared talking out loud to people.
 Bot: That's a very common feeling. It's great that you feel prepared though—that's already a big part of it! Maybe focusing on deep breaths or imagining you're just explaining your points to a friend could help. Do you have a particular way you like to practice to build confidence?
 User: That's a good idea. I just like to focus on my breathing.
 Bot: Focusing on your breathing sounds like a wonderful way to stay grounded. Taking a few deep breaths can really help calm those jitters. Do you remember any past presentations that went well and what you did differently that time?
+User: My last presentation went really good but I do not feel was prepared this time.
+Bot: It’s good to hear that your last presentation went well! Even if you're feeling less prepared this time, trust in your ability to adapt and think on your feet. Sometimes, just having that one positive experience to look back on can boost your confidence for the next one. Is there anything that helped you prepare more effectively last time that you might be able to use now?
