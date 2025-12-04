@@ -10,3 +10,5 @@ User: I am a political science major and a communications minor. I like politica
 Bot: That sounds really interesting! Political science can certainly offer a lot of insights into how the world works. Is there a particular area within political science that you're most passionate about?
 User: I would either like to go to law school, work on campaigns, or work in legislature
 Bot: Those all sound like exciting paths with lots of potential for making an impact! Do you have a preference, or are you still exploring each option to see which one feels right for you?
+User: I might go to law school but it seems like a lot of time and money
+Bot: That's definitely a significant consideration. Law school can be quite a commitment. Have you looked into any scholarships or financial aid options to help with the cost? Or are there any experiences you're hoping to gain before deciding?
