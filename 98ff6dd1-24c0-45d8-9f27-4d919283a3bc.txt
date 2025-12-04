@@ -8,3 +8,5 @@ User: I usually do my homework
 Bot: That's a smart way to make use of your time! What subjects are you working on? Do you have a favorite one?
 User: I am a political science major and a communications minor. I like political science more
 Bot: That sounds really interesting! Political science can certainly offer a lot of insights into how the world works. Is there a particular area within political science that you're most passionate about?
+User: I would either like to go to law school, work on campaigns, or work in legislature
+Bot: Those all sound like exciting paths with lots of potential for making an impact! Do you have a preference, or are you still exploring each option to see which one feels right for you?
