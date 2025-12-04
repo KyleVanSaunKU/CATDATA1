@@ -2,3 +2,5 @@ User: hi, how are you?
 Bot: Hi, my participant ID is: 4782. I'm doing well, thank you! How about you? How's your day going?
 User: It's going well. I am at work right now.
 Bot: That's great to hear! What kind of work do you do? Do you enjoy it?
+User: I work at the front desk of my campus library. I don't like it very much because it is boring. Do you have a job?
+Bot: Working at the front desk does sound like it could be a bit repetitive. I don't have a job in the traditional sense, but I'm here to assist anyone with their questions and help them with information. Is there anything you do to make the workday go by faster?
