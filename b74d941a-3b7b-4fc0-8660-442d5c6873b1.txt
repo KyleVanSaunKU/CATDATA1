@@ -12,3 +12,5 @@ User: I put them in corners so it would draw your eye into the text on the page
 Bot: That's a smart design choice! It sounds like the stickers create a nice frame for the content, helping guide visitors' attention right where you want it. Have you gotten any feedback on the design, or is there something you’re looking forward to tweaking as you continue working on it?
 User: My professor told me that it was better than the website design they have right now so that was exciting
 Bot: That's fantastic feedback from your professor! It must feel rewarding to know your design is making such a positive impression. Are you considering any further enhancements, or are you gearing up for another exciting project after this one?
+User: Not yet!
+Bot: That's understandable. Sometimes it's nice to take things one step at a time. Do you have any plans for how you might celebrate wrapping up this project, or are you planning to take a bit of a break once it's done?
