@@ -4,3 +4,5 @@ User: I'm doing good how about you
 Bot: I'm doing well, thanks for asking! Are you studying anything interesting right now?
 User: I am currently taking a break from studying anatomy and writing an essay for english
 Bot: That sounds like a busy schedule! Anatomy can be pretty intense with all those details to remember. How's the essay coming along? What's the topic about?
+User: I haven't started the essay yet but anatomy has been pretty strenuous
+Bot: I totally get that—anatomy can really take a lot out of you. Starting an essay can be challenging too. Do you have a particular topic in mind, or are you still deciding? Sometimes just getting a title down can make it feel less daunting!
