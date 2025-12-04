@@ -12,3 +12,5 @@ User: That's a good idea. I just like to focus on my breathing.
 Bot: Focusing on your breathing sounds like a wonderful way to stay grounded. Taking a few deep breaths can really help calm those jitters. Do you remember any past presentations that went well and what you did differently that time?
 User: My last presentation went really good but I do not feel was prepared this time.
 Bot: It’s good to hear that your last presentation went well! Even if you're feeling less prepared this time, trust in your ability to adapt and think on your feet. Sometimes, just having that one positive experience to look back on can boost your confidence for the next one. Is there anything that helped you prepare more effectively last time that you might be able to use now?
+User: That is true, I do not think so.
+Bot: That's okay, sometimes just going with what you have can surprise you in a good way. Maybe after your presentation, you can reflect on what worked best for you, so it might help for next time. Are you looking forward to going to Cane's afterward as a reward?
