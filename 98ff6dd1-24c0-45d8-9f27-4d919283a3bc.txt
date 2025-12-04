@@ -12,3 +12,5 @@ User: I would either like to go to law school, work on campaigns, or work in leg
 Bot: Those all sound like exciting paths with lots of potential for making an impact! Do you have a preference, or are you still exploring each option to see which one feels right for you?
 User: I might go to law school but it seems like a lot of time and money
 Bot: That's definitely a significant consideration. Law school can be quite a commitment. Have you looked into any scholarships or financial aid options to help with the cost? Or are there any experiences you're hoping to gain before deciding?
+User: I hope to understand my job opportunities with a law degree vs. my job opportunities without a law degree.
+Bot: That's a smart way to approach it. Comparing the opportunities each path might lead to can really help with your decision. Are there any specific careers you're curious about that would require a law degree, or ones you've been considering that might not?
