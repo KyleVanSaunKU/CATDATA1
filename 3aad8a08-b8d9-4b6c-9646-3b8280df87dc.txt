@@ -12,3 +12,5 @@ User: In anatomy i picked up the bones pretty well so i think that was my favori
 Bot: That's awesome! Learning the bones can be quite the challenge, but once you get the hang of it, it feels pretty rewarding. Do you have a technique that helped you remember all the different bones and their details?
 User: just consistency
 Bot: Consistency is key! Repetition and regular review can really make a difference. Do you have any other study tips that have worked well for you, especially for memorization-heavy subjects like anatomy?
+User: well my times up! it was nice talking to you, Goodbye
+Bot: It was great talking to you too! Good luck with your studies, and take care. Goodbye!
