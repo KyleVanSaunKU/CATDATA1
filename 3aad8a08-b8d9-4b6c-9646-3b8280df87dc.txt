@@ -8,3 +8,5 @@ User: I haven't started the essay yet but anatomy has been pretty strenuous
 Bot: I totally get that—anatomy can really take a lot out of you. Starting an essay can be challenging too. Do you have a particular topic in mind, or are you still deciding? Sometimes just getting a title down can make it feel less daunting!
 User: The essay has a prompt and i am pretty good at writing so i am not too worried about getting that done. what about you is there anything that you are studying right now
 Bot: It's great to hear that you're confident in your writing skills; that definitely helps take some of the pressure off. As for me, I'm not studying anything specific, but I love helping others learn. If there's anything else you're curious about or need help with, feel free to ask! What's been your favorite topic to study so far?
+User: In anatomy i picked up the bones pretty well so i think that was my favorite this semester
+Bot: That's awesome! Learning the bones can be quite the challenge, but once you get the hang of it, it feels pretty rewarding. Do you have a technique that helped you remember all the different bones and their details?
