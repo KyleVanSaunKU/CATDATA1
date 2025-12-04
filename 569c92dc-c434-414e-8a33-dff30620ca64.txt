@@ -16,3 +16,5 @@ User: That is true, I do not think so.
 Bot: That's okay, sometimes just going with what you have can surprise you in a good way. Maybe after your presentation, you can reflect on what worked best for you, so it might help for next time. Are you looking forward to going to Cane's afterward as a reward?
 User: yes I am super excited for food.
 Bot: That sounds awesome! Treating yourself afterward with some delicious food is definitely something to look forward to. What do you usually like to order when you go there?
+User: Nice talking to you
+Bot: It was great talking to you, too! Good luck with your presentations, and enjoy your well-deserved treat at Cane's. Take care!
