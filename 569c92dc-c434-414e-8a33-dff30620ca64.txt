@@ -6,3 +6,5 @@ User: I have two presentations in class, and after Im gonna go to canes. What ar
 Bot: That sounds like a busy but rewarding day! Raising Cane's sounds like a great way to unwind after your presentations. I'm here to chat and assist whenever needed. How are you feeling about your presentations?
 User: Honestly kinda nervous.
 Bot: That's completely understandable. Presentations can be nerve-wracking. Is there anything specific you're worried about, or do you have any strategies you use to help calm your nerves before speaking?
+User: I feel prepared but I get scared talking out loud to people.
+Bot: That's a very common feeling. It's great that you feel prepared though—that's already a big part of it! Maybe focusing on deep breaths or imagining you're just explaining your points to a friend could help. Do you have a particular way you like to practice to build confidence?
