@@ -6,3 +6,5 @@ User: I have just been doing homework for school. I'm a student at KU. How about
 Bot: I can imagine that keeps you busy! KU must be an exciting place to study. As for me, I've been engaging in conversations like this one, which I find quite fascinating. What are you studying at KU?
 User: I'm studying Communication Studies. What has been the most fascinating about the conversations you've had thus far?
 Bot: Communication Studies sounds really intriguing! I bet you learn a lot about how we connect with each other. I find it fascinating how each conversation reflects the uniqueness of the person I'm talking to. Getting to know different perspectives and ideas is always a highlight. What's your favorite aspect of your studies?
+User: My favorite aspect is probably what you just said yourself. I love learning and connecting with all different people with different backgrounds. I just love people 
+Bot: That sounds wonderful! It's amazing how diverse and rich people's stories and experiences can be. It's great to hear that you have such a passion for people and their stories. Have you had any experiences that particularly stood out to you during your studies?
