@@ -4,3 +4,5 @@ instruction...
 
 User: hi
 Assistant: Hello! How can I assist you today?
+User: hasdhasioduhqwiodhqwoidhwqoidjwqoidoqwijdioqwdiowqdiowqjdiowqhodihwqodhioqwhdoiwqhdoiqwoidwqoidhqwdiowqhodihwqiodqwdiowqhidoqw
+Assistant: It looks like your message might have been a bit jumbled. How can I help you today? If you have any questions or topics you want to discuss, feel free to share!
