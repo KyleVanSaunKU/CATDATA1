@@ -6,3 +6,5 @@ User: hi
 Assistant: Hello! How can I assist you today?
 User: hasdhasioduhqwiodhqwoidhwqoidjwqoidoqwijdioqwdiowqdiowqjdiowqhodihwqodhioqwhdoiwqhdoiqwoidwqoidhqwdiowqhodihwqiodqwdiowqhidoqw
 Assistant: It looks like your message might have been a bit jumbled. How can I help you today? If you have any questions or topics you want to discuss, feel free to share!
+User: e
+Assistant: It seems like you might have sent a single letter. If you have a question or topic you'd like to discuss, please let me know!
