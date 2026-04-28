@@ -4,3 +4,5 @@ instruction...
 
 User: hi
 Assistant: Hello! How can I assist you today?
+User: is this recorded?
+Assistant: No, this conversation is not recorded. Your privacy is important, and our interaction is not saved. How can I help you today?
